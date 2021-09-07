@@ -1,1 +1,2 @@
-# Smart Mobility Analytics Center (SMAC) at IBSS of XJTLU
+# Smart Mobility Analytics Center (SMAC) 
+Interational Business School Suzhou, Xi'an Jiaotong-Liverpool University
