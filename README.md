@@ -90,11 +90,15 @@ Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business Uni
 
 * Dr. Guoquan Liu, Senior Director of IT Innovation Division, Yangtze River Delta National Technology Innovation Center
 * Dr. Hongjuan Liu, VP in Data Analytics, Afiniti China; Former Chief Data Officer, SAIC General Motors
+* Mr. Wei Sun, Lead Researcher, Traffic Management Research Institute of the Ministry of Public Security
 * Mr. Yongtao Chen, General Manager, New Energy Vehicle Purchasing Delivery Centre, CheHaoDuo Group
 
 
 
 
 **Contacts**
+
 Tel: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
+
+###### Copyright © 2021 Smart Mobility Analytics Center
