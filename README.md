@@ -1,6 +1,6 @@
 # Smart Mobility Analytics Center (SMAC)
 International Business School Suzhou, Xi'an Jiaotong-Liverpool University
-# 西浦智慧出行分析研究中心
+# 智慧出行分析研究中心
 
 
 
@@ -96,5 +96,5 @@ Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business Uni
 
 
 **Contacts**
-
+Tel: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
