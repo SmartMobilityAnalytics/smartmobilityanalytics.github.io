@@ -4,12 +4,12 @@ International Business School Suzhou, Xi'an Jiaotong-Liverpool University
 
 
 
-**Vision**
+# Vision
 
 To be a leading platform on smart mobility analytics that will synergise the insights and needs of academic research, industry and education.
 
 
-**Missions**
+# Missions
 
 •	Promote the interdisciplinary and cutting-edge academic research on smart mobility analytics.
 
@@ -18,12 +18,38 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 •	Explore opportunities to contribute to the executive education programmes as well as undergraduate/postgraduate student projects in the domain of mobility and transport.
 
 
-**Scope**
+# Scope
 
 ![image](https://user-images.githubusercontent.com/90227575/132978318-4932aec0-c195-49a7-8a6e-5c1cf521fdc8.png)
 
+**Research**
 
-**Structure and Team**
+•	The Adoption of Smart Mobility Technologies/Solutions 
+
+•	Data Privacy and Algorithm Ethics in the Smart Mobility
+
+•	Operations and Revenue Management of Smart Mobility Network
+
+
+**Industry Collaboration**
+
+•	Joint Research Initiative
+
+•	Business Consulting
+
+
+**Teaching**
+
+•	Executive Education
+
+•	Student Projects 
+
+
+# Structure and Team
 
 ![image](https://user-images.githubusercontent.com/90227575/132978407-e3a0d042-3561-4dba-af6d-8b23a0ba6152.png)
+
+
+# Contacts
+Email: smac.ibss@xjtlu.edu.cn
 
