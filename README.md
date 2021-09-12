@@ -72,7 +72,7 @@ Name |	Academic position	| Research experience
 
 Name |	Academic position	| Institution 
 -----|---------------------------|-------------------
-<img src="https://webapps.krannert.purdue.edu/sites/Home/Files/User/eadd5669-8661-44ca-8580-8e71c685b249/Download" width="80" height="100" ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Associate Professor of Management|	Purdue University, US
+<img src="https://webapps.krannert.purdue.edu/sites/Home/Files/User/eadd5669-8661-44ca-8580-8e71c685b249/Download" width="80" height="100" ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Associate Professor of Management|	Purdue University, USA
 <img src="https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/schoolsanddepartments/sbe/sbewebsite/photos/staffprofiles/Dong%20Li.jpg" width="80" height="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Senior Lecturer in Operations Management|Loughborough University, UK
 <img src="https://www.lancaster.ac.uk/images/people/1202.jpg" width="80" height="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
 <img src="https://hcm.fdsm.fudan.edu.cn/linkfile/FileUpLoad/tmp/20210912/TZ_GUEST/04977-%E5%BC%A0%E8%AF%9A.jpg" width="80" height="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
