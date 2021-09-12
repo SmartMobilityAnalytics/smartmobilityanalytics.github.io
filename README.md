@@ -42,7 +42,6 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 
 ![image](https://user-images.githubusercontent.com/90227575/132982053-6131d005-d139-4fa3-a5e7-71b4f350cad0.png)
 
-
 ### IBSS Members
 
 Name |	Academic position	| Research experience
@@ -71,9 +70,27 @@ Name |	Academic position	| Research experience
 
 ### International Research Network
 
+Name |	Academic position	| Institution | Research experience
+-----|--------------------|------------|-------------------
+Zhan Pang	|Lewis B. Cullman Rising Star Associate Professor of Management|	Purdue University, US|	Operations Management
+Dong Li|Senior Lecturer|Loughborough University, UK|Operations Management
+David Tyfield|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	|Sustainable Transitions, Mobility 
+Cheng Zhang|Professor	in Information System|Fudan University, China	|Business AI, Platform Innovation
+Ou Liu|Senior Lecturer in Information Management|Aston University, UK|Business Analytics
+Tristan Chong|Associate Professor in Marketing|SP Jain School of Global Management, Singapore|Marketing Analytics
+Juelin Yin|Associate Professor in Management |Sun Yat-sen University, China	|Ethics, Corporate Social Responsibility
+Jose M. Grisolia |Associate Professor	in Economics |Nottingham University Ningbo China	|Transport Economics, Discrete Choice Modeling
+Xi Chen |Associate Professor	|Rotterdam School of Management, Erasmus University, Netherlands|	Quantitative Marketing, Digital Platform
+Ruizhi Yuan	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	|Marketing, Sharing Economy
+Youlin Huang	|Assistant Professor	in Marketing | Zhejiang Gongshang University, China	|Low carbon mobility, innovative business model in mobility
+Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	|Service Management
+
 
 ### Industry Advisory Board
 
+* Dr. Guoquan Liu, Senior Director of IT Innovation Division, Yangtze River Delta National Technology Innovation Center
+* Dr. Hongjuan Liu, VP in Data Analytics, Afiniti China; Former Chief Data Officer, SAIC General Motors
+* Mr. Yongtao Chen, General Manager, New Energy Vehicle Purchasing Delivery Centre, CheHaoDuo Group
 
 
 
