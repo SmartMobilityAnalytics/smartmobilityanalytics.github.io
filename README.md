@@ -50,6 +50,6 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 ![image](https://user-images.githubusercontent.com/90227575/132978407-e3a0d042-3561-4dba-af6d-8b23a0ba6152.png)
 
 
-# Contacts
-Email: smac.ibss@xjtlu.edu.cn
+**Contacts**
+
 
