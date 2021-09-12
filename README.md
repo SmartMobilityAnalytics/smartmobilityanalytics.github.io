@@ -40,7 +40,7 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 
 ## Structure and Team
 
-![image](https://user-images.githubusercontent.com/90227575/132978407-e3a0d042-3561-4dba-af6d-8b23a0ba6152.png)
+![image](https://user-images.githubusercontent.com/90227575/132982053-6131d005-d139-4fa3-a5e7-71b4f350cad0.png)
 
 ### SMAC Management Team
 * Director: Dr. [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian), Senior Associate Professor, IBSS at XJTLU
@@ -51,11 +51,11 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
-Lixian Qian|Senior Associate Professor	|	Mobility Analytics, Data-driven Marketing Strategy
-Didier Soopramanien|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
-Jianghang Chen|Associate Professor|Transportation Optimization
-Yang Lu|Assistant Professor|Adoption of new technologies
-Miaomiao Liu|Assistant Professor|Data Analytics
+[Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor	|	Mobility Analytics, Data-driven Marketing Strategy
+[Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien)|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
+[Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
+[Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
+[Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
 Ya Liang|PhD student|Individual Adoption of Autonomous Vehicles and Related Services
 Yijie Chen|PhD student|Corporate Social Responsibility, Car Market
 Xixian Ding|Master Student|Consumers’ acceptance of robotaxis and robo-buses in Suzhou  
