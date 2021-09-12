@@ -87,6 +87,7 @@ Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business Uni
 
 
 ### Industry Advisory Board
+
 Name |	Position	| Organization 
 -----|---------------------------|-------------------
 <img src="https://media.licdn.cn/dms/image/C5603AQG0gYbcmGotuA/profile-displayphoto-shrink_200_200/0/1610529565000?e=1637193600&v=beta&t=5Wijm3pixJR3NtpUmEgtNKm3O16W3_1n_CdlmraO5Uo" width="100" height="100" ><br/> Guoquan Liu| Senior Director of IT Innovation Division| Yangtze River Delta National Technology Innovation Center
