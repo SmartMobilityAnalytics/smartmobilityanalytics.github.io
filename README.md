@@ -1,6 +1,6 @@
 # Smart Mobility Analytics Center (SMAC)
-# 智慧出行分析研究中心 
 International Business School Suzhou, Xi'an Jiaotong-Liverpool University
+# 西浦智慧出行分析研究中心
 
 
 
@@ -70,20 +70,20 @@ Name |	Academic position	| Research experience
 
 ### International Research Network
 
-Name |	Academic position	| Institution | Research experience
------|--------------------|------------|-------------------
-Zhan Pang	|Lewis B. Cullman Rising Star Associate Professor of Management|	Purdue University, US|	Operations Management
-Dong Li|Senior Lecturer|Loughborough University, UK|Operations Management
-David Tyfield|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	|Sustainable Transitions, Mobility 
-Cheng Zhang|Professor	in Information System|Fudan University, China	|Business AI, Platform Innovation
-Ou Liu|Senior Lecturer in Information Management|Aston University, UK|Business Analytics
-Tristan Chong|Associate Professor in Marketing|SP Jain School of Global Management, Singapore|Marketing Analytics
-Juelin Yin|Associate Professor in Management |Sun Yat-sen University, China	|Ethics, Corporate Social Responsibility
-Jose M. Grisolia |Associate Professor	in Economics |Nottingham University Ningbo China	|Transport Economics, Discrete Choice Modeling
-Xi Chen |Associate Professor	|Rotterdam School of Management, Erasmus University, Netherlands|	Quantitative Marketing, Digital Platform
-Ruizhi Yuan	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	|Marketing, Sharing Economy
-Youlin Huang	|Assistant Professor	in Marketing | Zhejiang Gongshang University, China	|Low carbon mobility, innovative business model in mobility
-Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	|Service Management
+Name |	Academic position	| Institution 
+-----|---------------------------|-------------------
+<img src="https://webapps.krannert.purdue.edu/sites/Home/Files/User/eadd5669-8661-44ca-8580-8e71c685b249/Download" width="80" height="100" ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Associate Professor of Management|	Purdue University, US
+<img src="https://www.lboro.ac.uk/media/wwwlboroacuk/external/content/schoolsanddepartments/sbe/sbewebsite/photos/staffprofiles/Dong%20Li.jpg" width="80" height="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Senior Lecturer in Operations Management|Loughborough University, UK
+<img src="https://www.lancaster.ac.uk/images/people/1202.jpg" width="80" height="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
+<img src="https://hcm.fdsm.fudan.edu.cn/linkfile/FileUpLoad/tmp/20210912/TZ_GUEST/04977-%E5%BC%A0%E8%AF%9A.jpg" width="80" height="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
+<img src="https://www2.aston.ac.uk/image-library/ABS/Staff%20profile%20-%20new%20style/oim/ou-liu-002350x233.jpg" width="100" height="70" ><br/>[Ou Liu](https://research.aston.ac.uk/en/persons/ou-liu)|Senior Lecturer in Information Management|Aston University, UK
+<img src="https://www.spjain.sg/hs-fs/hubfs/images/2019/faculty/dr-tristan-chong.jpg?width=250&name=dr-tristan-chong.jpg" width="100" height="100" ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Associate Professor in Marketing|SP Jain School of Global Management, Singapore
+<img src="http://bus.sysu.edu.cn/sites/bus.prod.dpcms8.sysu.edu.cn/files/%E5%B0%B9%E7%8F%8F%E6%9E%97.jpg" width="100" height="100" ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)|Associate Professor in Management |Sun Yat-sen University, China	
+<img src="https://www.nottingham.edu.cn/image-library/Staff-Profile/FOB/jose20g20.xe4394d36.jpg" width="80" height="100" ><br/>[Jose M. Grisolia](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=51f89de6-7c37-49e2-865f-930901025035&language=en-GB) |Associate Professor	in Economics |Nottingham University Ningbo China	
+<img src="https://www.rsm.nl/fileadmin/_processed_/2/3/csm_Xi_Chen_044e41adb9.jpg" width="80" height="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
+<img src="https://www.nottingham.edu.cn/image-library/Staff-Profile/FOB/russa-yuan.x13d5626f.jpg?w=1000&h=1500&crop=1000,1000,0,70" width="100" height="100" ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
+<img src="https://ibs.zjgsu.edu.cn/_upload/article/images/9e/0b/ca40820d4af492b91a12eb876446/35facc81-6282-416c-9a4a-bff92912480d_s.jpg" width="80" height="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Assistant Professor	in Marketing | Zhejiang Gongshang University, China	
+Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	
 
 
 ### Industry Advisory Board
