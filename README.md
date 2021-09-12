@@ -22,5 +22,5 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 
 **Structure and Team**
 
-![image](https://user-images.githubusercontent.com/90227575/132978365-5f667441-f7ca-4cfe-bad8-07390334f08f.png)
+![image](https://user-images.githubusercontent.com/90227575/132978407-e3a0d042-3561-4dba-af6d-8b23a0ba6152.png)
 
