@@ -42,9 +42,6 @@ To be a leading platform on smart mobility analytics that will synergise the ins
 
 ![image](https://user-images.githubusercontent.com/90227575/132982053-6131d005-d139-4fa3-a5e7-71b4f350cad0.png)
 
-### SMAC Management Team
-* Director: Dr. [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian), Senior Associate Professor, IBSS at XJTLU
-* Deputy Director: Dr. [Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien), Senior Associate Professor, IBSS at XJTLU
 
 ### IBSS Members
 
