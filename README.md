@@ -1,6 +1,8 @@
-# Smart Mobility Analytics Center 
+# Smart Mobility Analytics Center (SMAC)
 # 智慧出行分析研究中心 
-Interational Business School Suzhou, Xi'an Jiaotong-Liverpool University
+International Business School Suzhou, Xi'an Jiaotong-Liverpool University
+
+
 
 **Vision**
 
