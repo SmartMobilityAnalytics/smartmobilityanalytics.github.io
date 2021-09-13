@@ -63,9 +63,9 @@ Yan Zhang|Master Student|The influence of personal carbon trading on low carbon 
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
-<img src="https://www.xjtlu.edu.cn/zh/assets/image-cache/upload/kypA1ilHoPEtfZ0NvyWN.c9a36ec2.png" width="100" height="100" ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Department of Urban Planning and Design|Networked public transport
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/rvN29m4zvPyLWBE6laAa.5217ba1e.jpg" width="100" height="100" ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/41iGL3hOTvRyFyMgXO9U.5217ba1e.jpg" width="100" height="100" ><br/>[Jiajun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
+<img src="https://www.xjtlu.edu.cn/zh/assets/image-cache/upload/kypA1ilHoPEtfZ0NvyWN.c9a36ec2.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Department of Urban Planning and Design|Networked public transport
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/rvN29m4zvPyLWBE6laAa.5217ba1e.jpg" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/41iGL3hOTvRyFyMgXO9U.5217ba1e.jpg" width="100"  ><br/>[Jiajun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
 
 ### International Research Network
 
@@ -89,9 +89,8 @@ Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business Uni
 
 Name |	Position	| Organization 
 -----|---------------------------|-------------------
-<img src="https://media.licdn.cn/dms/image/C5603AQG0gYbcmGotuA/profile-displayphoto-shrink_200_200/0/1610529565000?e=1637193600&v=beta&t=5Wijm3pixJR3NtpUmEgtNKm3O16W3_1n_CdlmraO5Uo" width="100" height="100" ><br/> Guoquan Liu| Senior Director of IT Innovation Division| Yangtze River Delta National Technology Innovation Center
-<img src="https://media.licdn.cn/dms/image/C4D03AQFoLAgc0z0k5g/profile-displayphoto-shrink_200_200/0/1516937904572?e=1637193600&v=beta&t=zfMZ0pm1fCl2sXeC2LgmOWYBaHoDLOjXioQdwRLaUlM" width="100" height="100" ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
-Wei Sun| Lead Researcher| Traffic Management Research Institute of the Ministry of Public Security
+<img src="https://media.licdn.cn/dms/image/C5603AQG0gYbcmGotuA/profile-displayphoto-shrink_200_200/0/1610529565000?e=1637193600&v=beta&t=5Wijm3pixJR3NtpUmEgtNKm3O16W3_1n_CdlmraO5Uo" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| Yangtze River Delta National Technology Innovation Center
+<img src="https://media.licdn.cn/dms/image/C4D03AQFoLAgc0z0k5g/profile-displayphoto-shrink_200_200/0/1516937904572?e=1637193600&v=beta&t=zfMZ0pm1fCl2sXeC2LgmOWYBaHoDLOjXioQdwRLaUlM" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
 Yongtao Chen| General Manager| New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
 
 
