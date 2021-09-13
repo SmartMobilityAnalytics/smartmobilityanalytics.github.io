@@ -5,7 +5,7 @@
 
 ## Vision
 
-To be a leading platform on smart mobility analytics that will synergise the insights and needs of academic research, industry and education.
+To be a leading platform on smart mobility analytics that synergises the insights and needs of academic research, industry and education.
 
 
 ## Missions
