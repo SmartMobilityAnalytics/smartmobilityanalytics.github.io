@@ -37,6 +37,16 @@ To be a leading platform on smart mobility analytics that synergises the insight
 * Student Projects 
 
 
+## Research Grants
+
+* “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, in progress.
+* “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, completed.
+* 	“Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, completed.
+* 	“Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, completed.
+* “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, completed.
+
+
+
 ## Structure and Team
 
 ![image](https://user-images.githubusercontent.com/90227575/132982053-6131d005-d139-4fa3-a5e7-71b4f350cad0.png)
@@ -83,6 +93,7 @@ Name |	Academic position	| Institution
 <img src="https://www.nottingham.edu.cn/image-library/Staff-Profile/FOB/russa-yuan.x13d5626f.jpg?w=1000&h=1500&crop=1000,1000,0,70" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://ibs.zjgsu.edu.cn/_upload/article/images/9e/0b/ca40820d4af492b91a12eb876446/35facc81-6282-416c-9a4a-bff92912480d_s.jpg" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Assistant Professor	in Marketing | Zhejiang Gongshang University, China	
 Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	
+
 
 
 ### Industry Advisory Board
