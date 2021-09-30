@@ -92,7 +92,7 @@ Name |	Academic position	| Institution
 <img src="https://www.rsm.nl/fileadmin/_processed_/2/3/csm_Xi_Chen_044e41adb9.jpg" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
 <img src="https://www.nottingham.edu.cn/image-library/Staff-Profile/FOB/russa-yuan.x13d5626f.jpg?w=1000&h=1500&crop=1000,1000,0,70" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://ibs.zjgsu.edu.cn/_upload/article/images/9e/0b/ca40820d4af492b91a12eb876446/35facc81-6282-416c-9a4a-bff92912480d_s.jpg" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Assistant Professor	in Marketing | Zhejiang Gongshang University, China	
-Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	
+<img src="https://media.licdn.cn/dms/image/C5603AQHPLGNllweHEg/profile-displayphoto-shrink_400_400/0/1626342008820?e=1638403200&v=beta&t=tyxHe27CaVMD5gHaBhOZu3tORSEUKMmpvMAqeZ4v7iM" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	
 
 
 
@@ -100,7 +100,7 @@ Zhuang Ma	|Assistant Professor	in Marketing |Chongqing Technology & Business Uni
 
 Name |	Position	| Organization 
 -----|---------------------------|-------------------
-<img src="https://media.licdn.cn/dms/image/C5603AQG0gYbcmGotuA/profile-displayphoto-shrink_200_200/0/1610529565000?e=1637193600&v=beta&t=5Wijm3pixJR3NtpUmEgtNKm3O16W3_1n_CdlmraO5Uo" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| Yangtze River Delta National Technology Innovation Center
+<img src="https://media.licdn.cn/dms/image/C5603AQG0gYbcmGotuA/profile-displayphoto-shrink_200_200/0/1610529565000?e=1637193600&v=beta&t=5Wijm3pixJR3NtpUmEgtNKm3O16W3_1n_CdlmraO5Uo" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| National Innovation Center - Yangtze Delta 
 <img src="https://media.licdn.cn/dms/image/C4D03AQFoLAgc0z0k5g/profile-displayphoto-shrink_200_200/0/1516937904572?e=1637193600&v=beta&t=zfMZ0pm1fCl2sXeC2LgmOWYBaHoDLOjXioQdwRLaUlM" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
 Yongtao Chen| General Manager| New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
 
