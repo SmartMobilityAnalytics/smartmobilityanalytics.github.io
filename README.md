@@ -100,8 +100,8 @@ Name |	Academic position	| Institution
 
 Name |	Position	| Organization 
 -----|---------------------------|-------------------
-<img src="https://media.licdn.cn/dms/image/C5603AQG0gYbcmGotuA/profile-displayphoto-shrink_200_200/0/1610529565000?e=1637193600&v=beta&t=5Wijm3pixJR3NtpUmEgtNKm3O16W3_1n_CdlmraO5Uo" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| National Innovation Center - Yangtze Delta 
-<img src="https://media.licdn.cn/dms/image/C4D03AQFoLAgc0z0k5g/profile-displayphoto-shrink_200_200/0/1516937904572?e=1637193600&v=beta&t=zfMZ0pm1fCl2sXeC2LgmOWYBaHoDLOjXioQdwRLaUlM" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
+<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| National Innovation Center - Yangtze Delta 
+<img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
 Yongtao Chen| General Manager| New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
 
 
