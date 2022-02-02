@@ -41,10 +41,9 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 * “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, in progress.
 * “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, completed.
-* 	“Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, completed.
-* 	“Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, completed.
+* “Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, completed.
+* “Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, completed.
 * “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, completed.
-
 
 
 ## Structure and Team
@@ -104,6 +103,7 @@ Name |	Position	| Organization
 <img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| National Innovation Center - Yangtze Delta 
 <img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
 Yongtao Chen| General Manager| New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
+
 
 
 
