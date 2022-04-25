@@ -91,7 +91,6 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	
 
 
-
 ### Industry Advisory Board
 
 Name |	Position	| Organization 
