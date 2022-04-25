@@ -11,7 +11,7 @@ To be a leading platform on smart mobility analytics that synergises the insight
 ## Missions
 
 *	Promote the interdisciplinary and cutting-edge academic research on smart mobility analytics.
-* Establish close collaboration relationships with companies in the mobility sector to help them enhance their management.
+* Establish close collaboration relationships with companies in the mobility sector to help them enhance their manageent.
 * Explore opportunities to contribute to the executive education programmes as well as undergraduate/postgraduate student projects in the domain of mobility and transport.
 
 
@@ -102,7 +102,6 @@ Name |	Position	| Organization
 <img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| National Innovation Center - Yangtze Delta 
 <img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
 <img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager| New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
-
 
 
 
