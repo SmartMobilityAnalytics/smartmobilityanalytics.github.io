@@ -1,4 +1,4 @@
-# Smart Mobility Analytics Center (SMAC)
+# Smart Mobility Analytics Center (SMAC) of XJTLU
 # 西浦智慧出行分析研究中心
 
 
