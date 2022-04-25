@@ -117,7 +117,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
-<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor	in Marketing |Chongqing Technology & Business University, China	
+<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor in Marketing |Chongqing Technology & Business University, China	
 
 
 ### Industry Advisory Board
@@ -134,7 +134,7 @@ Name |	Position	& Organization
 Year and Month | News Title | News Link
 -----|---------------------------|-------------------
 08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | [The Conversation](https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2021/09/diandongqicheshichangyushangyemoshi)
-06/2021 |	喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”(Good News! A research article from Dr. Lixian Qian from IBSS was designated as the “World Top 1% Highly Cited Paper”)| [IBSS Wechat News](https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw)
+06/2021 |	喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”| [IBSS Wechat News](https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw)
 07/2020 | Holistic approach to reduce international travel would assist battle against COVID-19 |[Travel Daily News](https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19); [运筹OR帷幄](https://new.qq.com/omn/20200821/20200821A0KUTE00.html)
 03/2020 |	Clues to re-energising China’s electric vehicle market | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2020/03/clues-to-re-energising-china%E2%80%99s-electric-vehicle-market); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2020/03/xipuxuezhediandongqicheshichang)
 09/2019 |	When trends in electric, automated and shared cars merge | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2019/09/when-trends-in-electric-vehicles-automated-driving-and-shared-cars-merge); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2019/09/diandongqiche)
