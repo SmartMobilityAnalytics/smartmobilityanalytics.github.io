@@ -74,6 +74,7 @@ Name |	Academic position	| Research experience
 
 
 ### PhD Students
+
 Name |	Student Type    	| Research Topic | Placement
 -----|--------------------|----------------|------
 Ya Liang|PhD student in Business (2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
@@ -83,6 +84,7 @@ Youlin Huang | PhD student in Business (2017 ~ 2020)|Consumer choice for electri
 Zhuang Ma | PhD student in Business (2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring|Chongqing Technology and Business University
 
 ### Master Students
+
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
 Xiaoxuan Shan	|	MSc. Management student (2021) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
@@ -128,6 +130,7 @@ Name |	Position	& Organization
 
 
 ### News and Media Exposure
+
 Year and Month | News Title | News Link
 -----|---------------------------|-------------------
 08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536 ; https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers 
