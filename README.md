@@ -92,9 +92,6 @@ Name |	Academic position	| Institution
 
 
 
-
-
-
 ### Industry Advisory Board
 
 Name |	Position	| Organization 
