@@ -63,7 +63,6 @@ Name |	Academic position	| Research experience
 
 
 
-
 ### Other XJTLU Members
 
 Name |	Academic position	| Research experience
@@ -72,6 +71,7 @@ Name |	Academic position	| Research experience
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/rvN29m4zvPyLWBE6laAa.5217ba1e.jpg" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/41iGL3hOTvRyFyMgXO9U.5217ba1e.jpg" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
 Shaohua Hu |PhD student in Urban Planning|Networked Public Transport
+
 
 ### International Research Network
 
