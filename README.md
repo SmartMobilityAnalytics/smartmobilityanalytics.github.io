@@ -55,11 +55,11 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/vuIln1WDmR0y9E0ZiJ6h.5217ba1e.jpg" width="100" height="100" ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor; Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/m1A9e6oInpuF0filXYF5.5217ba1e.jpg" width="100" height="100" ><br/> [Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien)|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/0y5slDqrKIX34idDfwFK.5217ba1e.jpg" width="100" height="100" ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/ZG70W7du5zXwX0KFm1Q4.5217ba1e.jpg" width="100" height="100" ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/UuX0ojy5Q3TRlcOkShMy.5217ba1e.jpg" width="100" height="100" ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/vuIln1WDmR0y9E0ZiJ6h.5217ba1e.jpg" width="100"  ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor; Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/m1A9e6oInpuF0filXYF5.5217ba1e.jpg" width="100"  ><br/> [Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien)|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/0y5slDqrKIX34idDfwFK.5217ba1e.jpg" width="100"  ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/ZG70W7du5zXwX0KFm1Q4.5217ba1e.jpg" width="100"  ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
+<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/UuX0ojy5Q3TRlcOkShMy.5217ba1e.jpg" width="100"  ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
 
 
 
@@ -147,7 +147,7 @@ Year and Month | News Title | News Link
 
 
 **Contacts**
-
+Add: 8 Chongwen Road, Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
 Tel: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
 
