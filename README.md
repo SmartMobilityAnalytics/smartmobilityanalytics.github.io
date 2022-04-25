@@ -133,15 +133,15 @@ Name |	Position	& Organization
 
 Year and Month | News Title | News Link
 -----|---------------------------|-------------------
-08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536 ; https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers 
-06/2021 |	喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”(Good News! A research article from Dr. Lixian Qian from IBSS was designated as the “World Top 1% Highly Cited Paper”)| https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw 
-07/2020 | Holistic approach to reduce international travel would assist battle against COVID-19 |https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19; https://new.qq.com/omn/20200821/20200821A0KUTE00.html 
-03/2020 |	Clues to re-energising China’s electric vehicle market | https://www.xjtlu.edu.cn/en/news/2020/03/clues-to-re-energising-china%E2%80%99s-electric-vehicle-market; https://www.xjtlu.edu.cn/zh/news/2020/03/xipuxuezhediandongqicheshichang
-09/2019 |	When trends in electric, automated and shared cars merge | https://www.xjtlu.edu.cn/en/news/2019/09/when-trends-in-electric-vehicles-automated-driving-and-shared-cars-merge ; https://www.xjtlu.edu.cn/zh/news/2019/09/diandongqiche 
-07/2018 | Research published on consumer preferences for electric vehicles | https://www.xjtlu.edu.cn/en/news/2018/07/ibss-phd-student-paper
-01/2018 | XJTLU researchers complete provincial fund projects | https://www.xjtlu.edu.cn/en/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme
-04/2017 | 践行实践出真知——IBSS钱力显博士荣获西浦年度最佳教师奖 | https://mp.weixin.qq.com/s/UUHCQd41LP0_aEwY7ebvAQ 
-08/2016 | Research workshop explores latest in smart and green urban mobility | https://www.xjtlu.edu.cn/en/news/2016/08/research-workshop-explores-latest-in-smart-and-green-urban-mobility
+08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | [The Conversation](https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2021/09/diandongqicheshichangyushangyemoshi)
+06/2021 |	喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”(Good News! A research article from Dr. Lixian Qian from IBSS was designated as the “World Top 1% Highly Cited Paper”)| [IBSS Wechat News](https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw)
+07/2020 | Holistic approach to reduce international travel would assist battle against COVID-19 |[Travel Daily News](https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19); [运筹OR帷幄](https://new.qq.com/omn/20200821/20200821A0KUTE00.html)
+03/2020 |	Clues to re-energising China’s electric vehicle market | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2020/03/clues-to-re-energising-china%E2%80%99s-electric-vehicle-market); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2020/03/xipuxuezhediandongqicheshichang)
+09/2019 |	When trends in electric, automated and shared cars merge | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2019/09/when-trends-in-electric-vehicles-automated-driving-and-shared-cars-merge); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2019/09/diandongqiche)
+07/2018 | Research published on consumer preferences for electric vehicles | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2018/07/ibss-phd-student-paper); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2018/07/ibss-phd-student-paper)
+01/2018 | XJTLU researchers complete provincial fund projects | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme)
+04/2017 | 践行实践出真知——IBSS钱力显博士荣获西浦年度最佳教师奖 | [IBSS Wechat News](https://mp.weixin.qq.com/s/UUHCQd41LP0_aEwY7ebvAQ)
+08/2016 | Research workshop explores latest in smart and green urban mobility | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2016/08/research-workshop-explores-latest-in-smart-and-green-urban-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2016/09/research-workshop-explores-latest-in-smart-and-green-urban-mobility)
 
 
 
