@@ -147,8 +147,9 @@ Year and Month | News Title | News Link
 
 
 **Contacts**
-Add: 8 Chongwen Road, Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
-Tel: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
+
+Address: 8 Chongwen Road, Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
+Telephone: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
 
 ###### Copyright © 2021~2022 Smart Mobility Analytics Center
