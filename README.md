@@ -50,7 +50,7 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 ![image](https://user-images.githubusercontent.com/90227575/132982053-6131d005-d139-4fa3-a5e7-71b4f350cad0.png)
 
-### IBSS Members
+### IBSS Faculty Members
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
@@ -59,18 +59,29 @@ Name |	Academic position	| Research experience
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/0y5slDqrKIX34idDfwFK.5217ba1e.jpg" width="100" height="100" ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/ZG70W7du5zXwX0KFm1Q4.5217ba1e.jpg" width="100" height="100" ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/UuX0ojy5Q3TRlcOkShMy.5217ba1e.jpg" width="100" height="100" ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
-<img src="https://user-images.githubusercontent.com/90227575/165055993-36082158-19ce-4d43-b241-99122834f22d.png" width="100"  ><br/> Ya Liang|PhD student in Business |Individual Adoption of Autonomous Vehicles and Related Services
 
 
 
-### Other XJTLU Members
+
+### Other XJTLU Faculty Members
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
 <img src="https://www.xjtlu.edu.cn/zh/assets/image-cache/upload/kypA1ilHoPEtfZ0NvyWN.c9a36ec2.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Department of Urban Planning and Design|Networked public transport
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/rvN29m4zvPyLWBE6laAa.5217ba1e.jpg" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/41iGL3hOTvRyFyMgXO9U.5217ba1e.jpg" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
-Shaohua Hu |PhD student in Urban Planning|Networked Public Transport
+
+
+### PhD and Master Students
+Name |	Student Type    	| Research Topic
+-----|--------------------|----------------------
+Ya Liang|PhD student in Business (2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
+Shaohua Hu |PhD student in Urban Planning (2020 ~ )|Networked Public Transport
+Xiaoxuan Shan	|	MSc. Management student (2021) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
+Shimin Cai    |	MSc. Management student (2021) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
+Yu Zhang			| MSc. Management (2021) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
+Yan Zhang			| MSc. Management (2021) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
+Xixian Ding		| MSc. Operations & Supply Chain Management (2021) | Consumers’ perceived risk, attitudes and adoption intention for Robotaxi: an extended technology acceptance model
 
 
 ### International Research Network
@@ -83,7 +94,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
 <img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/>[Ou Liu](https://research.aston.ac.uk/en/persons/ou-liu)|Senior Lecturer in Information Management|Aston University, UK
 <img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Associate Professor in Marketing|SP Jain School of Global Management, Singapore
-<img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)|Associate Professor in Management |Sun Yat-sen University, China	
+<img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=51f89de6-7c37-49e2-865f-930901025035&language=en-GB) |Associate Professor	in Economics |Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
