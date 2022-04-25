@@ -48,7 +48,8 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 ## Structure and Team
 
-![image](https://user-images.githubusercontent.com/90227575/132982053-6131d005-d139-4fa3-a5e7-71b4f350cad0.png)
+![image](https://user-images.githubusercontent.com/90227575/165075546-2a4a4f60-b663-4c5b-af44-f6c13d4a4862.png)
+
 
 ### IBSS Faculty Members
 
@@ -72,17 +73,32 @@ Name |	Academic position	| Research experience
 <img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/41iGL3hOTvRyFyMgXO9U.5217ba1e.jpg" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
 
 
-### PhD and Master Students
-Name |	Student Type    	| Research Topic
------|--------------------|----------------------
+### PhD Students
+Name |	Student Type    	| Research Topic | Placement
+-----|--------------------|----------------|------
 Ya Liang|PhD student in Business (2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
-Shaohua Hu |PhD student in Urban Planning (2020 ~ )|Networked Public Transport
+Shaohua Hu |PhD student in Urban Planning (2020 ~ )| Networked Public Transport
+Yu Han | PhD student in Business (2018 ~ ) | Supply Chain Resilience
+Youlin Huang | PhD student in Business (2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China|Zhejiang Gongshang University
+Zhuang Ma | PhD student in Business (2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring|Chongqing Technology and Business University
+
+### Master Students
+Name |	Student Type    	| Research Topic
+-----|--------------------|------------------
 Xiaoxuan Shan	|	MSc. Management student (2021) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
 Shimin Cai    |	MSc. Management student (2021) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
-Yu Zhang			| MSc. Management (2021) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
-Yan Zhang			| MSc. Management (2021) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
+Yu Zhang			| MSc. Management student (2021) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
+Yan Zhang			| MSc. Management student (2021) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
 Xixian Ding		| MSc. Operations & Supply Chain Management (2021) | Consumers’ perceived risk, attitudes and adoption intention for Robotaxi: an extended technology acceptance model
-
+Athiya Hongpaisanvivat | MSc. Business Analytics student (2020) | Information diffusion behavior in Twitter: A case study of Nissan Leaf in marketing perspective
+Ziqi Shen     | MSc. Business Analytics student (2020) | Influence of microblog marketing on consumers' purchase intention to buy snack and beverage
+Yifan Xiao    | MSc. Business Analytics student (2020) | The consumer behaviour of China’s Gen Z in live streaming e-commerce
+Haitao Meng   | International MBA student (2020) | Business Transition Driven by the Penetration of EV technology: the Case of ICEFC Company
+Daizhou Sun   | Interational MBA student (2018)   | POWERSITE Strategy & Competitive Advantage Analysis and Business Model Innovation
+Dandan Lu     | MRes Management student (2017) | Behaviour intention and satisfaction in bicycle sharing options: A comparison of two different bicycle sharing systems in China
+Qimeng Zheng  | MSc. Project Management student (2017) | Analyzing project risk management in new energy vehicle industry: Taking QTM Company as an example
+Yangfan Zhang | MSc. Management student (2017) | Compare and contrast the penetration of bike-sharing, ridesharing and car-sharing from the multi-level perspective
+Youlin Huang  | MRes Management student (2016) | Adoption Preference for Alternative Fuel Vehicles in South Jiangsu Region: Instrumental, Institutional, and Psychological Perspectives
 
 ### International Research Network
 
@@ -104,11 +120,26 @@ Name |	Academic position	| Institution
 
 ### Industry Advisory Board
 
-Name |	Position	| Organization 
+Name |	Position	& Organization 
+-----|---------------------------------------------
+<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division of National Innovation Center - Yangtze Delta; Visiting Professor at Xi'an Jiaotong-Liverpool University 
+<img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics, Afiniti China 
+<img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager of New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
+
+
+### News and Media Exposure
+Year and Month | News Title | News Link
 -----|---------------------------|-------------------
-<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division| National Innovation Center - Yangtze Delta 
-<img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics| Afiniti China 
-<img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager| New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
+08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536 ; https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers 
+06/2021 |	喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”(Good News! A research article from Dr. Lixian Qian from IBSS was designated as the “World Top 1% Highly Cited Paper”)| https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw 
+07/2020 | Holistic approach to reduce international travel would assist battle against COVID-19 |https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19; https://new.qq.com/omn/20200821/20200821A0KUTE00.html 
+03/2020 |	Clues to re-energising China’s electric vehicle market | https://www.xjtlu.edu.cn/en/news/2020/03/clues-to-re-energising-china%E2%80%99s-electric-vehicle-market; https://www.xjtlu.edu.cn/zh/news/2020/03/xipuxuezhediandongqicheshichang
+09/2019 |	When trends in electric, automated and shared cars merge | https://www.xjtlu.edu.cn/en/news/2019/09/when-trends-in-electric-vehicles-automated-driving-and-shared-cars-merge ; https://www.xjtlu.edu.cn/zh/news/2019/09/diandongqiche 
+07/2018 | Research published on consumer preferences for electric vehicles | https://www.xjtlu.edu.cn/en/news/2018/07/ibss-phd-student-paper
+01/2018 | XJTLU researchers complete provincial fund projects | https://www.xjtlu.edu.cn/en/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme
+04/2017 | 践行实践出真知——IBSS钱力显博士荣获西浦年度最佳教师奖 | https://mp.weixin.qq.com/s/UUHCQd41LP0_aEwY7ebvAQ 
+08/2016 | Research workshop explores latest in smart and green urban mobility | https://www.xjtlu.edu.cn/en/news/2016/08/research-workshop-explores-latest-in-smart-and-green-urban-mobility
+
 
 
 
@@ -117,4 +148,4 @@ Name |	Position	| Organization
 Tel: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
 
-###### Copyright © 2021 Smart Mobility Analytics Center
+###### Copyright © 2021~2022 Smart Mobility Analytics Center
