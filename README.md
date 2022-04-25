@@ -1,5 +1,5 @@
-# Smart Mobility Analytics Center (SMAC) of IBSS
-# 西浦国际商学院智慧出行分析研究中心
+# Smart Mobility Analytics Center (SMAC)
+# 西浦智慧出行分析研究中心
 
 
 
