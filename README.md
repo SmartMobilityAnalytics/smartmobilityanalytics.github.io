@@ -77,30 +77,30 @@ Name |	Academic position	| Research experience
 
 Name |	Student Type    	| Research Topic | Placement
 -----|--------------------|----------------|------
-Ya Liang|PhD student in Business (2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
-Shaohua Hu |PhD student in Urban Planning (2020 ~ )| Networked Public Transport
-Yu Han | PhD student in Business (2018 ~ ) | Supply Chain Resilience
-Youlin Huang | PhD student in Business (2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China|Zhejiang Gongshang University
-Zhuang Ma | PhD student in Business (2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring|Chongqing Technology and Business University
+Ya Liang|PhD student in Business <br/>(2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
+Shaohua Hu |PhD student in Urban Planning <br/>(2020 ~ )| Networked Public Transport
+Yu Han | PhD student in Business <br/>(2018 ~ ) | Supply Chain Resilience
+Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China|Zhejiang Gongshang University
+Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring|Chongqing Technology and Business University
 
 ### Master Students
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Xiaoxuan Shan	|	MSc. Management student (2021) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
-Shimin Cai    |	MSc. Management student (2021) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
-Yu Zhang			| MSc. Management student (2021) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
-Yan Zhang			| MSc. Management student (2021) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
-Xixian Ding		| MSc. Operations & Supply Chain Management (2021) | Consumers’ perceived risk, attitudes and adoption intention for Robotaxi: an extended technology acceptance model
-Athiya Hongpaisanvivat | MSc. Business Analytics student (2020) | Information diffusion behavior in Twitter: A case study of Nissan Leaf in marketing perspective
-Ziqi Shen     | MSc. Business Analytics student (2020) | Influence of microblog marketing on consumers' purchase intention to buy snack and beverage
-Yifan Xiao    | MSc. Business Analytics student (2020) | The consumer behaviour of China’s Gen Z in live streaming e-commerce
-Haitao Meng   | International MBA student (2020) | Business Transition Driven by the Penetration of EV technology: the Case of ICEFC Company
-Daizhou Sun   | Interational MBA student (2018)   | POWERSITE Strategy & Competitive Advantage Analysis and Business Model Innovation
-Dandan Lu     | MRes Management student (2017) | Behaviour intention and satisfaction in bicycle sharing options: A comparison of two different bicycle sharing systems in China
-Qimeng Zheng  | MSc. Project Management student (2017) | Analyzing project risk management in new energy vehicle industry: Taking QTM Company as an example
-Yangfan Zhang | MSc. Management student (2017) | Compare and contrast the penetration of bike-sharing, ridesharing and car-sharing from the multi-level perspective
-Youlin Huang  | MRes Management student (2016) | Adoption Preference for Alternative Fuel Vehicles in South Jiangsu Region: Instrumental, Institutional, and Psychological Perspectives
+Xiaoxuan Shan	|	MSc. Management student <br/>(2021) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
+Shimin Cai    |	MSc. Management student <br/>(2021) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
+Yu Zhang			| MSc. Management student <br/>(2021) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
+Yan Zhang			| MSc. Management student <br/>(2021) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
+Xixian Ding		| MSc. Operations & Supply Chain Management <br/>(2021) | Consumers’ perceived risk, attitudes and adoption intention for Robotaxi: an extended technology acceptance model
+Athiya Hongpaisanvivat | MSc. Business Analytics student <br/>(2020) | Information diffusion behavior in Twitter: A case study of Nissan Leaf in marketing perspective
+Ziqi Shen     | MSc. Business Analytics student <br/>(2020) | Influence of microblog marketing on consumers' purchase intention to buy snack and beverage
+Yifan Xiao    | MSc. Business Analytics student <br/>(2020) | The consumer behaviour of China’s Gen Z in live streaming e-commerce
+Haitao Meng   | International MBA student <br/>(2020) | Business Transition Driven by the Penetration of EV technology: the Case of ICEFC Company
+Daizhou Sun   | Interational MBA student <br/>(2018)   | POWERSITE Strategy & Competitive Advantage Analysis and Business Model Innovation
+Dandan Lu     | MRes Management student <br/>(2017) | Behaviour intention and satisfaction in bicycle sharing options: A comparison of two different bicycle sharing systems in China
+Qimeng Zheng  | MSc. Project Management student <br/>(2017) | Analyzing project risk management in new energy vehicle industry: Taking QTM Company as an example
+Yangfan Zhang | MSc. Management student <br/>(2017) | Compare and contrast the penetration of bike-sharing, ridesharing and car-sharing from the multi-level perspective
+Youlin Huang  | MRes Management student <br/>(2016) | Adoption Preference for Alternative Fuel Vehicles in South Jiangsu Region: Instrumental, Institutional, and Psychological Perspectives
 
 ### International Research Network
 
@@ -148,7 +148,7 @@ Year and Month | News Title | News Link
 
 **Contacts**
 
-Address: 8 Chongwen Road, Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
+Address: 8 Chongwen Road, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
 
 Telephone: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
