@@ -65,14 +65,14 @@ Name |	Academic position	| Research experience
 
 ### PhD Students
 
-Name |	Student Type    	| Research Topic | Placement
------|--------------------|----------------|------
+Name |	Student Type    	| Research Topic 
+-----|--------------------|--------------------
 Ya Liang|PhD student in Business <br/>(2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
 Ruicheng Liu | PhD student in Business <br/>(2020 ~ )|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
 Shaohua Hu |PhD student in Urban Planning <br/>(2020 ~ )| Networked Public Transport
 Yu Han | PhD student in Business <br/>(2018 ~ ) | Supply Chain Resilience
-Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China|Zhejiang Gongshang University
-Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring|Chongqing Technology and Business University
+Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China <br/> Placement: Zhejiang Gongshang University
+Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring <br/> Placement: Chongqing Technology and Business University
 
 ### Master Students & RAs
 
