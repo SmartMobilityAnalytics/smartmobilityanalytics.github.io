@@ -48,8 +48,7 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 ## Structure and Team
 
-![image](https://user-images.githubusercontent.com/90227575/165075546-2a4a4f60-b663-4c5b-af44-f6c13d4a4862.png)
-
+<img src="https://user-images.githubusercontent.com/90227575/165217059-daf1aae7-7062-48cb-a872-1ac1842b26bf.png" width="500"  >
 
 ### IBSS Faculty Members
 
@@ -68,9 +67,9 @@ Name |	Academic position	| Research experience
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
-<img src="https://www.xjtlu.edu.cn/zh/assets/image-cache/upload/kypA1ilHoPEtfZ0NvyWN.c9a36ec2.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Department of Urban Planning and Design|Networked public transport
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/rvN29m4zvPyLWBE6laAa.5217ba1e.jpg" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
-<img src="https://www.xjtlu.edu.cn/en/assets/image-cache/upload/41iGL3hOTvRyFyMgXO9U.5217ba1e.jpg" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
+<img src="https://user-images.githubusercontent.com/90227575/165217194-8a6c3fa3-2713-45e3-9781-b5d734ce9725.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Department of Urban Planning and Design|Networked public transport
+<img src="https://user-images.githubusercontent.com/90227575/165217235-a1ddae6c-9500-4d1b-9de3-7223efd11e09.png" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
+<img src="https://user-images.githubusercontent.com/90227575/165217294-abec2561-be82-486a-bb13-a01e35f2a4e2.png" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
 
 
 ### PhD Students
@@ -78,6 +77,7 @@ Name |	Academic position	| Research experience
 Name |	Student Type    	| Research Topic | Placement
 -----|--------------------|----------------|------
 Ya Liang|PhD student in Business <br/>(2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
+Ruicheng Liu | PhD student in Business <br/>(2020 ~ )|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
 Shaohua Hu |PhD student in Urban Planning <br/>(2020 ~ )| Networked Public Transport
 Yu Han | PhD student in Business <br/>(2018 ~ ) | Supply Chain Resilience
 Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China|Zhejiang Gongshang University
@@ -133,9 +133,9 @@ Name |	Position	& Organization
 
 Year and Month | News Title | News Link
 -----|---------------------------|-------------------
-08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | [The Conversation](https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2021/09/diandongqicheshichangyushangyemoshi)
+08/2021 | What electric vehicle manufacturers can learn from China – their biggest market | [The Conversation](https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536); [Channel News Asia](https://www.channelnewsasia.com/commentary/electric-car-china-tesla-hongguang-ev-transport-charging-subsidy-2139886); [All China Review](https://allchinareview.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market/power-supply-connect-to-electric-vehicle-for-charge-to-the-battery-charging-technology-industry-transport-which-are-the-futuristic-of-the-automobile-ev-fuel-plug-in-hybrid-car/); [TechXplore](https://techxplore.com/news/2021-08-electric-vehicle-china-biggest.html); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2021/09/diandongqicheshichangyushangyemoshi)
 06/2021 |	喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”| [IBSS Wechat News](https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw)
-07/2020 | Holistic approach to reduce international travel would assist battle against COVID-19 |[Travel Daily News](https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19); [运筹OR帷幄](https://new.qq.com/omn/20200821/20200821A0KUTE00.html)
+07/2020 | Holistic approach to reduce international travel would assist battle against COVID-19 |[Travel Daily News](https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2020/07/holistic-approach-to-global-travel-restrictions-indicated); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2020/07/quanqiushiyekangjiyiqing); [运筹OR帷幄](https://mp.weixin.qq.com/s/5-Bo1fEV_TurQ0_2gYkGSQ)
 03/2020 |	Clues to re-energising China’s electric vehicle market | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2020/03/clues-to-re-energising-china%E2%80%99s-electric-vehicle-market); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2020/03/xipuxuezhediandongqicheshichang)
 09/2019 |	When trends in electric, automated and shared cars merge | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2019/09/when-trends-in-electric-vehicles-automated-driving-and-shared-cars-merge); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2019/09/diandongqiche)
 07/2018 | Research published on consumer preferences for electric vehicles | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2018/07/ibss-phd-student-paper); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2018/07/ibss-phd-student-paper)
