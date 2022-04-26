@@ -83,24 +83,25 @@ Yu Han | PhD student in Business <br/>(2018 ~ ) | Supply Chain Resilience
 Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China|Zhejiang Gongshang University
 Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring|Chongqing Technology and Business University
 
-### Master Students
+### Master Students & RAs
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Xiaoxuan Shan	|	MSc. Management student <br/>(2021) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
-Shimin Cai    |	MSc. Management student <br/>(2021) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
-Yu Zhang			| MSc. Management student <br/>(2021) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
-Yan Zhang			| MSc. Management student <br/>(2021) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
-Xixian Ding		| MSc. Operations & Supply Chain Management <br/>(2021) | Consumers’ perceived risk, attitudes and adoption intention for Robotaxi: an extended technology acceptance model
-Athiya Hongpaisanvivat | MSc. Business Analytics student <br/>(2020) | Information diffusion behavior in Twitter: A case study of Nissan Leaf in marketing perspective
-Ziqi Shen     | MSc. Business Analytics student <br/>(2020) | Influence of microblog marketing on consumers' purchase intention to buy snack and beverage
-Yifan Xiao    | MSc. Business Analytics student <br/>(2020) | The consumer behaviour of China’s Gen Z in live streaming e-commerce
+Shuang Li  | Research Assistant <br/>(2022) | Mobility Analytics on Bikesharing and Electric Vehicle Markets
+Xiaoxuan Shan	|	MSc. Management student <br/>(2021~2022) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
+Shimin Cai    |	MSc. Management student <br/>(2021~2022) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
+Yu Zhang			| MSc. Management student <br/>(2021~2022) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
+Yan Zhang			| MSc. Management student <br/>(2021~2022) | The Impact of Personal Carbon Trading on Consumers’ Choice of Takeout Tableware
+Xixian Ding		| MSc. Operations & Supply Chain Management <br/>(2021~2022) | Consumers’ perceived risk, attitudes and adoption intention for Robotaxi: an extended technology acceptance model
+Athiya Hongpaisanvivat | MSc. Business Analytics student <br/>(2020~2021) | Information diffusion behavior in Twitter: A case study of Nissan Leaf in marketing perspective
+Ziqi Shen     | MSc. Business Analytics student <br/>(2020~2021) | Influence of microblog marketing on consumers' purchase intention to buy snack and beverage
+Yifan Xiao    | MSc. Business Analytics student <br/>(2020~2021) | The consumer behaviour of China’s Gen Z in live streaming e-commerce
 Haitao Meng   | International MBA student <br/>(2020) | Business Transition Driven by the Penetration of EV technology: the Case of ICEFC Company
 Daizhou Sun   | Interational MBA student <br/>(2018)   | POWERSITE Strategy & Competitive Advantage Analysis and Business Model Innovation
-Dandan Lu     | MRes Management student <br/>(2017) | Behaviour intention and satisfaction in bicycle sharing options: A comparison of two different bicycle sharing systems in China
-Qimeng Zheng  | MSc. Project Management student <br/>(2017) | Analyzing project risk management in new energy vehicle industry: Taking QTM Company as an example
-Yangfan Zhang | MSc. Management student <br/>(2017) | Compare and contrast the penetration of bike-sharing, ridesharing and car-sharing from the multi-level perspective
-Youlin Huang  | MRes Management student <br/>(2016) | Adoption Preference for Alternative Fuel Vehicles in South Jiangsu Region: Instrumental, Institutional, and Psychological Perspectives
+Dandan Lu     | MRes Management student <br/>(2017~2018) | Behaviour intention and satisfaction in bicycle sharing options: A comparison of two different bicycle sharing systems in China
+Qimeng Zheng  | MSc. Project Management student <br/>(2017~2018) | Analyzing project risk management in new energy vehicle industry: Taking QTM Company as an example
+Yangfan Zhang | MSc. Management student <br/>(2017~2018) | Compare and contrast the penetration of bike-sharing, ridesharing and car-sharing from the multi-level perspective
+Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference for Alternative Fuel Vehicles in South Jiangsu Region: Instrumental, Institutional, and Psychological Perspectives
 
 ### International Research Network
 
