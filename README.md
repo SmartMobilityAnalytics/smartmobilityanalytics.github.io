@@ -78,7 +78,7 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers�
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Shuang Li  | Research Assistant <br/>(2022) | Mobility Analytics on Bikesharing and Electric Vehicle Markets
+Shuang Li  | Research Assistant <br/>(2022~ ) | Mobility Analytics on Bikesharing and Electric Vehicle Markets
 Xiaoxuan Shan	|	MSc. Management student <br/>(2021~2022) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
 Shimin Cai    |	MSc. Management student <br/>(2021~2022) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
 Yu Zhang			| MSc. Management student <br/>(2021~2022) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
@@ -110,6 +110,8 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor in Marketing |Chongqing Technology & Business University, China	
+<img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2021/0301/c13853a146988/page.htm)	|Associate Professor in Management| Guizhou University, China
+
 
 
 ### Industry Advisory Board
@@ -154,4 +156,4 @@ Address: 8 Chongwen Road, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.
 Telephone: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
 
-###### Copyright © 2021~2022 Smart Mobility Analytics Center
+###### Copyright © 2021~2022 Smart Mobility Analytics Center of XJTLU
