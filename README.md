@@ -37,15 +37,6 @@ To be a leading platform on smart mobility analytics that synergises the insight
 * Student Projects 
 
 
-## Research Grants
-
-* “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, in progress.
-* “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, completed.
-* “Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, completed.
-* “Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, completed.
-* “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, completed.
-
-
 ## Structure and Team
 
 <img src="https://user-images.githubusercontent.com/90227575/165217059-daf1aae7-7062-48cb-a872-1ac1842b26bf.png" width="500"  >
@@ -130,7 +121,16 @@ Name |	Position	& Organization
 <img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager of New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
 
 
-### News and Media Exposure
+## Research Grants
+
+* “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, in progress.
+* “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, completed.
+* “Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, completed.
+* “Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, completed.
+* “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, completed.
+
+
+## News and Media Exposure
 
 Year and Month | News Title | News Link
 -----|---------------------------|-------------------
