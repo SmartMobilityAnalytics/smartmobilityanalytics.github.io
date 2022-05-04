@@ -1,4 +1,4 @@
-# Smart Mobility Analytics Center (SMAC) of XJTLU
+# Smart Mobility Analytics Center (SMAC) of IBSS at XJTLU
 # 西浦智慧出行分析研究中心
 
 
@@ -11,7 +11,7 @@ To be a leading platform on smart mobility analytics that synergises the insight
 ## Missions
 
 *	Promote the interdisciplinary and cutting-edge academic research on smart mobility analytics.
-* Establish close collaboration relationships with companies in the mobility sector to help them enhance their manageent.
+* Establish close collaboration relationships with companies in the mobility sector to help them enhance their management.
 * Explore opportunities to contribute to the executive education programmes as well as undergraduate/postgraduate student projects in the domain of mobility and transport.
 
 
@@ -143,7 +143,6 @@ Year and Month | News Title | News Link
 09/2019 |	When trends in electric, automated and shared cars merge | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2019/09/when-trends-in-electric-vehicles-automated-driving-and-shared-cars-merge); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2019/09/diandongqiche)
 07/2018 | Research published on consumer preferences for electric vehicles | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2018/07/ibss-phd-student-paper); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2018/07/ibss-phd-student-paper)
 01/2018 | XJTLU researchers complete provincial fund projects | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme)
-04/2017 | 践行实践出真知——IBSS钱力显博士荣获西浦年度最佳教师奖 | [IBSS Wechat News](https://mp.weixin.qq.com/s/UUHCQd41LP0_aEwY7ebvAQ)
 08/2016 | Research workshop explores latest in smart and green urban mobility | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2016/08/research-workshop-explores-latest-in-smart-and-green-urban-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2016/09/research-workshop-explores-latest-in-smart-and-green-urban-mobility)
 
 
@@ -156,4 +155,4 @@ Address: 8 Chongwen Road, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.
 Telephone: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
 
 
-###### Copyright © 2021~2022 Smart Mobility Analytics Center of XJTLU
+###### Copyright © 2021~2022 Smart Mobility Analytics Center of IBSS at XJTLU
