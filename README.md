@@ -98,7 +98,7 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 Name |	Academic position	| Institution 
 -----|---------------------------|-------------------
-<img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Associate Professor of Management|	Purdue University, USA
+<img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
 <img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Senior Lecturer in Operations Management|Loughborough University, UK
 <img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
