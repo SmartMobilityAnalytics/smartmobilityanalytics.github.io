@@ -128,21 +128,26 @@ Name |	Position	& Organization
 #### 2022
 * Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, forthcoming. (ABS4, ABDC-A*, IF: 10.982)
 * Li, D., Huang, Y*., Sun, H., & Zhi, B. (2022). Achieving sustainability in sharing-based product service system: a contingency perspective. _Journal of Cleaner Production_, 332, 129997. DOI: [https://doi.org/10.1016/j.jclepro.2021.129997](https://doi.org/10.1016/j.jclepro.2021.129997) (ABS2, ABDC-A, IF: 9.30) 
+
 #### 2021
 *	Huang, Y. & Qian, L.* (2021). Understanding the Potential Adoption of Autonomous Vehicles: The Perspective of Behavioural Reasoning Theory, _Psychology & Marketing_, 38(4), 669-690. DOI: [https://doi.org/10.1002/mar.21465](https://doi.org/10.1002/mar.21465) (ABS3, ABDC-A, IF 2.939)
 * Huang, Y. & Qian, L.*, Soopramanien, D. & Tyfield, D. (2021). Buy, Lease or Share? Consumer Preferences for Innovative Business Models in the Market of Electric Vehicles, _Technological Forecasting and Social Change_, 166, 120639. DOI: [https://doi.org/10.1016/j.techfore.2021.120639](https://doi.org/10.1016/j.techfore.2021.120639) (ABS3, ABDC-A, IF 8.593) 
 * Huang, Y., Qian, L.*, Tyfield, D. & Soopramanien, D. (2021). On the heterogeneity in consumer preferences across generations and cities towards electric vehicles in China, _Technological Forecasting and Social Change_, 167, 120687. DOI: [https://doi.org/10.1016/j.techfore.2021.120687](https://doi.org/10.1016/j.techfore.2021.120687) (ABS3, ABDC-A, IF 8.593) 
 * Huang, Y. & Qian, L.* (2021). Consumer Adoption of Electric Vehicles in Alternative Business Models, _Energy Policy_, 155, 112338. DOI: [https://doi.org/10.1016/j.enpol.2021.112338](https://doi.org/10.1016/j.enpol.2021.112338) (ABS2, ABDC-A, IF 6.142)
 *	Zhang, C., Qian, L.*, & Hu, J.-Q. (2021). COVID-19 Pandemic with Human Mobility across Countries, _Journal of the Operations Research Society of China_, 9(2), 229-244. DOI: [https://doi.org/10.1007/s40305-020-00317-6](https://doi.org/10.1007/s40305-020-00317-6)
+
 #### 2019
 * Qian, L, Grisolía, J.* & Soopramanien, D. (2019). The Impact of Service and Governmental Policy Attributes on Consumer Preferences towards Electric Vehicles in China, _Transportation Research Part A: Policy and Practice_, 122, 70-84. DOI: [https://doi.org/10.1016/j.tra.2019.02.008](https://doi.org/10.1016/j.tra.2019.02.008) (ABS3, ABDC-A*, IF 5.594)
 * Yin, J., Qian, L.* & Shen, J. (2019). From Value Co-creation to Value Co-destruction? The Case of Dockless Bike Sharing in China, _Transportation Research Part D: Transport and Environment_, 71, 169-185. DOI: [https://doi.org/10.1016/j.trd.2018.12.004](https://doi.org/10.1016/j.trd.2018.12.004) (ASB3, ABDC-A, IF 5.495)
+
 #### 2018
 *	Huang, Y. & Qian, L.* (2018). Consumer preferences for electric vehicles in lower tier cities of China: evidences from south Jiangsu region, _Transportation Research Part D: Transport and Environment_, 63, 482-497. DOI: [https://doi.org/10.1016/j.trd.2018.06.017](https://doi.org/10.1016/j.trd.2018.06.017) (ASB3, ABDC-A, IF 5.495)
 *	Yin, J., Qian, L. & Singhapakdi, A.* (2018). Sharing sustainability: how values and ethics matter in consumers’ adoption of public bicycle-sharing scheme, _Journal of Business Ethics_, 149(2), 313-332. DOI: [https://doi.org/10.1007/s10551-016-3043-8](https://doi.org/10.1007/s10551-016-3043-8) (FT-50, ABS3, ABDC-A, IF 6.430)
+
 #### 2017
 *	Qian, L. & Yin, J.* (2017). Linking Chinese Cultural Values and the Adoption of Electric Vehicles: The Mediating Role of Ethical Evaluation, _Transportation Research Part D: Transport and Environment_, 56, 175-188. DOI: [https://doi.org/10.1016/j.trd.2017.07.029](https://doi.org/10.1016/j.trd.2017.07.029) (ASB3, ABDC-A, IF 5.495)
 *	Qian, L., Soopramanien, D.* & Daryanto, A. (2017). First-time buyers’ subjective knowledge and the attribute preferences of Chinese car buyers, _Journal of Retailing and Consumer Services_, 36, 189-196. DOI: [https://doi.org/10.1016/j.jretconser.2017.01.004](https://doi.org/10.1016/j.jretconser.2017.01.004) (ASB2, ABDC-A, IF 7.135)
+
 #### 2015 and earlier
 * Qian, L. & Soopramanien, D.* (2015). Incorporating heterogeneity to forecast the demand of new products in emerging markets: the green car market in China, _Technological Forecasting and Social Change_, 91(1), 33-46. DOI: [https://doi.org/10.1016/j.techfore.2014.01.008](https://doi.org/10.1016/j.techfore.2014.01.008) (ABS3, ABDC-A, IF 8.593)
 * Qian, L. & Soopramanien, D.* (2014). Using diffusion models to forecast market size in emerging markets with applications to the Chinese car market, _Journal of Business Research_, 67(6), 1226-1232. DOI: [https://doi.org/10.1016/j.jbusres.2013.04.008](https://doi.org/10.1016/j.jbusres.2013.04.008) (ASB3, ABDC-A, IF 7.550)
