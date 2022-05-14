@@ -50,6 +50,7 @@ Name |	Academic position	| Research experience
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
+<img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://www.xjtlu.edu.cn/zh/departments/academic-departments/intelligent-operations-and-marketing/staff/yifu-li)|Assisant Professor | Operations Management
 
 
 
@@ -78,7 +79,8 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturersâ
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Shuang Li  | Research Assistant <br/>(2022~ ) | Mobility Analytics on Bikesharing and Electric Vehicle Markets
+Shuang Li  | Research Assistant <br/>(2022~ ) | Mobility Analytics 
+Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Xiaoxuan Shan	|	MSc. Management student <br/>(2021~2022) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
 Shimin Cai    |	MSc. Management student <br/>(2021~2022) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
 Yu Zhang			| MSc. Management student <br/>(2021~2022) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
@@ -107,11 +109,13 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=51f89de6-7c37-49e2-865f-930901025035&language=en-GB) |Associate Professor	in Economics |Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
+<img src="https://user-images.githubusercontent.com/90227575/168426763-1163abfe-fa21-4ec8-a915-70617a58db09.png" width="100"><br/>[Bowei Chen](https://www.gla.ac.uk/schools/business/staff/boweichen/)|Senior Lecturer in Marketing Analytics and Data Science |University of Glasgow, UK
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
+<img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor in Marketing |Chongqing Technology & Business University, China	
 <img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2021/0301/c13853a146988/page.htm)	|Associate Professor in Management| Guizhou University, China
-<img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
+
 
 
 
