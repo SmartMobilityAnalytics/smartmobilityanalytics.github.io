@@ -50,7 +50,7 @@ Name |	Academic position	| Research experience
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
-<img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://www.xjtlu.edu.cn/zh/departments/academic-departments/intelligent-operations-and-marketing/staff/yifu-li)|Assisant Professor | Operations Management
+<img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://www.xjtlu.edu.cn/zh/departments/academic-departments/intelligent-operations-and-marketing/staff/yifu-li)|Assistant Professor | Operations Management
 
 
 
@@ -59,7 +59,7 @@ Name |	Academic position	| Research experience
 
 Name |	Academic position	| Research experience
 -----|--------------------|----------------------
-<img src="https://user-images.githubusercontent.com/90227575/165217194-8a6c3fa3-2713-45e3-9781-b5d734ce9725.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Department of Urban Planning and Design|Networked public transport
+<img src="https://user-images.githubusercontent.com/90227575/165217194-8a6c3fa3-2713-45e3-9781-b5d734ce9725.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Urban Planning and Design|Networked public transport
 <img src="https://user-images.githubusercontent.com/90227575/165217235-a1ddae6c-9500-4d1b-9de3-7223efd11e09.png" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
 <img src="https://user-images.githubusercontent.com/90227575/165217294-abec2561-be82-486a-bb13-a01e35f2a4e2.png" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
 
