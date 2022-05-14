@@ -43,7 +43,7 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 ### IBSS Faculty Members
 
-Name |	Academic position	| Research experience
+Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
 <img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy
 <img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> [Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien)|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
@@ -57,7 +57,7 @@ Name |	Academic position	| Research experience
 
 ### Other XJTLU Faculty Members
 
-Name |	Academic position	| Research experience
+Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
 <img src="https://user-images.githubusercontent.com/90227575/165217194-8a6c3fa3-2713-45e3-9781-b5d734ce9725.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Urban Planning and Design|Networked public transport
 <img src="https://user-images.githubusercontent.com/90227575/165217235-a1ddae6c-9500-4d1b-9de3-7223efd11e09.png" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
