@@ -130,7 +130,7 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2022
-* Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, forthcoming. (ABS4, ABDC-A*, IF: 10.982)
+* Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, online first. DOI: [https://doi.org/10.1177/00472875221093017](https://doi.org/10.1177/00472875221093017) (ABS4, ABDC-A*, IF: 10.982)
 * Li, D., Huang, Y*., Sun, H., & Zhi, B. (2022). Achieving sustainability in sharing-based product service system: a contingency perspective. _Journal of Cleaner Production_, 332, 129997. DOI: [https://doi.org/10.1016/j.jclepro.2021.129997](https://doi.org/10.1016/j.jclepro.2021.129997) (ABS2, ABDC-A, IF: 9.30) 
 
 ### 2021
@@ -172,6 +172,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+05/2022 | [Upscale hotels benefit from EV charging stations, study shows](https://www.xjtlu.edu.cn/en/news/2022/may/upscale-hotels-benefit-from-ev-charging-stations-study-shows) | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2022/may/upscale-hotels-benefit-from-ev-charging-stations-study-shows)
 08/2021 | [What electric vehicle manufacturers can learn from China – their biggest market](https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers) <br/>[电动汽车制造商可以从他们的最大市场——中国学到什么](https://www.xjtlu.edu.cn/zh/news/2021/09/diandongqicheshichangyushangyemoshi)| [The Conversation](https://theconversation.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market-161536); [Channel News Asia](https://www.channelnewsasia.com/commentary/electric-car-china-tesla-hongguang-ev-transport-charging-subsidy-2139886); [All China Review](https://allchinareview.com/what-electric-vehicle-manufacturers-can-learn-from-china-their-biggest-market/power-supply-connect-to-electric-vehicle-for-charge-to-the-battery-charging-technology-industry-transport-which-are-the-futuristic-of-the-automobile-ev-fuel-plug-in-hybrid-car/); [TechXplore](https://techxplore.com/news/2021-08-electric-vehicle-china-biggest.html); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2021/08/the-conversation-electric-vehicle-manufacturers); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2021/09/diandongqicheshichangyushangyemoshi)
 06/2021 |	[喜讯 我院钱力显副教授论文入选“世界前1%高被引论文”](https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw)| [IBSS News](https://mp.weixin.qq.com/s/JZ-WkvesSJfuioRkx9U_Vw)
 07/2020 | [Holistic approach to reduce international travel would assist battle against COVID-19](https://www.xjtlu.edu.cn/en/news/2020/07/holistic-approach-to-global-travel-restrictions-indicated) <br/>[基于跨国人口流动数据的新冠病毒传播途径分析](https://mp.weixin.qq.com/s/5-Bo1fEV_TurQ0_2gYkGSQ) |[Travel Daily News](https://www.traveldailynews.com/post/holistic-approach-to-reduce-international-travel-would-assist-battle-against-covid-19); [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2020/07/holistic-approach-to-global-travel-restrictions-indicated); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2020/07/quanqiushiyekangjiyiqing); [运筹OR帷幄](https://mp.weixin.qq.com/s/5-Bo1fEV_TurQ0_2gYkGSQ)
