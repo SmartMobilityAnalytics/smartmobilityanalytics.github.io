@@ -162,11 +162,12 @@ Name |	Position	& Organization
 
 ## Research Grants
 
-* “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, in progress.
-* “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, completed.
-* “Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, completed.
-* “Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, completed.
-* “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, completed.
+* “Consumer Preferences and Behavioral Mechanism for Automated Vehicles: the Perspective of Privacy Data Governance and Algorithm Ethics”, The Fundamental Research Funds for the Provincial Universities of Zhejiang, 2022 - 2024, PI: Youlin Huang. 
+* “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, PI: Lixian Qian.
+* “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, PI: Lixian Qian.
+* “Consumer Adoption of Connected-Automated Vehicles in China: A Preliminary Study”, Research Enhancement Fund of XJTLU, 09/2019 – 08/2021, PI: Lixian Qian.
+* “Research on the low-carbon innovation adoption and empirical evidences in south Jiangsu region”, Jiangsu Department of Education Philosophy and Social Sciences Research Program, 07/2015 – 06/2017, PI: Lixian Qian.
+* “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, PI: Lixian Qian.
 
 
 ## News and Media Exposure
