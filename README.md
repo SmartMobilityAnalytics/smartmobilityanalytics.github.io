@@ -149,10 +149,12 @@ Name |	Position	& Organization
 ### 2019
 * Qian, L, Grisolía, J.* & Soopramanien, D. (2019). The Impact of Service and Governmental Policy Attributes on Consumer Preferences towards Electric Vehicles in China, _Transportation Research Part A: Policy and Practice_, 122, 70-84. DOI: [https://doi.org/10.1016/j.tra.2019.02.008](https://doi.org/10.1016/j.tra.2019.02.008) (ABS3, ABDC-A*, IF 5.594)
 * Yin, J., Qian, L.* & Shen, J. (2019). From Value Co-creation to Value Co-destruction? The Case of Dockless Bike Sharing in China, _Transportation Research Part D: Transport and Environment_, 71, 169-185. DOI: [https://doi.org/10.1016/j.trd.2018.12.004](https://doi.org/10.1016/j.trd.2018.12.004) (ASB3, ABDC-A, IF 5.495)
+  * ESI Highly Cited Paper in Social Science General, 2021
 
 ### 2018
 *	Huang, Y. & Qian, L.* (2018). Consumer preferences for electric vehicles in lower tier cities of China: evidences from south Jiangsu region, _Transportation Research Part D: Transport and Environment_, 63, 482-497. DOI: [https://doi.org/10.1016/j.trd.2018.06.017](https://doi.org/10.1016/j.trd.2018.06.017) (ASB3, ABDC-A, IF 5.495)
 *	Yin, J., Qian, L. & Singhapakdi, A.* (2018). Sharing sustainability: how values and ethics matter in consumers’ adoption of public bicycle-sharing scheme, _Journal of Business Ethics_, 149(2), 313-332. DOI: [https://doi.org/10.1007/s10551-016-3043-8](https://doi.org/10.1007/s10551-016-3043-8) (FT-50, ABS3, ABDC-A, IF 6.430)
+      * ESI Highly Cited Paper in Economics & Business, 2020
 
 ### 2017
 *	Qian, L. & Yin, J.* (2017). Linking Chinese Cultural Values and the Adoption of Electric Vehicles: The Mediating Role of Ethical Evaluation, _Transportation Research Part D: Transport and Environment_, 56, 175-188. DOI: [https://doi.org/10.1016/j.trd.2017.07.029](https://doi.org/10.1016/j.trd.2017.07.029) (ASB3, ABDC-A, IF 5.495)
