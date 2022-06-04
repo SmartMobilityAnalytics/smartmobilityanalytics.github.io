@@ -24,6 +24,8 @@ To be a leading platform on smart mobility analytics that synergises the insight
 * The Adoption of Smart Mobility Technologies/Solutions 
 * Data Privacy and Algorithm Ethics in the Smart Mobility
 * Operations and Revenue Management of Smart Mobility Network
+* Low Carbon Mobility Analytics and Policy
+* More...
 
 
 ### Industry Collaboration
