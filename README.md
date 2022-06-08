@@ -54,6 +54,8 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
 <img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://www.xjtlu.edu.cn/zh/departments/academic-departments/intelligent-operations-and-marketing/staff/yifu-li)|Assistant Professor | Operations Management
 <img src="https://user-images.githubusercontent.com/90227575/170500433-004d9a92-8dbd-4197-bff6-8fb1577df897.png" width="100" ><br/> [Linjia Zhang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/economics/staff/linjia-zhang)|Assistant Professor | Tourism Economics
+<img src="https://user-images.githubusercontent.com/90227575/172638636-727bd56b-07e1-4b62-997f-7d4f79e124fc.png" width="100" ><br/> [Kingsley Dogah](https://www.xjtlu.edu.cn/zh/departments/academic-departments/economics/staff/kingsley-dogah)|Assistant Professor | Energy Economics
+
 
 
 
