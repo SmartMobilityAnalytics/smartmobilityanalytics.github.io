@@ -204,7 +204,7 @@ Year and Month | News  | Additional Link
 
 Address: 8 Chongwen Road, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
 
-Telephone: +86(0)512-8816-1172; Email: [Lixian.Qian@xjtlu.edu.cn](mailto: lixian.qian@xjtlu.edu.cn)
+Telephone: +86(0)512-8816-1172; Email: [SMAC.IBSS@xjtlu.edu.cn](mailto: SMAC.IBSS@xjtlu.edu.cn)
 
 
 ###### Copyright © 2021~2022 Smart Mobility Analytics Center of IBSS at XJTLU
