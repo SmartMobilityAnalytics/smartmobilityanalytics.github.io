@@ -125,8 +125,6 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2021/0301/c13853a146988/page.htm)	|Associate Professor in Management| Guizhou University, China
 
 
-
-
 ### Industry Advisory Board
 
 Name |	Position	& Organization 
@@ -134,6 +132,8 @@ Name |	Position	& Organization
 <img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division of National Innovation Center - Yangtze Delta;<br/> Visiting Professor at Xi'an Jiaotong-Liverpool University 
 <img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics, Afiniti China 
 <img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager of New Energy Vehicle Purchasing Delivery Center, CheHaoDuo Group
+<img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| Chief Marketing Officer, iMotion Automotive Technology (Suzhou) Co., Ltd.
+
 
 
 ## Research Publications
