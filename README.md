@@ -85,6 +85,7 @@ Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
 Shuang Li  | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
+Chi Yang | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Xiaoxuan Shan	|	MSc. Management student <br/>(2021~2022) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
 Shimin Cai    |	MSc. Management student <br/>(2021~2022) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
 Yu Zhang			| MSc. Management student <br/>(2021~2022) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
