@@ -138,9 +138,10 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2022
-* Qian, L.*, Pang, Z. & Soopramanien, D. (2022). Influences of Car Sharing and Car License Plate Lottery Policy on Consumer Preference and Accessibility in Urban Mobility System: A Stated Choice Experiment in Beijing, _Journal of Cleaner Production_, online first. DOI: [https://doi.org/10.1016/j.jclepro.2022.132505](https://doi.org/10.1016/j.jclepro.2022.132505)  (ABS2, ABDC-A, IF: 9.30)
+* Li, D., Huang, Y.* & Qian, L. (2022). Potential Adoption of Robotaxi Service: The Roles of Perceived Benefits to Multiple Stakeholders and Environmental Awareness, _Transport Policy_, accepted. (ABS2, ABDC-A, IF: 6.173)
+* Qian, L.*, Pang, Z. & Soopramanien, D. (2022). Influences of Car Sharing and Car License Plate Lottery Policy on Consumer Preference and Accessibility in Urban Mobility System: A Stated Choice Experiment in Beijing, _Journal of Cleaner Production_, 362, 132505. DOI: [https://doi.org/10.1016/j.jclepro.2022.132505](https://doi.org/10.1016/j.jclepro.2022.132505)  (ABS2, ABDC-A, IF: 9.30)
 * Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, online first. DOI: [https://doi.org/10.1177/00472875221093017](https://doi.org/10.1177/00472875221093017) (ABS4, ABDC-A*, IF: 10.982)
-* Li, D., Huang, Y*., Sun, H., & Zhi, B. (2022). Achieving sustainability in sharing-based product service system: a contingency perspective. _Journal of Cleaner Production_, 332, 129997. DOI: [https://doi.org/10.1016/j.jclepro.2021.129997](https://doi.org/10.1016/j.jclepro.2021.129997) (ABS2, ABDC-A, IF: 9.30) 
+* Li, D., Huang, Y.*, Sun, H., & Zhi, B. (2022). Achieving sustainability in sharing-based product service system: a contingency perspective. _Journal of Cleaner Production_, 332, 129997. DOI: [https://doi.org/10.1016/j.jclepro.2021.129997](https://doi.org/10.1016/j.jclepro.2021.129997) (ABS2, ABDC-A, IF: 9.30) 
 
 ### 2021
 *	Huang, Y. & Qian, L.* (2021). Understanding the Potential Adoption of Autonomous Vehicles: The Perspective of Behavioural Reasoning Theory, _Psychology & Marketing_, 38(4), 669-690. DOI: [https://doi.org/10.1002/mar.21465](https://doi.org/10.1002/mar.21465) (ABS3, ABDC-A, IF 2.939)
