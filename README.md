@@ -7,6 +7,8 @@
 
 To be a leading platform on smart mobility analytics that synergises the insights and needs of academic research, industry and education.
 
+西浦智慧出行分析研究中心旨在构建领先的智慧出行研究合作平台，整合学术研究、行业洞察和商业教育。
+
 
 ## Missions
 
@@ -181,7 +183,7 @@ Name |	Position	& Organization
 * “Consumer Adoption Preferences to Eco-Innovations: the Case of Alternative Fuel Cars in China”, Research Development Fund of XJTLU, 03/2014 – 02/2016, PI: Lixian Qian.
 
 
-## News and Media Exposure
+## SMAC in the News
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
@@ -198,6 +200,14 @@ Year and Month | News  | Additional Link
 01/2018 | [XJTLU researchers complete provincial fund projects](https://www.xjtlu.edu.cn/en/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme)<br/>[西浦三位学者顺利完成省高校哲学社科基金项目结项](https://www.xjtlu.edu.cn/zh/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme) | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2018/01/jiangsu-university-philosophy-and-social-sciences-research-funding-programme)
 08/2016 | [Research workshop explores latest in smart and green urban mobility](https://www.xjtlu.edu.cn/en/news/2016/08/research-workshop-explores-latest-in-smart-and-green-urban-mobility)<br/>[智慧与绿色城市交通出行研讨会在西浦举行](https://www.xjtlu.edu.cn/zh/news/2016/09/research-workshop-explores-latest-in-smart-and-green-urban-mobility) | [XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2016/08/research-workshop-explores-latest-in-smart-and-green-urban-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2016/09/research-workshop-explores-latest-in-smart-and-green-urban-mobility)
 
+
+
+
+## SMAC Industry Newsletter
+
+Year  | Month  | Newsletter Link
+-----|---------------------------|-------------------
+2022 | July | [https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ](https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ)
 
 
 
