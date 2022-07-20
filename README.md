@@ -214,7 +214,7 @@ Year  | Month  | Newsletter Link
 
 
 
-**Contacts**
+## Contact Us
 
 Address: 8 Chongwen Road, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.China, 215123
 
