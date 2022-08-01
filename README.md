@@ -88,6 +88,11 @@ Name |	Student Type    	| Research Topic
 Shuang Li  | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Chi Yang | Research Assistant <br/>(2022~ ) | Mobility Analytics 
+Ruoyun Chen | MSc. Project Management <br/>(2022~2023)|
+Yifan Liang | MSc. Project Management <br/>(2022~2023)|
+Yuqing Bao | MSc. Project Management <br/>(2022~2023)|
+Wenyu Li | MSc. Project Management <br/>(2022~2023)|
+Yinchang Yuan | MSc. Operations & Supply Chain Management <br/>(2022~2023)|
 Xiaoxuan Shan	|	MSc. Management student <br/>(2021~2022) | Consumer Awareness, Attitude and Purchasing Behavior towards Low Carbon Products in China
 Shimin Cai    |	MSc. Management student <br/>(2021~2022) | Transformation of Value Co-creation and Value Co-destruction: The Case of Car Sharing in China
 Yu Zhang			| MSc. Management student <br/>(2021~2022) | The Role of Trust in Consumers' Adoption of Autonomous Vehicles: An Extended Technology Acceptance Model
@@ -140,7 +145,7 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2022
-* Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, accepted. (UTD-24, FY-50, ABS4, ABDC-A*)
+* Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, accepted. (UTD-24, FT-50, ABS4, ABDC-A*)
 * Li, D., Huang, Y.* & Qian, L. (2022). Potential Adoption of Robotaxi Service: The Roles of Perceived Benefits to Multiple Stakeholders and Environmental Awareness, _Transport Policy_, 126, 120-135. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.tranpol.2022.07.004)
 * Qian, L.*, Pang, Z. & Soopramanien, D. (2022). Influences of Car Sharing and Car License Plate Lottery Policy on Consumer Preference and Accessibility in Urban Mobility System: A Stated Choice Experiment in Beijing, _Journal of Cleaner Production_, 362, 132505. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.jclepro.2022.132505) 
 * Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, online first. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
