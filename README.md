@@ -225,6 +225,6 @@ Address: 8 Chongwen Road, Suzhou Industrial Park, Suzhou, Jiangsu Province, P.R.
 
 Telephone: +86(0)512-8816-1172; Email: [SMAC.IBSS@xjtlu.edu.cn](mailto: SMAC.IBSS@xjtlu.edu.cn)
 
-Our Wechat QR code </br><img src="https://user-images.githubusercontent.com/90227575/184616036-21c3ba4b-e26b-4015-a917-42c8f89b9a87.png" width="100" >
+Our Wechat QR code <br/><img src="https://user-images.githubusercontent.com/90227575/184616036-21c3ba4b-e26b-4015-a917-42c8f89b9a87.png" width="100" >
 
 ###### Copyright © 2021~2022 Smart Mobility Analytics Center of IBSS at XJTLU
