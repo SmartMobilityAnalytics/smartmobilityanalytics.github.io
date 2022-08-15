@@ -214,8 +214,7 @@ Year and Month | News  | Additional Link
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
 2022 | July | [https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ](https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ)
-
-
+2022 | August | [https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ](https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ)
 
 
 
