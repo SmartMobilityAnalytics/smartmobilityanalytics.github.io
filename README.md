@@ -68,6 +68,8 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165217194-8a6c3fa3-2713-45e3-9781-b5d734ce9725.png" width="100"  ><br/>[Sophie Sturup](https://www.xjtlu.edu.cn/zh/departments/academic-departments/urban-planning-and-design/staff/sophie-sturup)|Associate Professor	in Urban Planning and Design|Networked public transport
 <img src="https://user-images.githubusercontent.com/90227575/165217235-a1ddae6c-9500-4d1b-9de3-7223efd11e09.png" width="100"  ><br/>[Hyung-Chul Chung](https://www.xjtlu.edu.cn/en/departments/academic-departments/urban-planning-and-design/staff/hyungchul-chung)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
 <img src="https://user-images.githubusercontent.com/90227575/165217294-abec2561-be82-486a-bb13-a01e35f2a4e2.png" width="100"  ><br/>[Jianjun Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/jianjun-chen)|Teaching Fellow	in	Computing|Transportation Optimization
+<img src="https://user-images.githubusercontent.com/90227575/188316420-3cdc3e8f-b6a4-4883-bdd0-7ad7855856c9.png" width="100" ><br/>[Bin Han](https://www.xjtlu.edu.cn/en/departments/academic-departments/electrical-and-electronic-engineering/staff/bing-han)|Lecturer in Electrical and Electronic Engineering|Electric vehicle integration to power grids, energy storage systems and smart grids
+
 
 
 ### PhD Students
