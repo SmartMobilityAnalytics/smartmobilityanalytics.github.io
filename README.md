@@ -128,7 +128,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
-<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor in Marketing |Chongqing Technology & Business University, China	
+<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor in Marketing |Dongbei University of Finance and Economics, China	
 <img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2021/0301/c13853a146988/page.htm)	|Associate Professor in Management| Guizhou University, China
 <img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://bs.ustc.edu.cn/chinese/profile-1999.html)|Associate Professor in Operations Management | University of Science and Technology in China
 
@@ -145,7 +145,7 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2022
-* Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, accepted. (UTD-24, FT-50, ABS4, ABDC-A*)
+* Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, online first. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
 * Li, D., Huang, Y.* & Qian, L. (2022). Potential Adoption of Robotaxi Service: The Roles of Perceived Benefits to Multiple Stakeholders and Environmental Awareness, _Transport Policy_, 126, 120-135. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.tranpol.2022.07.004)
 * Qian, L.*, Pang, Z. & Soopramanien, D. (2022). Influences of Car Sharing and Car License Plate Lottery Policy on Consumer Preference and Accessibility in Urban Mobility System: A Stated Choice Experiment in Beijing, _Journal of Cleaner Production_, 362, 132505. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.jclepro.2022.132505) 
 * Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, online first. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
