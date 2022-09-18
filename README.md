@@ -183,6 +183,7 @@ Name |	Position	& Organization
 
 ## Research Grants
 
+* "Consumer preferences for autonomous vehicles: the perspective of privacy data management and ethics of algorithm decisions", The National Natural Science Foundation of China (NSFC) Youth Scientist Grant, 01/2023 – 12/2025, PI: Youlin Huang.
 * “Consumer Preferences and Behavioral Mechanism for Automated Vehicles: the Perspective of Privacy Data Governance and Algorithm Ethics”, The Fundamental Research Funds for the Provincial Universities of Zhejiang, 2022 - 2024, PI: Youlin Huang. 
 * “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, PI: Lixian Qian.
 * “Theoretical and Empirical Studies on the Dynamic Diffusion of Low Carbon Innovations: the Perspective of Socio-technical System Evolution”, The National Natural Science Foundation of China (NSFC) General Programme Grant, , 01/2016 -12/2019, PI: Lixian Qian.
@@ -195,6 +196,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+09/2022 | [我院钱力显博士论文被顶级期刊Production and Operations Management录用](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)|[IBSS News](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)
 09/2022 | [喜讯-SMAC成员获批国家自然科学基金青年项目](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)|[SMAC News](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)
 09/2022 | [Registration Open for 2022 Smart and Future Mobility Workshop](https://mp.weixin.qq.com/s/mZf0ZKQC0ToLPgk6-2qcrg)<br/>[2022智慧与未来出行研讨会报名启动](https://mp.weixin.qq.com/s/KKEpld-gdBhaYlqFs-PJBg)|[IBSS News](https://mp.weixin.qq.com/s/KKEpld-gdBhaYlqFs-PJBg);[IBSS News in English](https://mp.weixin.qq.com/s/mZf0ZKQC0ToLPgk6-2qcrg)
 08/2022 | [【倒计时1个月】2022智慧与未来出行研讨会](https://mp.weixin.qq.com/s/6tO3XhTuC8U4oodrLIbhyw)|[SMAC News](https://mp.weixin.qq.com/s/6tO3XhTuC8U4oodrLIbhyw) 
@@ -218,8 +220,10 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
-2022 | July | [https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ](https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ)
+2022 | September | [https://mp.weixin.qq.com/s/-AxgIbNe5iV8NtRa_6MirA](https://mp.weixin.qq.com/s/-AxgIbNe5iV8NtRa_6MirA)
 2022 | August | [https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ](https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ)
+2022 | July | [https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ](https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ)
+
 
 
 
