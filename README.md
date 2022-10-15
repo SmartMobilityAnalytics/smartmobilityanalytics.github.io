@@ -196,7 +196,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
-09/2022 |[XJTLU IBSS and Key Partners Hold 2022 Research Workshop on Smart and Future Mobility](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw) <br/>[2022智慧与未来出行研讨会在西浦成功举办](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ)|[IBSS News in English](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw); [IBSS News in Chinese](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ); [CRI国际在线](https://gr.cri.cn/20220926/dd21f8f3-f4ae-9791-f178-4e73da171574.html); [腾讯新闻](https://new.qq.com/omn/20200318/20220926A052L100?.html)
+09/2022 |[XJTLU IBSS and Key Partners Hold 2022 Research Workshop on Smart and Future Mobility](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw) <br/>[2022智慧与未来出行研讨会在西浦成功举办](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2022/10/2022-research-workshop-on-smart-and-future-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2022/10/2022-zhihui-weilaichuxing); [CRI国际在线](https://gr.cri.cn/20220926/dd21f8f3-f4ae-9791-f178-4e73da171574.html); [腾讯新闻](https://new.qq.com/omn/20200318/20220926A052L100?.html)
 09/2022 | [我院钱力显博士论文被顶级期刊Production and Operations Management录用](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)|[IBSS News](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)
 09/2022 | [喜讯-SMAC成员获批国家自然科学基金青年项目](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)|[SMAC News](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)
 09/2022 | [Registration Open for 2022 Smart and Future Mobility Workshop](https://mp.weixin.qq.com/s/mZf0ZKQC0ToLPgk6-2qcrg)<br/>[2022智慧与未来出行研讨会报名启动](https://mp.weixin.qq.com/s/KKEpld-gdBhaYlqFs-PJBg)|[IBSS News](https://mp.weixin.qq.com/s/KKEpld-gdBhaYlqFs-PJBg); [IBSS News in English](https://mp.weixin.qq.com/s/mZf0ZKQC0ToLPgk6-2qcrg)
@@ -221,6 +221,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2022 | October | [https://mp.weixin.qq.com/s/0Domg6TWmaCV9t5iEkdq4Q](https://mp.weixin.qq.com/s/0Domg6TWmaCV9t5iEkdq4Q)
 2022 | September | [https://mp.weixin.qq.com/s/-AxgIbNe5iV8NtRa_6MirA](https://mp.weixin.qq.com/s/-AxgIbNe5iV8NtRa_6MirA)
 2022 | August | [https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ](https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ)
 2022 | July | [https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ](https://mp.weixin.qq.com/s/TADJyyg7qWmg8khaxcwGiQ)
