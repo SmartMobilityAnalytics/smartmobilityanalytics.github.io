@@ -89,9 +89,9 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturersâ
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Shuang Li  | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Chi Yang | Research Assistant <br/>(2022~ ) | Mobility Analytics 
+Shuang Li  | Research Assistant <br/>(2022) | Mobility Analytics 
 Ruoyun Chen | MSc. Project Management <br/>(2022~2023)|Investigating the Attitude and Intention of Non-early Adopters to Purchase New Energy Vehicles in China
 Yifan Liang | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Adopting New Energy Vehicles in the Small Cities and Rural Areas of China
 Yuqing Bao | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Electric Vehicles: the Perspectives of Utilitarian and Hedonic Values
