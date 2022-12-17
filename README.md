@@ -89,9 +89,9 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturersâ
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
+Tong Chen | Research Assistant <br/>(2022~ ) | Mobility Analytics
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Chi Yang | Research Assistant <br/>(2022~ ) | Mobility Analytics 
-Shuang Li  | Research Assistant <br/>(2022) | Mobility Analytics 
 Ruoyun Chen | MSc. Project Management <br/>(2022~2023)|Investigating the Attitude and Intention of Non-early Adopters to Purchase New Energy Vehicles in China
 Yifan Liang | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Adopting New Energy Vehicles in the Small Cities and Rural Areas of China
 Yuqing Bao | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Electric Vehicles: the Perspectives of Utilitarian and Hedonic Values
@@ -222,6 +222,8 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2022 | December |[https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig](https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig)
+2022 | November |[https://mp.weixin.qq.com/s/GYD9-SzUiiBF4pRM3OwHFg](https://mp.weixin.qq.com/s/GYD9-SzUiiBF4pRM3OwHFg)
 2022 | October | [https://mp.weixin.qq.com/s/0Domg6TWmaCV9t5iEkdq4Q](https://mp.weixin.qq.com/s/0Domg6TWmaCV9t5iEkdq4Q)
 2022 | September | [https://mp.weixin.qq.com/s/-AxgIbNe5iV8NtRa_6MirA](https://mp.weixin.qq.com/s/-AxgIbNe5iV8NtRa_6MirA)
 2022 | August | [https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ](https://mp.weixin.qq.com/s/5ff6jCiM3GAuSymC_H05lQ)
