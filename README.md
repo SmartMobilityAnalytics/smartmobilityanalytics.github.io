@@ -147,6 +147,9 @@ Name |	Position	& Organization
 
 
 ## Research Publications
+### 2023
+* Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumers’ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
+
 ### 2022
 * Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, online first. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
 * Li, D., Huang, Y.* & Qian, L. (2022). Potential Adoption of Robotaxi Service: The Roles of Perceived Benefits to Multiple Stakeholders and Environmental Awareness, _Transport Policy_, 126, 120-135. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.tranpol.2022.07.004)
