@@ -89,6 +89,7 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturersâ
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
+Tianchen Liu | Research Assistant <br/>(2023~ ) | Spatial Analytics
 Tong Chen | Research Assistant <br/>(2022~ ) | Mobility Analytics
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Chi Yang | Research Assistant <br/>(2022~ ) | Mobility Analytics 
@@ -117,7 +118,7 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 Name |	Academic position	| Institution 
 -----|---------------------------|-------------------
 <img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
-<img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Senior Lecturer in Operations Management|Loughborough University, UK
+<img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Reader in Operations Management|Loughborough University, UK
 <img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
 <img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Associate Professor in Marketing|SP Jain School of Global Management, Singapore
@@ -149,6 +150,7 @@ Name |	Position	& Organization
 ## Research Publications
 ### 2023
 * Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumersâ€™ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
+* Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, Accepted.
 
 ### 2022
 * Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, online first. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
@@ -225,6 +227,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2023 | January  |[https://mp.weixin.qq.com/s/j6xe6uP1uCMm9IowCkSw3w](https://mp.weixin.qq.com/s/j6xe6uP1uCMm9IowCkSw3w)
 2022 | December |[https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig](https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig)
 2022 | November |[https://mp.weixin.qq.com/s/GYD9-SzUiiBF4pRM3OwHFg](https://mp.weixin.qq.com/s/GYD9-SzUiiBF4pRM3OwHFg)
 2022 | October | [https://mp.weixin.qq.com/s/0Domg6TWmaCV9t5iEkdq4Q](https://mp.weixin.qq.com/s/0Domg6TWmaCV9t5iEkdq4Q)
