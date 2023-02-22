@@ -149,14 +149,14 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2023
+* Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, 190, 122412. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2023.122412)
+* Qian, L.* & Zhang, C. (2023). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, 62(3), 663–684. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
 * Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumers’ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
-* Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, Accepted.
+* Li, D., Pang, Z. & Qian, L. (2023). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, 32(1), 261-282. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
 
 ### 2022
-* Li, D., Pang, Z. & Qian, L. (2022). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, online first. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
 * Li, D., Huang, Y.* & Qian, L. (2022). Potential Adoption of Robotaxi Service: The Roles of Perceived Benefits to Multiple Stakeholders and Environmental Awareness, _Transport Policy_, 126, 120-135. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.tranpol.2022.07.004)
 * Qian, L.*, Pang, Z. & Soopramanien, D. (2022). Influences of Car Sharing and Car License Plate Lottery Policy on Consumer Preference and Accessibility in Urban Mobility System: A Stated Choice Experiment in Beijing, _Journal of Cleaner Production_, 362, 132505. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.jclepro.2022.132505) 
-* Qian, L.* & Zhang, C. (2022). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, online first. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
 * Li, D., Huang, Y.*, Sun, H., & Zhi, B. (2022). Achieving sustainability in sharing-based product service system: a contingency perspective. _Journal of Cleaner Production_, 332, 129997. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.jclepro.2021.129997) 
 
 ### 2021
@@ -227,6 +227,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2023 | February |[https://mp.weixin.qq.com/s/0HCjohbACXjulZtzHOy8JA](https://mp.weixin.qq.com/s/0HCjohbACXjulZtzHOy8JA)
 2023 | January  |[https://mp.weixin.qq.com/s/j6xe6uP1uCMm9IowCkSw3w](https://mp.weixin.qq.com/s/j6xe6uP1uCMm9IowCkSw3w)
 2022 | December |[https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig](https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig)
 2022 | November |[https://mp.weixin.qq.com/s/GYD9-SzUiiBF4pRM3OwHFg](https://mp.weixin.qq.com/s/GYD9-SzUiiBF4pRM3OwHFg)
