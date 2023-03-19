@@ -51,7 +51,7 @@ Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
 <img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy, Mobility Behavior
 <img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> [Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien)|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
-<img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/>Ou Liu|Senior Associate Professor| Business Intelligence and Analytics
+<img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/> [Ou Liu](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/intelligent-operations-and-marketing/department-staff/academic-staff/staff/ou-liu)|Senior Associate Professor| Business Intelligence and Analytics
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
@@ -78,6 +78,7 @@ Name |	Academic position	| Research expertise
 
 Name |	Student Type    	| Research Topic 
 -----|--------------------|--------------------
+Chi Yang | PhD student in Business <br/>(2023 ~ ) | The Economic and Social Impacts of Market-Driven Policies on the Development of the New Energy Vehicle Industry in China 
 Ya Liang|PhD student in Business <br/>(2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
 Ruicheng Liu | PhD student in Business <br/>(2020 ~ )|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
 Shaohua Hu |PhD student in Urban Planning <br/>(2020 ~ )| Networked Public Transport
@@ -92,7 +93,6 @@ Name |	Student Type    	| Research Topic
 Tianchen Liu | Research Assistant <br/>(2023~ ) | Spatial Analytics
 Tong Chen | Research Assistant <br/>(2022~ ) | Mobility Analytics
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
-Chi Yang | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Ruoyun Chen | MSc. Project Management <br/>(2022~2023)|Investigating the Attitude and Intention of Non-early Adopters to Purchase New Energy Vehicles in China
 Yifan Liang | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Adopting New Energy Vehicles in the Small Cities and Rural Areas of China
 Yuqing Bao | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Electric Vehicles: the Perspectives of Utilitarian and Hedonic Values
@@ -121,7 +121,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Reader in Operations Management|Loughborough University, UK
 <img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
-<img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Associate Professor in Marketing|SP Jain School of Global Management, Singapore
+<img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Professor in Marketing|SP Jain School of Global Management, Singapore
 <img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
 <img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](http://jlbri.suda.edu.cn/jlbri_en/6e/af/c27621a487087/page.htm)| Professor in Ecology and Sustainability | Soochow University, China
 <img src="https://user-images.githubusercontent.com/90227575/172530660-601d8766-5dbb-4da9-a8ce-b130a5d2a511.png" width="100"><br/>[Shaofeng Lu](http://www2.scut.edu.cn/wusie/2020/0425/c25374a395335/page.htm) | Professor in Engineering | South China University of Technology, China
@@ -132,7 +132,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
-<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Assistant Professor in Marketing |Dongbei University of Finance and Economics, China	
+<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Lecturer in Management |University of Huddersfield, UK	
 <img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2021/0301/c13853a146988/page.htm)	|Associate Professor in Management| Guizhou University, China
 <img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://bs.ustc.edu.cn/chinese/profile-1999.html)|Associate Professor in Operations Management | University of Science and Technology in China
 
@@ -227,6 +227,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2023 | March |[https://mp.weixin.qq.com/s/xnVl3WyOJSesMKs6Hdrn6w](https://mp.weixin.qq.com/s/xnVl3WyOJSesMKs6Hdrn6w)
 2023 | February |[https://mp.weixin.qq.com/s/0HCjohbACXjulZtzHOy8JA](https://mp.weixin.qq.com/s/0HCjohbACXjulZtzHOy8JA)
 2023 | January  |[https://mp.weixin.qq.com/s/j6xe6uP1uCMm9IowCkSw3w](https://mp.weixin.qq.com/s/j6xe6uP1uCMm9IowCkSw3w)
 2022 | December |[https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig](https://mp.weixin.qq.com/s/l7jtsJ-kkGlVjLf8h7S3Ig)
