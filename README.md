@@ -141,7 +141,6 @@ Name |	Academic position	| Institution
 Name |	Position	& Organization 
 -----|---------------------------------------------
 <img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division of National Innovation Center - Yangtze Delta;<br/> Visiting Professor at Xi'an Jiaotong-Liverpool University 
-<img src="https://user-images.githubusercontent.com/90227575/152155100-e101c5f7-7efa-4a95-bae4-9df56421691b.png" width="100"  ><br/> Hongjuan Liu| VP in Data Analytics, Afiniti China 
 <img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager of EV New Car Business Cooperation Division, CheHaoDuo Group
 <img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| Chief Marketing Officer, iMotion Automotive Technology (Suzhou) Co., Ltd.
 
@@ -202,7 +201,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
-09/2022 |[XJTLU IBSS and Key Partners Hold 2022 Research Workshop on Smart and Future Mobility](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw) <br/>[2022智慧与未来出行研讨会在西浦成功举办](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2022/10/2022-research-workshop-on-smart-and-future-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2022/10/2022-zhihui-weilaichuxing); [CRI国际在线](https://gr.cri.cn/20220926/dd21f8f3-f4ae-9791-f178-4e73da171574.html); [腾讯新闻](https://new.qq.com/omn/20200318/20220926A052L100?.html)
+09/2022 |[XJTLU IBSS and Key Partners Hold 2022 Research Workshop on Smart and Future Mobility](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw) <br/>[2022智慧与未来出行研讨会在西浦成功举办](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2022/10/xjtlu-ibss-and-key-partners-hold-2022-research-workshop-on-smart-and-future-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2022/10/2022-zhihui-weilaichuxing); [CRI国际在线](https://gr.cri.cn/20220926/dd21f8f3-f4ae-9791-f178-4e73da171574.html); [腾讯新闻](https://new.qq.com/omn/20200318/20220926A052L100?.html)
 09/2022 | [我院钱力显博士论文被顶级期刊Production and Operations Management录用](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)|[IBSS News](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)
 09/2022 | [喜讯-SMAC成员获批国家自然科学基金青年项目](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)|[SMAC News](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)
 09/2022 | [Registration Open for 2022 Smart and Future Mobility Workshop](https://mp.weixin.qq.com/s/mZf0ZKQC0ToLPgk6-2qcrg)<br/>[2022智慧与未来出行研讨会报名启动](https://mp.weixin.qq.com/s/KKEpld-gdBhaYlqFs-PJBg)|[IBSS News](https://mp.weixin.qq.com/s/KKEpld-gdBhaYlqFs-PJBg); [IBSS News in English](https://mp.weixin.qq.com/s/mZf0ZKQC0ToLPgk6-2qcrg)
