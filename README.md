@@ -131,8 +131,8 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/170613911-6cc1f31d-f9d2-44f9-81a3-948222f360ca.png" width="100"><br/>[Cheng Wang](https://zibs.zju.edu.cn/faculty/dr-wang-cheng.html)|Associate Professor in Marketing |Zhejiang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
-<img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://ibs.zjgsu.edu.cn/hyl/list.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
-<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://www.linkedin.com/in/zhuang-ma-37811343/)	|Lecturer in Management |University of Huddersfield, UK	
+<img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://gsgl.zjgsu.edu.cn/2023/0308/c102a134924/page.htm)|Associate Research Professor	in Marketing | Zhejiang Gongshang University, China	
+<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://pure.hud.ac.uk/en/persons/zhuang-ma)	|Lecturer in Management |University of Huddersfield, UK	
 <img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2021/0301/c13853a146988/page.htm)	|Associate Professor in Management| Guizhou University, China
 <img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://bs.ustc.edu.cn/chinese/profile-1999.html)|Associate Professor in Operations Management | University of Science and Technology in China
 
@@ -148,6 +148,7 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2023
+* Qian, L., Soopramanien, D., Michaelidou, N. (2023). Special Issue Guest Editorial: Consumers’ Transport and Mobility Decisions, _Journal of Consumer Behaviour_, 22 (2), 378-381. [DOI](https://doi.org/10.1002/cb.2145)
 * Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, 190, 122412. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2023.122412)
 * Qian, L.* & Zhang, C. (2023). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, 62(3), 663–684. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
 * Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumers’ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
@@ -201,6 +202,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+03/2023 |[我院学者联合组织的特刊在国际期刊《Journal of Consumer Behaviour》上成功发表](https://mp.weixin.qq.com/s/yCYgNxdbb--_sA8suldTsw)|[IBSS News](https://mp.weixin.qq.com/s/yCYgNxdbb--_sA8suldTsw)
 09/2022 |[XJTLU IBSS and Key Partners Hold 2022 Research Workshop on Smart and Future Mobility](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw) <br/>[2022智慧与未来出行研讨会在西浦成功举办](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2022/10/xjtlu-ibss-and-key-partners-hold-2022-research-workshop-on-smart-and-future-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2022/10/2022-zhihui-weilaichuxing); [CRI国际在线](https://gr.cri.cn/20220926/dd21f8f3-f4ae-9791-f178-4e73da171574.html); [腾讯新闻](https://new.qq.com/omn/20200318/20220926A052L100?.html)
 09/2022 | [我院钱力显博士论文被顶级期刊Production and Operations Management录用](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)|[IBSS News](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)
 09/2022 | [喜讯-SMAC成员获批国家自然科学基金青年项目](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)|[SMAC News](https://mp.weixin.qq.com/s/NRiX2N9A-kGfMvctC_xdgA)
