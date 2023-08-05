@@ -50,7 +50,6 @@ To be a leading platform on smart mobility analytics that synergises the insight
 Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
 <img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy, Mobility Behavior
-<img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> [Didier Soopramanien](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/didier-soopramanien)|Senior Associate Professor|Consumer Behaviour, Marketing Analytics
 <img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/> [Ou Liu](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/intelligent-operations-and-marketing/department-staff/academic-staff/staff/ou-liu)|Senior Associate Professor| Business Intelligence and Analytics
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
@@ -119,6 +118,7 @@ Name |	Academic position	| Institution
 -----|---------------------------|-------------------
 <img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
 <img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lboro.ac.uk/departments/sbe/staff/li-dong/)	|Reader in Operations Management|Loughborough University, UK
+<img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> Didier Soopramanien | Professor in Marketing | Ecole de Management Léonard De Vinci, France
 <img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
 <img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Professor in Marketing|SP Jain School of Global Management, Singapore
@@ -228,6 +228,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2023 | July |[https://mp.weixin.qq.com/s/_ky0ltnyZbAd3O33HQeTQw](https://mp.weixin.qq.com/s/_ky0ltnyZbAd3O33HQeTQw)
 2023 | June |[https://mp.weixin.qq.com/s/-3N93sYaXkhva8_g67tVDQ](https://mp.weixin.qq.com/s/-3N93sYaXkhva8_g67tVDQ)
 2023 | May |[https://mp.weixin.qq.com/s/phKI7KviR3rHV257HaIylw](https://mp.weixin.qq.com/s/phKI7KviR3rHV257HaIylw)
 2023 | April |[https://mp.weixin.qq.com/s/UUE4RZNEm_zQ5DbBBCJqtQ](https://mp.weixin.qq.com/s/UUE4RZNEm_zQ5DbBBCJqtQ)
