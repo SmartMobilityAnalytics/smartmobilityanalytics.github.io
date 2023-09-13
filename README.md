@@ -55,7 +55,7 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/yang-lu)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/miaomiao-liu)|Assistant Professor|Data Analytics
 <img src="https://user-images.githubusercontent.com/90227575/170500433-004d9a92-8dbd-4197-bff6-8fb1577df897.png" width="100" ><br/> [Linjia Zhang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/economics/staff/linjia-zhang)|Associate Professor | Tourism Economics
-<img src="https://user-images.githubusercontent.com/90227575/172638636-727bd56b-07e1-4b62-997f-7d4f79e124fc.png" width="100" ><br/> [Kingsley Dogah](https://www.xjtlu.edu.cn/zh/departments/academic-departments/economics/staff/kingsley-dogah)|Assistant Professor | Energy Economics
+
 
 
 
@@ -149,7 +149,7 @@ Name |	Position	& Organization
 ## Research Publications
 ### 2023
 * Qian, L., Huang, Y., Tyfield, D. & Soopramanien, D. (2023). Dynamic Consumer Preferences for Electric Vehicles in China: A Longitudinal Approach. _Transportation Research Part A: Policy and Practice_, Accepted (ABS3, ABDC-A*)
-* Zhang, C., Qian, L.*, Yu, W., Hu, J.-Q. & Lu, X. (2023). When Omicron Knocks at Door: An Inverted U-shape Relationship between Virus Proximity and Prosocial Behavior. _Fundamental Research_, Accepted. 
+* Zhang, C., Qian, L.*, Yu, W., Hu, J.-Q. & Lu, X. (2023). When Omicron Knocks at Door: An Inverted U-shape Relationship between Virus Proximity and Prosocial Behavior. _Fundamental Research_, in press.[DOI](https://doi.org/10.1016/j.fmre.2023.07.003) 
 * Qian, L., Soopramanien, D., Michaelidou, N. (2023). Special Issue Guest Editorial: Consumers’ Transport and Mobility Decisions, _Journal of Consumer Behaviour_, 22 (2), 378-381. [DOI](https://doi.org/10.1002/cb.2145)
 * Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, 190, 122412. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2023.122412)
 * Qian, L.* & Zhang, C. (2023). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, 62(3), 663–684. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
@@ -230,6 +230,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | August |[https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ](https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ)
 2023 | July |[https://mp.weixin.qq.com/s/_ky0ltnyZbAd3O33HQeTQw](https://mp.weixin.qq.com/s/_ky0ltnyZbAd3O33HQeTQw)
 2023 | June |[https://mp.weixin.qq.com/s/-3N93sYaXkhva8_g67tVDQ](https://mp.weixin.qq.com/s/-3N93sYaXkhva8_g67tVDQ)
 2023 | May |[https://mp.weixin.qq.com/s/phKI7KviR3rHV257HaIylw](https://mp.weixin.qq.com/s/phKI7KviR3rHV257HaIylw)
