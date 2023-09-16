@@ -230,7 +230,8 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
-2024 | August |[https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ](https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ)
+2023 | September |[https://mp.weixin.qq.com/s/hhw_vrAHhddjUz1FUr30Gw](https://mp.weixin.qq.com/s/hhw_vrAHhddjUz1FUr30Gw)
+2023 | August |[https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ](https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ)
 2023 | July |[https://mp.weixin.qq.com/s/_ky0ltnyZbAd3O33HQeTQw](https://mp.weixin.qq.com/s/_ky0ltnyZbAd3O33HQeTQw)
 2023 | June |[https://mp.weixin.qq.com/s/-3N93sYaXkhva8_g67tVDQ](https://mp.weixin.qq.com/s/-3N93sYaXkhva8_g67tVDQ)
 2023 | May |[https://mp.weixin.qq.com/s/phKI7KviR3rHV257HaIylw](https://mp.weixin.qq.com/s/phKI7KviR3rHV257HaIylw)
