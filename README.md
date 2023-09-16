@@ -150,7 +150,7 @@ Name |	Position	& Organization
 ### 2023
 * Qian, L., Huang, Y., Tyfield, D. & Soopramanien, D. (2023). Dynamic Consumer Preferences for Electric Vehicles in China: A Longitudinal Approach. _Transportation Research Part A: Policy and Practice_, Accepted (ABS3, ABDC-A*)
 * Zhang, C., Qian, L.*, Yu, W., Hu, J.-Q. & Lu, X. (2023). When Omicron Knocks at Door: An Inverted U-shape Relationship between Virus Proximity and Prosocial Behavior. _Fundamental Research_, in press.[DOI](https://doi.org/10.1016/j.fmre.2023.07.003) 
-* Qian, L., Soopramanien, D., Michaelidou, N. (2023). Special Issue Guest Editorial: Consumers’ Transport and Mobility Decisions, _Journal of Consumer Behaviour_, 22 (2), 378-381. [DOI](https://doi.org/10.1002/cb.2145)
+* Qian, L., Soopramanien, D., Michaelidou, N. (2023). Consumers’ Transport and Mobility Decisions, _Journal of Consumer Behaviour_, 22 (2), 378-381. [DOI](https://doi.org/10.1002/cb.2145)
 * Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, 190, 122412. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2023.122412)
 * Qian, L.* & Zhang, C. (2023). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, 62(3), 663–684. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
 * Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumers’ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
