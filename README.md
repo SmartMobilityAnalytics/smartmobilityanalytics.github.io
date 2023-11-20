@@ -262,4 +262,4 @@ Telephone: +86(0)512-8816-1172; Email: [SMAC.IBSS@xjtlu.edu.cn](mailto: SMAC.IBS
 
 <img src="https://user-images.githubusercontent.com/90227575/184616036-21c3ba4b-e26b-4015-a917-42c8f89b9a87.png" >
 
-###### Copyright © 2021~2022 Smart Mobility Analytics Center of IBSS at XJTLU
+###### Copyright © 2022~2023 Smart Mobility Analytics Center of IBSS at XJTLU
