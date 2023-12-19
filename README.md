@@ -49,7 +49,7 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
-<img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Senior Associate Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy, Mobility Behavior
+<img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/lixian-qian)|Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy, Mobility Behavior
 <img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/> [Ou Liu](https://www.xjtlu.edu.cn/zh/study/departments/academic-departments/intelligent-operations-and-marketing/department-staff/academic-staff/staff/ou-liu)|Senior Associate Professor| Business Intelligence and Analytics
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-operations-and-marketing/staff/jianghang-chen)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/170500433-004d9a92-8dbd-4197-bff6-8fb1577df897.png" width="100" ><br/> [Linjia Zhang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/economics/staff/linjia-zhang)|Associate Professor | Tourism Economics
@@ -233,6 +233,8 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2023 | December |[https://mp.weixin.qq.com/s/WHk9bhD84zNP-RuTfcwJXA](https://mp.weixin.qq.com/s/WHk9bhD84zNP-RuTfcwJXA)
+2023 | November |[https://mp.weixin.qq.com/s/Ebq7EFlzNif5cK3sTgV4eg](https://mp.weixin.qq.com/s/Ebq7EFlzNif5cK3sTgV4eg)
 2023 | October |[https://mp.weixin.qq.com/s/RgRKW8WbYTkb9RO7QAKZCg](https://mp.weixin.qq.com/s/RgRKW8WbYTkb9RO7QAKZCg)
 2023 | September |[https://mp.weixin.qq.com/s/hhw_vrAHhddjUz1FUr30Gw](https://mp.weixin.qq.com/s/hhw_vrAHhddjUz1FUr30Gw)
 2023 | August |[https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ](https://mp.weixin.qq.com/s/L2pKWqpFXXO4bcqlwe0QwQ)
