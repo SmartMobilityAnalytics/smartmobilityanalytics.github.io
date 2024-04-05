@@ -91,8 +91,9 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers�
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Tianchen Liu | Research Assistant <br/>(2023~ ) | Spatial Analytics
-Tong Chen | Research Assistant <br/>(2022~ ) | Mobility Analytics
+Yanbo Li | MRes Management <br/>(2024)| Open Innovations in New Energy Vehicle Industry
+Tianchen Liu | Research Assistant <br/>(2023) | Spatial Analytics
+Tong Chen | Research Assistant <br/>(2022~2023) | Mobility Analytics
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
 Ruoyun Chen | MSc. Project Management <br/>(2022~2023)|Investigating the Attitude and Intention of Non-early Adopters to Purchase New Energy Vehicles in China
 Yifan Liang | MSc. Project Management <br/>(2022~2023)|Consumer Preferences for Adopting New Energy Vehicles in the Small Cities and Rural Areas of China
@@ -208,6 +209,8 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+03/2024 |[我院钱力显教授的论文入选“世界前1%高被引论文”](https://mp.weixin.qq.com/s/v3ZZx9KkqsFhlPG1cfEqfA)|[IBSS News](https://mp.weixin.qq.com/s/v3ZZx9KkqsFhlPG1cfEqfA); [XJTLU News](https://www.xjtlu.edu.cn/zh/news/2024/03/prof-lixian-qian_top-1-highly-cited-papers-in-the-world)
+03/2024 |[西浦博士生论文获得美国管理学会年会最佳论文奖](https://mp.weixin.qq.com/s/ugGA6uPB3pVhd6IUDaom7Q)|[SMAC News](https://mp.weixin.qq.com/s/ugGA6uPB3pVhd6IUDaom7Q)
 03/2023 |[我院学者联合组织的特刊在国际期刊《Journal of Consumer Behaviour》上成功发表](https://mp.weixin.qq.com/s/yCYgNxdbb--_sA8suldTsw)|[IBSS News](https://mp.weixin.qq.com/s/yCYgNxdbb--_sA8suldTsw)
 09/2022 |[XJTLU IBSS and Key Partners Hold 2022 Research Workshop on Smart and Future Mobility](https://mp.weixin.qq.com/s/mL2uKyM0QTLv7R2CjG51Vw) <br/>[2022智慧与未来出行研讨会在西浦成功举办](https://mp.weixin.qq.com/s/7QgS8ML7yejcZTXrJXxSMQ)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2022/10/xjtlu-ibss-and-key-partners-hold-2022-research-workshop-on-smart-and-future-mobility); [XJTLU News in Chinese](https://www.xjtlu.edu.cn/zh/news/2022/10/2022-zhihui-weilaichuxing); [CRI国际在线](https://gr.cri.cn/20220926/dd21f8f3-f4ae-9791-f178-4e73da171574.html); [腾讯新闻](https://new.qq.com/omn/20200318/20220926A052L100?.html)
 09/2022 | [我院钱力显博士论文被顶级期刊Production and Operations Management录用](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)|[IBSS News](https://mp.weixin.qq.com/s/7r267GaqhU8RkXaa6nGcuw)
@@ -234,6 +237,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | March |[https://mp.weixin.qq.com/s/s1RJo2a39yuUBkOdCUVfgA](https://mp.weixin.qq.com/s/s1RJo2a39yuUBkOdCUVfgA)
 2024 | February |[https://mp.weixin.qq.com/s/wMY9NnrFgQFgsz-piQJ9ZQ](https://mp.weixin.qq.com/s/wMY9NnrFgQFgsz-piQJ9ZQ)
 2024 | January |[https://mp.weixin.qq.com/s/If80vGDtR_wdnUZFV-O-4w](https://mp.weixin.qq.com/s/If80vGDtR_wdnUZFV-O-4w)
 2023 | December |[https://mp.weixin.qq.com/s/WHk9bhD84zNP-RuTfcwJXA](https://mp.weixin.qq.com/s/WHk9bhD84zNP-RuTfcwJXA)
@@ -267,4 +271,4 @@ Telephone: +86(0)512-8816-1172; Email: [SMAC.IBSS@xjtlu.edu.cn](mailto: SMAC.IBS
 
 <img src="https://user-images.githubusercontent.com/90227575/184616036-21c3ba4b-e26b-4015-a917-42c8f89b9a87.png" >
 
-###### Copyright © 2022~2023 Smart Mobility Analytics Center of IBSS at XJTLU
+###### Copyright © 2022~2024 Smart Mobility Analytics Center of IBSS at XJTLU
