@@ -209,6 +209,8 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+06/2024 |[博士生的故事：探索与成长——梁亚的学术之旅](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ)|[IBSS News](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ);[西交利物浦大学研究生院](https://mp.weixin.qq.com/s/nPpA0ymqhjEh4emM6yH6sQ)
+04/2024 |[钱力显：绿色与智慧出行的探索者](https://mp.weixin.qq.com/s/14wieCM4cnVBl1vtchT8EQ)|[西浦科研](https://mp.weixin.qq.com/s/14wieCM4cnVBl1vtchT8EQ)
 03/2024 |[我院钱力显教授的论文入选“世界前1%高被引论文”](https://mp.weixin.qq.com/s/v3ZZx9KkqsFhlPG1cfEqfA)|[IBSS News](https://mp.weixin.qq.com/s/v3ZZx9KkqsFhlPG1cfEqfA); [XJTLU News](https://www.xjtlu.edu.cn/zh/news/2024/03/prof-lixian-qian_top-1-highly-cited-papers-in-the-world)
 03/2024 |[西浦博士生论文获得美国管理学会年会最佳论文奖](https://mp.weixin.qq.com/s/ugGA6uPB3pVhd6IUDaom7Q)|[SMAC News](https://mp.weixin.qq.com/s/ugGA6uPB3pVhd6IUDaom7Q)
 03/2023 |[我院学者联合组织的特刊在国际期刊《Journal of Consumer Behaviour》上成功发表](https://mp.weixin.qq.com/s/yCYgNxdbb--_sA8suldTsw)|[IBSS News](https://mp.weixin.qq.com/s/yCYgNxdbb--_sA8suldTsw)
@@ -237,6 +239,9 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | June | [https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ](https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ)
+2024 | May | [https://mp.weixin.qq.com/s/jDrnkB_F56pwEcSozKYThA](https://mp.weixin.qq.com/s/jDrnkB_F56pwEcSozKYThA)
+2024 | April | [https://mp.weixin.qq.com/s/3y_o4CoR9NzxX8eh7s__HA](https://mp.weixin.qq.com/s/3y_o4CoR9NzxX8eh7s__HA)
 2024 | March |[https://mp.weixin.qq.com/s/s1RJo2a39yuUBkOdCUVfgA](https://mp.weixin.qq.com/s/s1RJo2a39yuUBkOdCUVfgA)
 2024 | February |[https://mp.weixin.qq.com/s/wMY9NnrFgQFgsz-piQJ9ZQ](https://mp.weixin.qq.com/s/wMY9NnrFgQFgsz-piQJ9ZQ)
 2024 | January |[https://mp.weixin.qq.com/s/If80vGDtR_wdnUZFV-O-4w](https://mp.weixin.qq.com/s/If80vGDtR_wdnUZFV-O-4w)
