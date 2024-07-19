@@ -239,6 +239,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | July | [https://mp.weixin.qq.com/s/p7_h621extAtLDf-aGXIAw](https://mp.weixin.qq.com/s/p7_h621extAtLDf-aGXIAw)
 2024 | June | [https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ](https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ)
 2024 | May | [https://mp.weixin.qq.com/s/jDrnkB_F56pwEcSozKYThA](https://mp.weixin.qq.com/s/jDrnkB_F56pwEcSozKYThA)
 2024 | April | [https://mp.weixin.qq.com/s/3y_o4CoR9NzxX8eh7s__HA](https://mp.weixin.qq.com/s/3y_o4CoR9NzxX8eh7s__HA)
