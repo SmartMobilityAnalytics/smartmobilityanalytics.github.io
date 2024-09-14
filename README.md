@@ -216,6 +216,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+08/2024 |[【喜讯】SMAC成功获批国家自然科学基金面上项目](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)|[SMAC News](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)
 06/2024 |[博士生的故事：探索与成长——梁亚的学术之旅](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ)|[IBSS News](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ);[西交利物浦大学研究生院](https://mp.weixin.qq.com/s/nPpA0ymqhjEh4emM6yH6sQ)
 04/2024 |[钱力显：绿色与智慧出行的探索者](https://mp.weixin.qq.com/s/14wieCM4cnVBl1vtchT8EQ)|[西浦科研](https://mp.weixin.qq.com/s/14wieCM4cnVBl1vtchT8EQ)
 03/2024 |[我院钱力显教授的论文入选“世界前1%高被引论文”](https://mp.weixin.qq.com/s/v3ZZx9KkqsFhlPG1cfEqfA)|[IBSS News](https://mp.weixin.qq.com/s/v3ZZx9KkqsFhlPG1cfEqfA); [XJTLU News](https://www.xjtlu.edu.cn/zh/news/2024/03/prof-lixian-qian_top-1-highly-cited-papers-in-the-world)
@@ -246,6 +247,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | August| [https://mp.weixin.qq.com/s/xQobi86ORrJE6ck0UN2-Rw](https://mp.weixin.qq.com/s/xQobi86ORrJE6ck0UN2-Rw)
 2024 | July | [https://mp.weixin.qq.com/s/p7_h621extAtLDf-aGXIAw](https://mp.weixin.qq.com/s/p7_h621extAtLDf-aGXIAw)
 2024 | June | [https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ](https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ)
 2024 | May | [https://mp.weixin.qq.com/s/jDrnkB_F56pwEcSozKYThA](https://mp.weixin.qq.com/s/jDrnkB_F56pwEcSozKYThA)
