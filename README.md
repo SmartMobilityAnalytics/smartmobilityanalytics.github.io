@@ -151,7 +151,12 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2024
-* Wu, W., Huang, Y., Qian, L. (2023). Social Trust and Algorithmic Equity: The Societal Perspectives of Users' Intention to Interact with Algorithm Recommendation Systems. _Decision Support Systems_, 178, 114115 (ABS3, ABDC-A*). [DOI](https://doi.org/10.1016/j.dss.2023.114115)
+* Huang, Y., Wu, W. & Qian, L. (2024). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, accepted (ABS4, ABDC-A*)
+* Qian, L., Zhang, C., Chen, Y. & Xiao, Z. (2024). Spatial Network Effect of Charging Stations in Electric Vehicle Adoption, _Transportation Research Part D: Transport and Environment_, accepted (ABS3, ABDC-A)
+* Yuan, R., Liu, J. M., Qian, L. & Chen, Y. (2024). The Effect of Corporate Social Responsibility Hybridity on Firm Performance: Moderating Role of Aspirational Talk, _Industrial Management & Data Systems_, 124(9), 2758-2790 (ABS2, ABDC-A). [DOI](https://doi.org/10.1108/IMDS-12-2023-0961)
+* Lee, J. & Gim, T. (2024). Reconsidering AVs future: A socio-spatial perspective. _Technology in Society_, 78, 102618. [DOI](https://doi.org/10.1016/j.techsoc.2024.102618)
+* Wu, W., Huang, Y. & Qian, L. (2023). Social Trust and Algorithmic Equity: The Societal Perspectives of Users' Intention to Interact with Algorithm Recommendation Systems. _Decision Support Systems_, 178, 114115 (ABS3, ABDC-A*). [DOI](https://doi.org/10.1016/j.dss.2023.114115)
+ 
 ### 2023
 * Qian, L., Huang, Y., Tyfield, D. & Soopramanien, D. (2023). Dynamic Consumer Preferences for Electric Vehicles in China: A Longitudinal Approach. _Transportation Research Part A: Policy and Practice_, 176, 103797 (ABS3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2023.103797)
 * Zhang, C., Qian, L.*, Yu, W., Hu, J.-Q. & Lu, X. (2023). When Omicron Knocks at Door: An Inverted U-shape Relationship between Virus Proximity and Prosocial Behavior. _Fundamental Research_, in press.[DOI](https://doi.org/10.1016/j.fmre.2023.07.003) 
@@ -160,6 +165,7 @@ Name |	Position	& Organization
 * Qian, L.* & Zhang, C. (2023). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, 62(3), 663–684. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
 * Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumers’ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
 * Li, D., Pang, Z. & Qian, L. (2023). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, 32(1), 261-282. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
+* Jeong, J., Lee, J. & Gim, T.-H. T. (2023). Predicting Changes in the Built Environment in the era of Vehicular Automation: A Review. _Journal of Planning Literature_, 38(2), 215-228. [DOI](https://doi.org/10.1177/08854122221138530)
 
 ### 2022
 * Li, D., Huang, Y.* & Qian, L. (2022). Potential Adoption of Robotaxi Service: The Roles of Perceived Benefits to Multiple Stakeholders and Environmental Awareness, _Transport Policy_, 126, 120-135. (ABS2, ABDC-A). [DOI](https://doi.org/10.1016/j.tranpol.2022.07.004)
@@ -196,6 +202,7 @@ Name |	Position	& Organization
 
 ## Research Grants
 
+* "Sustainable Diffusion of New Energy Vehicles: the Perspective of Integrating User Adoption and Innovative Usage", The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2025 - 12/2028, PI: Lixian Qian
 * "Consumer preferences for autonomous vehicles: the perspective of privacy data management and ethics of algorithm decisions", The National Natural Science Foundation of China (NSFC) Youth Scientist Grant, 01/2023 – 12/2025, PI: Youlin Huang.
 * “Consumer Preferences and Behavioral Mechanism for Automated Vehicles: the Perspective of Privacy Data Governance and Algorithm Ethics”, The Fundamental Research Funds for the Provincial Universities of Zhejiang, 2022 - 2024, PI: Youlin Huang. 
 * “Adoption and Diffusion of New Energy Vehicles: the Unified View of Electrification, Sharing and Connected-Autonomous Driving”, The National Natural Science Foundation of China (NSFC) General Programme Grant, 01/2020 – 12/2023, PI: Lixian Qian.
