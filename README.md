@@ -219,6 +219,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+11/2024 |[西浦硕士生论文获得中国管理学年会优秀论文奖](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)|[SMAC News](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)
 08/2024 |[【喜讯】SMAC成功获批国家自然科学基金面上项目](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)|[SMAC News](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)
 06/2024 |[博士生的故事：探索与成长——梁亚的学术之旅](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ)|[IBSS News](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ);[西交利物浦大学研究生院](https://mp.weixin.qq.com/s/nPpA0ymqhjEh4emM6yH6sQ)
 04/2024 |[钱力显：绿色与智慧出行的探索者](https://mp.weixin.qq.com/s/14wieCM4cnVBl1vtchT8EQ)|[西浦科研](https://mp.weixin.qq.com/s/14wieCM4cnVBl1vtchT8EQ)
@@ -250,6 +251,9 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | November | [https://mp.weixin.qq.com/s/C-BPsiJY-UkRRj_x_DQAVw](https://mp.weixin.qq.com/s/C-BPsiJY-UkRRj_x_DQAVw)
+2024 | October | [https://mp.weixin.qq.com/s/BbqxEw0N6caWUOxp_lz-zg](https://mp.weixin.qq.com/s/BbqxEw0N6caWUOxp_lz-zg)
+2024 | September| [https://mp.weixin.qq.com/s/mXnyXVXu0y0j4VzS8TgXpA](https://mp.weixin.qq.com/s/mXnyXVXu0y0j4VzS8TgXpA)
 2024 | August| [https://mp.weixin.qq.com/s/xQobi86ORrJE6ck0UN2-Rw](https://mp.weixin.qq.com/s/xQobi86ORrJE6ck0UN2-Rw)
 2024 | July | [https://mp.weixin.qq.com/s/p7_h621extAtLDf-aGXIAw](https://mp.weixin.qq.com/s/p7_h621extAtLDf-aGXIAw)
 2024 | June | [https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ](https://mp.weixin.qq.com/s/dZW2vkxbMwKip9FK-yBBWQ)
