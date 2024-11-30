@@ -150,12 +150,15 @@ Name |	Position	& Organization
 
 
 ## Research Publications
+### 2025
+* Huang, Y., Wu, W. & Qian, L. (2024). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
+
 ### 2024
-* Huang, Y., Wu, W. & Qian, L. (2024). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, accepted (ABS4, ABDC-A*)
-* Qian, L., Zhang, C., Chen, Y. & Xiao, Z. (2024). Spatial Network Effect of Charging Stations in Electric Vehicle Adoption, _Transportation Research Part D: Transport and Environment_, accepted (ABS3, ABDC-A)
+* Qian, L., Zhang, C., Chen, Y. & Xiao, Z. (2024). Spatial Network Effect of Charging Stations in Electric Vehicle Adoption, _Transportation Research Part D: Transport and Environment_, 136, 104400 (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.trd.2024.104400)
 * Yuan, R., Liu, J. M., Qian, L. & Chen, Y. (2024). The Effect of Corporate Social Responsibility Hybridity on Firm Performance: Moderating Role of Aspirational Talk, _Industrial Management & Data Systems_, 124(9), 2758-2790 (ABS2, ABDC-A). [DOI](https://doi.org/10.1108/IMDS-12-2023-0961)
 * Lee, J. & Gim, T. (2024). Reconsidering AVs future: A socio-spatial perspective. _Technology in Society_, 78, 102618. [DOI](https://doi.org/10.1016/j.techsoc.2024.102618)
-* Wu, W., Huang, Y. & Qian, L. (2023). Social Trust and Algorithmic Equity: The Societal Perspectives of Users' Intention to Interact with Algorithm Recommendation Systems. _Decision Support Systems_, 178, 114115 (ABS3, ABDC-A*). [DOI](https://doi.org/10.1016/j.dss.2023.114115)
+* Wu, W., Huang, Y. & Qian, L. (2024). Social Trust and Algorithmic Equity: The Societal Perspectives of Users' Intention to Interact with Algorithm Recommendation Systems. _Decision Support Systems_, 178, 114115 (ABS3, ABDC-A*). [DOI](https://doi.org/10.1016/j.dss.2023.114115)
+* Ni, C., Chen, C., Qian, L., Rastogi, A., & Li, Y. (2024). Antecedents of Chinese Consumers’ Purchase Intentions Toward Hybrid Electric Vehicles (HEVs), in J. Xu, N. A. B. Ismail, S. Dabo-Niang, & M. H. A. Hassan (Eds.), _Lecture Notes on Data Engineering and Communications Technologies_ (Vol. 215), pp. 1561-1574. Springer Science and Business Media Deutschland GmbH. [DOI](https://doi.org/10.1007/978-981-97-5098-6_107)
  
 ### 2023
 * Qian, L., Huang, Y., Tyfield, D. & Soopramanien, D. (2023). Dynamic Consumer Preferences for Electric Vehicles in China: A Longitudinal Approach. _Transportation Research Part A: Policy and Practice_, 176, 103797 (ABS3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2023.103797)
