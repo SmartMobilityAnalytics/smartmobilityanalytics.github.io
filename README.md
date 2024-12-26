@@ -80,10 +80,10 @@ Name |	Academic position	| Research expertise
 Name |	Student Type    	| Research Topic 
 -----|--------------------|--------------------
 Chi Yang | PhD student in Business <br/>(2023 ~ ) | The Economic and Social Impacts of Market-Driven Policies on the Development of the New Energy Vehicle Industry in China 
-Ya Liang|PhD student in Business <br/>(2020 ~ ) |Individual Adoption of Autonomous Vehicles and Related Services
+Ya Liang|PhD student in Business <br/>(2020 ~ 2024) |Individual Adoption of Autonomous Vehicles and Related Services <br/> Placement: Tongji University
 Ruicheng Liu | PhD student in Business <br/>(2020 ~ )|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
 Shaohua Hu |PhD student in Urban Planning <br/>(2020 ~ )| Networked Public Transport
-Yu Han | PhD student in Business <br/>(2018 ~ 2022) | Supply chain risk management in the context of China 
+Yu Han | PhD student in Business <br/>(2018 ~ 2022) | Supply chain risk management in the context of China <br/> Placement: Nanjing University of Finance and Economics
 Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China <br/> Placement: Zhejiang Gongshang University
 Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers’ operational capabilities for servitization through service offshoring <br/> Placement: Chongqing Technology and Business University
 
@@ -92,6 +92,7 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers�
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
 Yanbo Li | MRes Management <br/>(2024)| Open Innovations in New Energy Vehicle Industry
+Wenchen Rong | MSc. Business Analytics <br/>(2024)| The Impact of New Energy Vehicle Penetration on Air Quality: Evidence from 245 Cities in China
 Tianchen Liu | Research Assistant <br/>(2023) | Spatial Analytics
 Tong Chen | Research Assistant <br/>(2022~2023) | Mobility Analytics
 Yiming Liu | Research Assistant <br/>(2022~ ) | Mobility Analytics 
@@ -121,7 +122,7 @@ Name |	Academic position	| Institution
 -----|---------------------------|-------------------
 <img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
 <img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lancaster.ac.uk/lums/people/dong-li)	|Professor of Operational Research|Lancaster University, UK
-<img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> Didier Soopramanien | Professor in Marketing | Ecole de Management Léonard De Vinci, France
+<img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> Didier Soopramanien | Associate Professor in Marketing | Beijing Foreign Studies University, China
 <img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
 <img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Professor in Marketing|SP Jain School of Global Management, Singapore
@@ -132,7 +133,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
 <img src="https://user-images.githubusercontent.com/90227575/168426763-1163abfe-fa21-4ec8-a915-70617a58db09.png" width="100"><br/>[Bowei Chen](https://www.gla.ac.uk/schools/business/staff/boweichen/)|Senior Lecturer in Marketing Analytics and Data Science |University of Glasgow, UK
 <img src="https://user-images.githubusercontent.com/90227575/170613911-6cc1f31d-f9d2-44f9-81a3-948222f360ca.png" width="100"><br/>[Cheng Wang](https://zibs.zju.edu.cn/faculty/dr-wang-cheng.html)|Associate Professor in Marketing |Zhejiang University, China
-<img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Assistant Profesor in Marketing |	 Nottingham University Ningbo China	
+<img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Associate Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://pure.hud.ac.uk/en/persons/zhuang-ma)	|Lecturer in Management |University of Huddersfield, UK	
@@ -151,9 +152,10 @@ Name |	Position	& Organization
 
 ## Research Publications
 ### 2025
-* Huang, Y., Wu, W. & Qian, L. (2024). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
+* Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
 
 ### 2024
+* Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. Risk Analysis, Online first (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
 * Qian, L., Zhang, C., Chen, Y. & Xiao, Z. (2024). Spatial Network Effect of Charging Stations in Electric Vehicle Adoption, _Transportation Research Part D: Transport and Environment_, 136, 104400 (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.trd.2024.104400)
 * Yuan, R., Liu, J. M., Qian, L. & Chen, Y. (2024). The Effect of Corporate Social Responsibility Hybridity on Firm Performance: Moderating Role of Aspirational Talk, _Industrial Management & Data Systems_, 124(9), 2758-2790 (ABS2, ABDC-A). [DOI](https://doi.org/10.1108/IMDS-12-2023-0961)
 * Lee, J. & Gim, T. (2024). Reconsidering AVs future: A socio-spatial perspective. _Technology in Society_, 78, 102618. [DOI](https://doi.org/10.1016/j.techsoc.2024.102618)
@@ -219,6 +221,7 @@ Name |	Position	& Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+12/2024 |[消费者风险偏好如何影响自动驾驶汽车的选择？IBSS团队研究揭露关键因素](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)|[IBSS News](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)
 11/2024 |[西浦硕士生论文获得中国管理学年会优秀论文奖](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)|[SMAC News](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)
 08/2024 |[【喜讯】SMAC成功获批国家自然科学基金面上项目](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)|[SMAC News](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)
 06/2024 |[博士生的故事：探索与成长——梁亚的学术之旅](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ)|[IBSS News](https://mp.weixin.qq.com/s/qHNrYSN2WjSwv44Fl8tiEQ);[西交利物浦大学研究生院](https://mp.weixin.qq.com/s/nPpA0ymqhjEh4emM6yH6sQ)
@@ -251,6 +254,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2024 | December | [https://mp.weixin.qq.com/s/dTqVvepGhClq1ywzf5WPIw](https://mp.weixin.qq.com/s/dTqVvepGhClq1ywzf5WPIw)
 2024 | November | [https://mp.weixin.qq.com/s/C-BPsiJY-UkRRj_x_DQAVw](https://mp.weixin.qq.com/s/C-BPsiJY-UkRRj_x_DQAVw)
 2024 | October | [https://mp.weixin.qq.com/s/BbqxEw0N6caWUOxp_lz-zg](https://mp.weixin.qq.com/s/BbqxEw0N6caWUOxp_lz-zg)
 2024 | September| [https://mp.weixin.qq.com/s/mXnyXVXu0y0j4VzS8TgXpA](https://mp.weixin.qq.com/s/mXnyXVXu0y0j4VzS8TgXpA)
