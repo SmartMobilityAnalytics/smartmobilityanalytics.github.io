@@ -139,11 +139,11 @@ Name |	Academic position	| Institution
 
 ### Industry Advisory Board
 
-Name |	Position	& Organization 
+Name |	Organization 
 -----|---------------------------------------------
-<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| Senior Director of IT Innovation Division of National Innovation Center - Yangtze Delta;<br/> Visiting Professor at Xi'an Jiaotong-Liverpool University 
-<img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| General Manager of EV New Car Business Cooperation Division, CheHaoDuo Group
-<img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| Chief Marketing Officer, iMotion Automotive Technology (Suzhou) Co., Ltd.
+<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| IT Innovation Division of National Innovation Center - Yangtze Delta 
+<img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| Zeekr Group
+<img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| iMotion Automotive Technology (Suzhou) Co., Ltd.
 
 
 
