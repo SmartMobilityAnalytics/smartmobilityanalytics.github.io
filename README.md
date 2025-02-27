@@ -153,7 +153,7 @@ Name |	Organization
 * Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, accepted (ABS4, ABDC-A*)
 
 ### 2024
-* Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. Risk Analysis, Online first (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
+* Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. _Risk Analysis_, Online first (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
 * Qian, L., Zhang, C., Chen, Y. & Xiao, Z. (2024). Spatial Network Effect of Charging Stations in Electric Vehicle Adoption, _Transportation Research Part D: Transport and Environment_, 136, 104400 (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.trd.2024.104400)
 * Yuan, R., Liu, J. M., Qian, L. & Chen, Y. (2024). The Effect of Corporate Social Responsibility Hybridity on Firm Performance: Moderating Role of Aspirational Talk, _Industrial Management & Data Systems_, 124(9), 2758-2790 (ABS2, ABDC-A). [DOI](https://doi.org/10.1108/IMDS-12-2023-0961)
 * Lee, J. & Gim, T. (2024). Reconsidering AVs future: A socio-spatial perspective. _Technology in Society_, 78, 102618. [DOI](https://doi.org/10.1016/j.techsoc.2024.102618)
