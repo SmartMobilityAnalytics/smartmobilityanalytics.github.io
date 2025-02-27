@@ -136,9 +136,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Associate Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
-<img src="https://user-images.githubusercontent.com/90227575/165055304-0b03f00d-8997-4c45-90da-268010959b4c.png" width="100" ><br/>[Zhuang Ma](https://pure.hud.ac.uk/en/persons/zhuang-ma)	|Lecturer in Management |University of Huddersfield, UK	
-<img src="https://user-images.githubusercontent.com/90227575/165282165-83e61154-4f8f-43c8-925a-97d66dc4fada.png" width="100" ><br/>[Dun Li](http://mc.gzu.edu.cn/2023/0625/c17035a192586/page.htm)	|Associate Professor in Management| Guizhou University, China
-<img src="https://user-images.githubusercontent.com/90227575/168426918-bd736763-171b-40cf-990b-0802d0dd1b84.png" width="100" ><br/> [Yifu Li](https://bs.ustc.edu.cn/chinese/profile-1999.html)|Associate Professor in Operations Management | University of Science and Technology in China
+
 
 ### Industry Advisory Board
 
