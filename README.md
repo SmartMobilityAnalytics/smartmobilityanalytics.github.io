@@ -128,13 +128,14 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
 <img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](http://jlbri.suda.edu.cn/jlbri_en/6e/af/c27621a487087/page.htm)| Professor in Ecology and Sustainability | Soochow University, China
 <img src="https://user-images.githubusercontent.com/90227575/172530660-601d8766-5dbb-4da9-a8ce-b130a5d2a511.png" width="100"><br/>[Shaofeng Lu](http://www2.scut.edu.cn/wusie/2020/0425/c25374a395335/page.htm) | Professor in Engineering | South China University of Technology, China
+<img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://accedacris.ulpgc.es/cris/rp/rp01397?locale=en) |Associate Professor	in Economics |Universidad de Las Palmas de Gran Canaria, Spain	
 <img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
 <img src="https://user-images.githubusercontent.com/90227575/168426763-1163abfe-fa21-4ec8-a915-70617a58db09.png" width="100"><br/>[Bowei Chen](https://www.gla.ac.uk/schools/business/staff/boweichen/)|Senior Lecturer in Marketing Analytics and Data Science |University of Glasgow, UK
 <img src="https://user-images.githubusercontent.com/90227575/170613911-6cc1f31d-f9d2-44f9-81a3-948222f360ca.png" width="100"><br/>[Cheng Wang](https://zibs.zju.edu.cn/faculty/dr-wang-cheng.html)|Associate Professor in Marketing |Zhejiang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Associate Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
-<img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
+
 
 
 ### Industry Advisory Board
