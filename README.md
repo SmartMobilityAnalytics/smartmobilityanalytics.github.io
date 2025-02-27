@@ -153,6 +153,7 @@ Name |	Position	& Organization
 ## Research Publications
 ### 2025
 * Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
+* Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, accepted (ABS4, ABDC-A*)
 
 ### 2024
 * Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. Risk Analysis, Online first (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
@@ -254,6 +255,8 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2025 | February | [https://mp.weixin.qq.com/s/VH_sSavfZ0kyvew6Qq66DA](https://mp.weixin.qq.com/s/VH_sSavfZ0kyvew6Qq66DA)
+2025 | January | [https://mp.weixin.qq.com/s/0mf8vny1KJHzZkK-1VEgAw](https://mp.weixin.qq.com/s/0mf8vny1KJHzZkK-1VEgAw)
 2024 | December | [https://mp.weixin.qq.com/s/dTqVvepGhClq1ywzf5WPIw](https://mp.weixin.qq.com/s/dTqVvepGhClq1ywzf5WPIw)
 2024 | November | [https://mp.weixin.qq.com/s/C-BPsiJY-UkRRj_x_DQAVw](https://mp.weixin.qq.com/s/C-BPsiJY-UkRRj_x_DQAVw)
 2024 | October | [https://mp.weixin.qq.com/s/BbqxEw0N6caWUOxp_lz-zg](https://mp.weixin.qq.com/s/BbqxEw0N6caWUOxp_lz-zg)
