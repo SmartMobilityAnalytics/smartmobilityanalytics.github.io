@@ -150,8 +150,8 @@ Name |	Organization
 
 ## Research Publications
 ### 2025
+* Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, 110, 105163 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2025.105163)
 * Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
-* Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, accepted (ABS4, ABDC-A*)
 
 ### 2024
 * Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. _Risk Analysis_, Online first (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
@@ -220,6 +220,7 @@ Name |	Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+03/2025 |[IBSS钱力显教授发表关于社交媒体引发旅行焦虑的研究](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[Professor Qian's Research on Social Media–Induced Travel Anxiety](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)|[IBSS News](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[IBSS News in English](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)
 12/2024 |[消费者风险偏好如何影响自动驾驶汽车的选择？IBSS团队研究揭露关键因素](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)|[IBSS News](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)
 11/2024 |[西浦硕士生论文获得中国管理学年会优秀论文奖](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)|[SMAC News](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)
 08/2024 |[【喜讯】SMAC成功获批国家自然科学基金面上项目](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)|[SMAC News](https://mp.weixin.qq.com/s/F6EQNX_tTwqkoqvUKRarUQ)
@@ -253,6 +254,7 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2025 | March | [https://mp.weixin.qq.com/s/-vZqtAa_8GJ7dcsNIlsrhQ](https://mp.weixin.qq.com/s/-vZqtAa_8GJ7dcsNIlsrhQ)
 2025 | February | [https://mp.weixin.qq.com/s/VH_sSavfZ0kyvew6Qq66DA](https://mp.weixin.qq.com/s/VH_sSavfZ0kyvew6Qq66DA)
 2025 | January | [https://mp.weixin.qq.com/s/0mf8vny1KJHzZkK-1VEgAw](https://mp.weixin.qq.com/s/0mf8vny1KJHzZkK-1VEgAw)
 2024 | December | [https://mp.weixin.qq.com/s/dTqVvepGhClq1ywzf5WPIw](https://mp.weixin.qq.com/s/dTqVvepGhClq1ywzf5WPIw)
