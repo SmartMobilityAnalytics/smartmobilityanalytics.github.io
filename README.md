@@ -220,6 +220,7 @@ Name |	Organization
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+04/2025 |[西浦博士生论文获得MSI2025国际会议优秀论文提名奖](https://mp.weixin.qq.com/s/wlLfGOxwedturS_tZwQ60A)|[SMAC News](https://mp.weixin.qq.com/s/wlLfGOxwedturS_tZwQ60A)
 03/2025 |[IBSS钱力显教授发表关于社交媒体引发旅行焦虑的研究](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[Professor Qian's Research on Social Media–Induced Travel Anxiety](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)|[IBSS News](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[IBSS News in English](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)
 12/2024 |[消费者风险偏好如何影响自动驾驶汽车的选择？IBSS团队研究揭露关键因素](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)|[IBSS News](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)
 11/2024 |[西浦硕士生论文获得中国管理学年会优秀论文奖](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)|[SMAC News](https://mp.weixin.qq.com/s/eUULQLM4b1ZsZ1_2_rREwQ)
