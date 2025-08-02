@@ -56,8 +56,7 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://scholar.xjtlu.edu.cn/en/persons/YangLu/)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://scholar.xjtlu.edu.cn/en/persons/MiaomiaoLiu)|Assistant Professor|Data Analytics
 <img src="https://github.com/SmartMobilityAnalytics/smartmobilityanalytics.github.io/assets/90227575/407aff11-1340-4ac9-bbb1-4f37da4e3ad9" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
-
-
+<img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
 
 
 
@@ -81,7 +80,7 @@ Name |	Student Type    	| Research Topic
 -----|--------------------|--------------------
 Chi Yang | PhD student in Business <br/>(2023 ~ ) | The Economic and Social Impacts of Market-Driven Policies on the Development of the New Energy Vehicle Industry in China 
 Ya Liang|PhD student in Business <br/>(2020 ~ 2024) |Individual Adoption of Autonomous Vehicles and Related Services <br/> Placement: Tongji University
-Ruicheng Liu | PhD student in Business <br/>(2020 ~ )|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
+Ruicheng Liu | PhD student in Business <br/>(2020 ~ 2025)|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
 Shaohua Hu |PhD student in Urban Planning <br/>(2020 ~ )| Networked Public Transport
 Yu Han | PhD student in Business <br/>(2018 ~ 2022) | Supply chain risk management in the context of China <br/> Placement: Nanjing University of Finance and Economics
 Youlin Huang | PhD student in Business <br/>(2017 ~ 2020)|Consumer choice for electric vehicles and potential adoption of autonomous vehicles in China <br/> Placement: Zhejiang Gongshang University
@@ -91,7 +90,6 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers�
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Ya Luo |MRes Management <br/>(2025)|
 Yuanyuan Zhang | MRes Management <br/>(2025)|
 Yanbo Li | MRes Management <br/>(2024)| Open Innovations in New Energy Vehicle Industry
 Wenchen Rong | MSc. Business Analytics <br/>(2024)| The Impact of New Energy Vehicle Penetration on Air Quality: Evidence from 245 Cities in China
@@ -126,7 +124,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
 <img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Professor in Marketing|SP Jain School of Global Management, Singapore
 <img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
-<img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](http://jlbri.suda.edu.cn/jlbri_en/6e/af/c27621a487087/page.htm)| Professor in Ecology and Sustainability | Soochow University, China
+<img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](https://csmt.wku.edu.cn/en/node/2078)| Professor in Ecology | Wenzhou-Kean University, China
 <img src="https://user-images.githubusercontent.com/90227575/172530660-601d8766-5dbb-4da9-a8ce-b130a5d2a511.png" width="100"><br/>[Shaofeng Lu](http://www2.scut.edu.cn/wusie/2020/0425/c25374a395335/page.htm) | Professor in Engineering | South China University of Technology, China
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://accedacris.ulpgc.es/cris/rp/rp01397?locale=en) |Associate Professor	in Economics |Universidad de Las Palmas de Gran Canaria, Spain	
@@ -150,6 +148,8 @@ Name |	Organization
 
 ## Research Publications
 ### 2025
+* Huang, Y.， & Qian, L. (2025). Consumer Preferences and Willingness to Pay for Data Privacy in Automated Vehicles, _Transportation Research Part A: Policy & Practice_, 199, 104585 (ABS 3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2025.104585)
+* Yin, J., Hua, X., Qian, L. & Shang, P. (2025). The double-edged sword effect of perceived corporate environmental policy (CEP): How perceived CEP encourages and hinders employee green behavior, _Journal of Business Research_, 199, 115555. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.jbusres.2025.115555)
 * Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, 110, 105163 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2025.105163)
 * Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
 
@@ -254,6 +254,10 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2025 | July | [https://mp.weixin.qq.com/s/ikkElcsyjbGitFsnCAK6hw](https://mp.weixin.qq.com/s/ikkElcsyjbGitFsnCAK6hw)
+2025 | June | [https://mp.weixin.qq.com/s/2VvTdxT-DPYR8F6m1XFjfA](https://mp.weixin.qq.com/s/2VvTdxT-DPYR8F6m1XFjfA)
+2025 | May | [https://mp.weixin.qq.com/s/IjwJ3uIPib8JaBWXiivu7w](https://mp.weixin.qq.com/s/IjwJ3uIPib8JaBWXiivu7w)
+2025 | April | [https://mp.weixin.qq.com/s/DOl9xPD8aKPah-5HNC1pTg](https://mp.weixin.qq.com/s/DOl9xPD8aKPah-5HNC1pTg)
 2025 | March | [https://mp.weixin.qq.com/s/-vZqtAa_8GJ7dcsNIlsrhQ](https://mp.weixin.qq.com/s/-vZqtAa_8GJ7dcsNIlsrhQ)
 2025 | February | [https://mp.weixin.qq.com/s/VH_sSavfZ0kyvew6Qq66DA](https://mp.weixin.qq.com/s/VH_sSavfZ0kyvew6Qq66DA)
 2025 | January | [https://mp.weixin.qq.com/s/0mf8vny1KJHzZkK-1VEgAw](https://mp.weixin.qq.com/s/0mf8vny1KJHzZkK-1VEgAw)
