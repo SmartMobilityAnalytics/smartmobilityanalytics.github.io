@@ -74,10 +74,11 @@ Name |	Academic position	| Research expertise
 
 
 
-### PhD Students
+### PhD Students and Postdoc Researchers
 
 Name |	Student Type    	| Research Topic 
 -----|--------------------|--------------------
+Xiaofan Chen | Postdoc Researcher <br/>(2025 ~ ) | Adoption of Autonomous Vehicles and other Emerging Technologies
 Chi Yang | PhD student in Business <br/>(2023 ~ ) | The Economic and Social Impacts of Market-Driven Policies on the Development of the New Energy Vehicle Industry in China 
 Ya Liang|PhD student in Business <br/>(2020 ~ 2024) |Individual Adoption of Autonomous Vehicles and Related Services <br/> Placement: Tongji University
 Ruicheng Liu | PhD student in Business <br/>(2020 ~ 2025)|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
