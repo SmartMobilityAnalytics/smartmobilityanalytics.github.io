@@ -134,6 +134,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/170613911-6cc1f31d-f9d2-44f9-81a3-948222f360ca.png" width="100"><br/>[Cheng Wang](https://zibs.zju.edu.cn/2024/0624/c81819a2938953/page.htm)|Associate Professor in Marketing |Zhejiang University, China
 <img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Associate Profesor in Marketing |	 Nottingham University Ningbo China	
 <img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
+<img src="https://pure.hud.ac.uk/files-asset/114187919/resized_IMG_0961_1_.jpeg" width="100" ><br/>[Zhuang Ma](https://pure.hud.ac.uk/en/persons/zhuang-ma) |Senior Lecturer in Management| University of Huddersfield, UK
 
 
 
