@@ -55,9 +55,8 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/170500433-004d9a92-8dbd-4197-bff6-8fb1577df897.png" width="100" ><br/> [Linjia Zhang](https://scholar.xjtlu.edu.cn/en/persons/LinjiaZhang/)|Associate Professor | Tourism Economics
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://scholar.xjtlu.edu.cn/en/persons/YangLu/)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://scholar.xjtlu.edu.cn/en/persons/MiaomiaoLiu)|Assistant Professor|Data Analytics
-<img src="https://github.com/SmartMobilityAnalytics/smartmobilityanalytics.github.io/assets/90227575/407aff11-1340-4ac9-bbb1-4f37da4e3ad9" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
+<img src="https://github.com/user-attachments/assets/de268637-936c-45ec-8102-badacdbcc92c" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
 <img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
-
 
 
 
@@ -71,6 +70,39 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165217294-abec2561-be82-486a-bb13-a01e35f2a4e2.png" width="100"  ><br/>[Jianjun Chen](https://scholar.xjtlu.edu.cn/en/persons/JianjunChen)|Teaching Fellow	in	Computing|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/188316420-3cdc3e8f-b6a4-4883-bdd0-7ad7855856c9.png" width="100" ><br/>[Bing Han](https://scholar.xjtlu.edu.cn/en/persons/BingHan)|Lecturer in Electrical and Electronic Engineering|Electric vehicle integration to power grids, energy storage systems and smart grids
 <img src="https://user-images.githubusercontent.com/90227575/201111093-71919d5e-d6ec-4cd7-a1a7-da630430898d.png" width="100" ><br/>[Juhyun Lee](https://scholar.xjtlu.edu.cn/en/persons/JuhyunLee)|Assistant Professor in Urban Planning and Design|Smart accessibility and smart mobility
+
+
+### International Research Network
+
+Name |	Academic position	| Institution 
+-----|---------------------------|-------------------
+<img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
+<img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lancaster.ac.uk/lums/people/dong-li)	|Professor of Operational Research|Lancaster University, UK
+<img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> Didier Soopramanien | Associate Professor in Marketing | Beijing Foreign Studies University, China
+<img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
+<img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
+<img src="https://user-images.githubusercontent.com/90227575/168426763-1163abfe-fa21-4ec8-a915-70617a58db09.png" width="100"><br/>[Bowei Chen](https://www.gla.ac.uk/schools/business/staff/boweichen/)|Professor in Business Analytics and Artificial Intelligence |University of Glasgow, UK
+<img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Professor in Marketing|SP Jain School of Global Management, Singapore
+<img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
+<img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](https://csmt.wku.edu.cn/en/node/2078)| Professor in Ecology | Wenzhou-Kean University, China
+<img src="https://user-images.githubusercontent.com/90227575/172530660-601d8766-5dbb-4da9-a8ce-b130a5d2a511.png" width="100"><br/>[Shaofeng Lu](http://www2.scut.edu.cn/wusie/2020/0425/c25374a395335/page.htm) | Professor in Engineering | South China University of Technology, China
+<img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
+<img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://accedacris.ulpgc.es/cris/rp/rp01397?locale=en) |Associate Professor	in Economics |Universidad de Las Palmas de Gran Canaria, Spain	
+<img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
+<img src="https://user-images.githubusercontent.com/90227575/170613911-6cc1f31d-f9d2-44f9-81a3-948222f360ca.png" width="100"><br/>[Cheng Wang](https://zibs.zju.edu.cn/2024/0624/c81819a2938953/page.htm)|Associate Professor in Marketing |Zhejiang University, China
+<img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Associate Profesor in Marketing |	 Nottingham University Ningbo China	
+<img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
+<img src="https://pure.hud.ac.uk/files-asset/114187919/resized_IMG_0961_1_.jpeg" width="100" ><br/>[Zhuang Ma](https://pure.hud.ac.uk/en/persons/zhuang-ma) |Senior Lecturer in Management| University of Huddersfield, UK
+
+
+
+### Industry Advisory Board
+
+Name |	Organization 
+-----|---------------------------------------------
+<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| IT Innovation Division of National Innovation Center - Yangtze Delta 
+<img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| Zeekr Group
+<img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| iMotion Automotive Technology (Suzhou) Co., Ltd.
 
 
 
@@ -114,37 +146,6 @@ Qimeng Zheng  | MSc. Project Management student <br/>(2017~2018) | Analyzing pro
 Yangfan Zhang | MSc. Management student <br/>(2017~2018) | Compare and contrast the penetration of bike-sharing, ridesharing and car-sharing from the multi-level perspective
 Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference for Alternative Fuel Vehicles in South Jiangsu Region: Instrumental, Institutional, and Psychological Perspectives
 
-### International Research Network
-
-Name |	Academic position	| Institution 
------|---------------------------|-------------------
-<img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
-<img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lancaster.ac.uk/lums/people/dong-li)	|Professor of Operational Research|Lancaster University, UK
-<img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> Didier Soopramanien | Associate Professor in Marketing | Beijing Foreign Studies University, China
-<img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
-<img src="https://user-images.githubusercontent.com/90227575/152155749-9d7892c1-c557-48bd-b4bf-bc177387d4af.png" width="100" ><br/>[Cheng Zhang](https://www.fdsm.fudan.edu.cn/aboutus/preview.html?uid=012012)|Professor	in Information System|Fudan University, China	
-<img src="https://user-images.githubusercontent.com/90227575/152156962-9ed477c7-4a45-4edc-8b02-5d888f704774.png" width="100"  ><br/>[Tristan Chong](https://www.spjain.sg/faculty/profiles/tristan-chong)|Professor in Marketing|SP Jain School of Global Management, Singapore
-<img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
-<img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](https://csmt.wku.edu.cn/en/node/2078)| Professor in Ecology | Wenzhou-Kean University, China
-<img src="https://user-images.githubusercontent.com/90227575/172530660-601d8766-5dbb-4da9-a8ce-b130a5d2a511.png" width="100"><br/>[Shaofeng Lu](http://www2.scut.edu.cn/wusie/2020/0425/c25374a395335/page.htm) | Professor in Engineering | South China University of Technology, China
-<img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
-<img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://accedacris.ulpgc.es/cris/rp/rp01397?locale=en) |Associate Professor	in Economics |Universidad de Las Palmas de Gran Canaria, Spain	
-<img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
-<img src="https://user-images.githubusercontent.com/90227575/168426763-1163abfe-fa21-4ec8-a915-70617a58db09.png" width="100"><br/>[Bowei Chen](https://www.gla.ac.uk/schools/business/staff/boweichen/)|Professor in Business Analytics and Artificial Intelligence |University of Glasgow, UK
-<img src="https://user-images.githubusercontent.com/90227575/170613911-6cc1f31d-f9d2-44f9-81a3-948222f360ca.png" width="100"><br/>[Cheng Wang](https://zibs.zju.edu.cn/2024/0624/c81819a2938953/page.htm)|Associate Professor in Marketing |Zhejiang University, China
-<img src="https://user-images.githubusercontent.com/90227575/152156742-dd21af91-12ea-4ddc-9057-9cfac639f3e4.png" width="100"  ><br/>[Russa Yuan](https://www.nottingham.edu.cn/en/Business/People/Profile.aspx?id=16a5c499-8b57-423e-b240-da2522f9349f&language=en-GB)	|Associate Profesor in Marketing |	 Nottingham University Ningbo China	
-<img src="https://user-images.githubusercontent.com/90227575/167097161-09b8f08f-b28d-4d55-ba97-506eada43e21.png" width="100" ><br/>[Jinzhu Song](https://gsgl.zjgsu.edu.cn/2021/0601/c102a74489/page.htm) |Associate Professor in Marketing| Zhejiang Gongshang University, China
-<img src="https://pure.hud.ac.uk/files-asset/114187919/resized_IMG_0961_1_.jpeg" width="100" ><br/>[Zhuang Ma](https://pure.hud.ac.uk/en/persons/zhuang-ma) |Senior Lecturer in Management| University of Huddersfield, UK
-
-
-
-### Industry Advisory Board
-
-Name |	Organization 
------|---------------------------------------------
-<img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| IT Innovation Division of National Innovation Center - Yangtze Delta 
-<img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| Zeekr Group
-<img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| iMotion Automotive Technology (Suzhou) Co., Ltd.
 
 
 
