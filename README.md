@@ -50,13 +50,13 @@ To be a leading platform on smart mobility analytics that synergises the insight
 Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
 <img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://scholar.xjtlu.edu.cn/en/persons/LixianQian)|Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy, Mobility Behavior
-<img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/> [Ou Liu](https://scholar.xjtlu.edu.cn/en/persons/OuLiu)|Senior Associate Professor| Business Intelligence and Analytics
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://scholar.xjtlu.edu.cn/en/persons/JianghangChen/)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/170500433-004d9a92-8dbd-4197-bff6-8fb1577df897.png" width="100" ><br/> [Linjia Zhang](https://scholar.xjtlu.edu.cn/en/persons/LinjiaZhang/)|Associate Professor | Tourism Economics
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://scholar.xjtlu.edu.cn/en/persons/YangLu/)|Assistant Professor|Adoption of new technologies
 <img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://scholar.xjtlu.edu.cn/en/persons/MiaomiaoLiu)|Assistant Professor|Data Analytics
 <img src="https://github.com/user-attachments/assets/de268637-936c-45ec-8102-badacdbcc92c" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
 <img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
+<img src="https://scholar.xjtlu.edu.cn/files-asset/58093494/photo_Z_Z.jpg" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
 
 
 
@@ -86,6 +86,7 @@ Name |	Academic position	| Institution
 <img src="https://user-images.githubusercontent.com/90227575/152155344-0a387fa3-5a9f-4a76-be03-6a9d57556e59.png" width="100"  ><br/>[Juelin Yin](http://bus.sysu.edu.cn/teacher/YinJuelin)| Professor in Management |Sun Yat-sen University, China	
 <img src="https://user-images.githubusercontent.com/90227575/169471799-71d9b545-df02-4777-a1f3-b959a717d0c0.png" width="100"><br/>[Yixin Zhang](https://csmt.wku.edu.cn/en/node/2078)| Professor in Ecology | Wenzhou-Kean University, China
 <img src="https://user-images.githubusercontent.com/90227575/172530660-601d8766-5dbb-4da9-a8ce-b130a5d2a511.png" width="100"><br/>[Shaofeng Lu](http://www2.scut.edu.cn/wusie/2020/0425/c25374a395335/page.htm) | Professor in Engineering | South China University of Technology, China
+<img src="https://user-images.githubusercontent.com/90227575/133061891-66385d93-9029-469e-9c95-36d0a33deea6.png" width="100"><br/> [Ou Liu](https://bs.sztu.edu.cn/info/1418/3887.htm)|Associate Professor| Shenzhen Technology University
 <img src="https://user-images.githubusercontent.com/90227575/152155495-f04fa994-978e-4773-a2a2-4b92f4731fa8.png" width="100" ><br/>[Youlin Huang](https://www2.scut.edu.cn/tourism/2023/1206/c27535a528636/page.htm)|Associate Professor | South China University of Technology, China	
 <img src="https://user-images.githubusercontent.com/90227575/165055515-ba2dab8a-e154-48a7-a268-1dede2068fe3.png" width="100" ><br/>[Jose M. Grisolia](https://accedacris.ulpgc.es/cris/rp/rp01397?locale=en) |Associate Professor	in Economics |Universidad de Las Palmas de Gran Canaria, Spain	
 <img src="https://user-images.githubusercontent.com/90227575/152156620-f2630fae-ec9c-42b4-9c23-75a7a55235fa.png" width="100" ><br/>[Xi Chen](https://www.rsm.nl/people/xi-chen1/) |Associate Professor in Marketing	|Rotterdam School of Management, Erasmus University, Netherlands
@@ -258,6 +259,9 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2025 | October | [https://mp.weixin.qq.com/s/-y0IkcGa4ovdlRVnZ2QZCQ](https://mp.weixin.qq.com/s/-y0IkcGa4ovdlRVnZ2QZCQ)
+2025 | September| [https://mp.weixin.qq.com/s/wub6D4ihPIJt0DInXdfDsw](https://mp.weixin.qq.com/s/wub6D4ihPIJt0DInXdfDsw)
+2025 | August | [https://mp.weixin.qq.com/s/0WQDSmQ-Q0G9SJcYT_Zt4w](https://mp.weixin.qq.com/s/0WQDSmQ-Q0G9SJcYT_Zt4w)
 2025 | July | [https://mp.weixin.qq.com/s/ikkElcsyjbGitFsnCAK6hw](https://mp.weixin.qq.com/s/ikkElcsyjbGitFsnCAK6hw)
 2025 | June | [https://mp.weixin.qq.com/s/2VvTdxT-DPYR8F6m1XFjfA](https://mp.weixin.qq.com/s/2VvTdxT-DPYR8F6m1XFjfA)
 2025 | May | [https://mp.weixin.qq.com/s/IjwJ3uIPib8JaBWXiivu7w](https://mp.weixin.qq.com/s/IjwJ3uIPib8JaBWXiivu7w)
