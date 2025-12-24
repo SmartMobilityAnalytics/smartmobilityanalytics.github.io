@@ -49,11 +49,11 @@ To be a leading platform on smart mobility analytics that synergises the insight
 
 Name |	Academic position	| Research expertise
 -----|--------------------|----------------------
+<img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://scholar.xjtlu.edu.cn/en/persons/MiaomiaoLiu)|Assistant Professor, Coordinator of SMAC |Data Analytics
 <img src="https://user-images.githubusercontent.com/90227575/165086930-61edc0bb-9886-4ca4-9b61-6416d651d60d.png" width="100"  ><br/> [Lixian Qian](https://scholar.xjtlu.edu.cn/en/persons/LixianQian)|Professor;<br/>  Associate Dean for Research of IBSS	|	Mobility Analytics, Data-driven Marketing Strategy, Mobility Behavior
 <img src="https://user-images.githubusercontent.com/90227575/165087105-0204f45f-1c55-4c29-b1da-18988e846f7f.png" width="100"  ><br/> [Jianghang Chen](https://scholar.xjtlu.edu.cn/en/persons/JianghangChen/)|Associate Professor|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/170500433-004d9a92-8dbd-4197-bff6-8fb1577df897.png" width="100" ><br/> [Linjia Zhang](https://scholar.xjtlu.edu.cn/en/persons/LinjiaZhang/)|Associate Professor | Tourism Economics
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://scholar.xjtlu.edu.cn/en/persons/YangLu/)|Assistant Professor|Adoption of new technologies
-<img src="https://user-images.githubusercontent.com/90227575/165087253-ade1d66f-dea2-40f3-8557-45afde9e4835.png" width="100"  ><br/> [Miaomiao Liu](https://scholar.xjtlu.edu.cn/en/persons/MiaomiaoLiu)|Assistant Professor|Data Analytics
 <img src="https://github.com/user-attachments/assets/de268637-936c-45ec-8102-badacdbcc92c" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
 <img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
 <img src="https://scholar.xjtlu.edu.cn/files-asset/58093494/photo_Z_Z.jpg" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
@@ -112,6 +112,7 @@ Name |	Organization
 Name |	Student Type    	| Research Topic 
 -----|--------------------|--------------------
 Xiaofan Chen | Postdoc Researcher <br/>(2025 ~ ) | Adoption of Autonomous Vehicles and other Emerging Technologies
+Yanbo Li | PhD student in Business <br/>(2025 ~ ) | Sustainable Diffusion of New Energy Vehicles 
 Chi Yang | PhD student in Business <br/>(2023 ~ ) | The Economic and Social Impacts of Market-Driven Policies on the Development of the New Energy Vehicle Industry in China 
 Ya Liang|PhD student in Business <br/>(2020 ~ 2024) |Individual Adoption of Autonomous Vehicles and Related Services <br/> Placement: Tongji University
 Ruicheng Liu | PhD student in Business <br/>(2020 ~ 2025)|Dynamic Rebalancing Strategies and Optimization Dockless Bike-sharing System
@@ -124,7 +125,7 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturers�
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
-Yuanyuan Zhang | MRes Management <br/>(2025)|
+Yuanyuan Zhang | MRes Management <br/>(2025)| The Impact of EV Firms’ Financial Support and Consumer Values on Intention to Use Human-Machine Interface Features in Electric Vehicles
 Yanbo Li | MRes Management <br/>(2024)| Open Innovations in New Energy Vehicle Industry
 Wenchen Rong | MSc. Business Analytics <br/>(2024)| The Impact of New Energy Vehicle Penetration on Air Quality: Evidence from 245 Cities in China
 Ruoyun Chen | MSc. Project Management <br/>(2022~2023)|Investigating the Attitude and Intention of Non-early Adopters to Purchase New Energy Vehicles in China
@@ -151,6 +152,9 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 
 ## Research Publications
+### 2026
+* Yang, C., Qian, L. & Liu, M. (2026). Configurational Impacts of Government Policies on Electric Vehicle Diffusion: A Global Analysis, _Transportation Research Part D: Transport and Environment_, 151, 105144. (ABS3, ABDC-A, CAS-Q1). [DOI](https://doi.org/10.1016/j.trd.2025.105144)
+
 ### 2025
 * Huang, Y.， & Qian, L. (2025). Consumer Preferences and Willingness to Pay for Data Privacy in Automated Vehicles, _Transportation Research Part A: Policy & Practice_, 199, 104585 (ABS 3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2025.104585)
 * Yin, J., Hua, X., Qian, L. & Shang, P. (2025). The double-edged sword effect of perceived corporate environmental policy (CEP): How perceived CEP encourages and hinders employee green behavior, _Journal of Business Research_, 199, 115555. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.jbusres.2025.115555)
@@ -224,6 +228,8 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+12/2025 |[IBSS团队研究成果发表于知名期刊，为全球电动汽车政策制定提供组态化指南](https://mp.weixin.qq.com/s/or1HSWdudUQSk-yxwGNdJA?scene=1)|(https://mp.weixin.qq.com/s/or1HSWdudUQSk-yxwGNdJA?scene=1)
+09/2025 |[自动驾驶汽车中的数据隐私与消费者偏好：平衡之道](https://mp.weixin.qq.com/s/eRCva8Ow7GhL_eee24Bd6g)|[IBSS News](https://mp.weixin.qq.com/s/eRCva8Ow7GhL_eee24Bd6g)
 04/2025 |[西浦博士生论文获得MSI2025国际会议优秀论文提名奖](https://mp.weixin.qq.com/s/wlLfGOxwedturS_tZwQ60A)|[SMAC News](https://mp.weixin.qq.com/s/wlLfGOxwedturS_tZwQ60A)
 03/2025 |[IBSS钱力显教授发表关于社交媒体引发旅行焦虑的研究](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[Professor Qian's Research on Social Media–Induced Travel Anxiety](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)|[IBSS News](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[IBSS News in English](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)
 12/2024 |[消费者风险偏好如何影响自动驾驶汽车的选择？IBSS团队研究揭露关键因素](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)|[IBSS News](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)
@@ -259,6 +265,8 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2025 | December |[https://mp.weixin.qq.com/s/-0V-63Q6gp8e_I-E70czUQ](https://mp.weixin.qq.com/s/-0V-63Q6gp8e_I-E70czUQ)
+2025 | November |[https://mp.weixin.qq.com/s/L8nfExtEzB_EEwq8tzq5EA](https://mp.weixin.qq.com/s/L8nfExtEzB_EEwq8tzq5EA)
 2025 | October | [https://mp.weixin.qq.com/s/-y0IkcGa4ovdlRVnZ2QZCQ](https://mp.weixin.qq.com/s/-y0IkcGa4ovdlRVnZ2QZCQ)
 2025 | September| [https://mp.weixin.qq.com/s/wub6D4ihPIJt0DInXdfDsw](https://mp.weixin.qq.com/s/wub6D4ihPIJt0DInXdfDsw)
 2025 | August | [https://mp.weixin.qq.com/s/0WQDSmQ-Q0G9SJcYT_Zt4w](https://mp.weixin.qq.com/s/0WQDSmQ-Q0G9SJcYT_Zt4w)
