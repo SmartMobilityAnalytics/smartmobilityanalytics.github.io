@@ -67,9 +67,10 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165217194-8a6c3fa3-2713-45e3-9781-b5d734ce9725.png" width="100"  ><br/>[Sophie Sturup](https://scholar.xjtlu.edu.cn/en/persons/SophieSturup)|Senior Associate Professor	in Urban Planning and Design|Networked public transport
 <img src="https://user-images.githubusercontent.com/90227575/165217235-a1ddae6c-9500-4d1b-9de3-7223efd11e09.png" width="100"  ><br/>[Hyung-Chul Chung](https://scholar.xjtlu.edu.cn/en/persons/HYUNGCHULCHUNG)|Associate Professor	in	Urban Planning and Design|Travel behavior and satisfaction
 <img src="https://github.com/SmartMobilityAnalytics/smartmobilityanalytics.github.io/assets/90227575/a28a8644-3dc3-4ffe-9133-896382b608ac" width="100"><br/>[Dongyao Jia](https://scholar.xjtlu.edu.cn/en/persons/DongyaoJia)|Associate Professor, Department of Communications and Networking | Intelligent transportation, Connected and autonomous driving
-<img src="https://user-images.githubusercontent.com/90227575/165217294-abec2561-be82-486a-bb13-a01e35f2a4e2.png" width="100"  ><br/>[Jianjun Chen](https://scholar.xjtlu.edu.cn/en/persons/JianjunChen)|Teaching Fellow	in	Computing|Transportation Optimization
 <img src="https://user-images.githubusercontent.com/90227575/188316420-3cdc3e8f-b6a4-4883-bdd0-7ad7855856c9.png" width="100" ><br/>[Bing Han](https://scholar.xjtlu.edu.cn/en/persons/BingHan)|Lecturer in Electrical and Electronic Engineering|Electric vehicle integration to power grids, energy storage systems and smart grids
 <img src="https://user-images.githubusercontent.com/90227575/201111093-71919d5e-d6ec-4cd7-a1a7-da630430898d.png" width="100" ><br/>[Juhyun Lee](https://scholar.xjtlu.edu.cn/en/persons/JuhyunLee)|Assistant Professor in Urban Planning and Design|Smart accessibility and smart mobility
+<img src="https://github.com/user-attachments/assets/dd824ce9-1cd6-461b-98b4-bac23f5d8e2d" width="100"  ><br/>[Xinyi Wu](https://scholar.xjtlu.edu.cn/en/persons/XinyiWu/)|Assistant Professor|Social Deployment of Emerging Technologies, Urban Innovation and Mobility
+
 
 
 ### International Research Network
