@@ -154,16 +154,18 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 ## Research Publications
 ### 2026
+* Yang, C., Qian, L., & Liu, M. (2026). Impact of Government Policies on the Electric Vehicle Industry, Environment, and Society: A Systematic Review. _Technology in Society_, 85, 103226. [DOI](https://doi.org/10.1016/j.techsoc.2026.103226)
+* Huang, Y., Qian, L., & Song, J. (2026). When service process contradicts service outcome: spillover effect of users’ perceptions in the case of robotaxi service encounters. _Journal of Business Research_, 206, 115954. (ABS3, ABDC-A, CAS-Q1). [DOI](https://doi.org/10.1016/j.jbusres.2025.115954)
 * Yang, C., Qian, L. & Liu, M. (2026). Configurational Impacts of Government Policies on Electric Vehicle Diffusion: A Global Analysis, _Transportation Research Part D: Transport and Environment_, 151, 105144. (ABS3, ABDC-A, CAS-Q1). [DOI](https://doi.org/10.1016/j.trd.2025.105144)
 
 ### 2025
+* Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. _Risk Analysis_, 45(12), 4157-4176 (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
 * Huang, Y.， & Qian, L. (2025). Consumer Preferences and Willingness to Pay for Data Privacy in Automated Vehicles, _Transportation Research Part A: Policy & Practice_, 199, 104585 (ABS 3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2025.104585)
 * Yin, J., Hua, X., Qian, L. & Shang, P. (2025). The double-edged sword effect of perceived corporate environmental policy (CEP): How perceived CEP encourages and hinders employee green behavior, _Journal of Business Research_, 199, 115555. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.jbusres.2025.115555)
 * Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, 110, 105163 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2025.105163)
 * Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
 
 ### 2024
-* Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2024). The effects of risk preferences on consumers’ reference-dependent choices for autonomous vehicles. _Risk Analysis_, Online first (ABS4). [DOI](https://doi.org/10.1111/risa.17692)
 * Qian, L., Zhang, C., Chen, Y. & Xiao, Z. (2024). Spatial Network Effect of Charging Stations in Electric Vehicle Adoption, _Transportation Research Part D: Transport and Environment_, 136, 104400 (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.trd.2024.104400)
 * Yuan, R., Liu, J. M., Qian, L. & Chen, Y. (2024). The Effect of Corporate Social Responsibility Hybridity on Firm Performance: Moderating Role of Aspirational Talk, _Industrial Management & Data Systems_, 124(9), 2758-2790 (ABS2, ABDC-A). [DOI](https://doi.org/10.1108/IMDS-12-2023-0961)
 * Lee, J. & Gim, T. (2024). Reconsidering AVs future: A socio-spatial perspective. _Technology in Society_, 78, 102618. [DOI](https://doi.org/10.1016/j.techsoc.2024.102618)
