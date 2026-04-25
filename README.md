@@ -231,8 +231,12 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
-12/2025 |[IBSS团队研究成果发表于知名期刊，为全球电动汽车政策制定提供组态化指南](https://mp.weixin.qq.com/s/or1HSWdudUQSk-yxwGNdJA?scene=1)|(https://mp.weixin.qq.com/s/or1HSWdudUQSk-yxwGNdJA?scene=1)
+04/2026 | [西浦博士生论文获得MSI2026国际会议优秀论文二等奖]() | [SMAC News](https://mp.weixin.qq.com/s/IJv958VslBFfJbYtpPs2uw)
+03/2026 |[IBSS研究提出电动汽车政策有效性框架，解码全球产业发展逻辑](https://mp.weixin.qq.com/s/OiHC0V0fqarrXxbYwNzH3Q )</br>[New EV Policy Effectiveness Research from IBSS](https://www.xjtlu.edu.cn/en/news/2026/03/ibss-develops-ev-policy-effectiveness-framework-to-decipher-global-industry-logic)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2026/03/ibss-develops-ev-policy-effectiveness-framework-to-decipher-global-industry-logic ); [IBSS News](https://mp.weixin.qq.com/s/OiHC0V0fqarrXxbYwNzH3Q )
+02/2026 |[IBSS研究揭示自动驾驶出租车服务互动中的用户感知溢出效应 破解服务流程与结果相悖难题](https://mp.weixin.qq.com/s/wt3K-YhojbXkWbqee3qMHA)</br>[Robotaxi Service Contradictions: IBSS Professor Qian’s Team Deciphers User Perceptions](https://www.xjtlu.edu.cn/en/news/2026/02/robotaxi-service-contradictions-ibss-professor-qians-team-deciphers-user-perceptions)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2026/02/robotaxi-service-contradictions-ibss-professor-qians-team-deciphers-user-perceptions); [IBSS News](https://mp.weixin.qq.com/s/wt3K-YhojbXkWbqee3qMHA)
+12/2025 |[IBSS团队研究成果发表于知名期刊，为全球电动汽车政策制定提供组态化指南](https://mp.weixin.qq.com/s/or1HSWdudUQSk-yxwGNdJA?scene=1)|[IBSS News](https://mp.weixin.qq.com/s/or1HSWdudUQSk-yxwGNdJA?scene=1)
 09/2025 |[自动驾驶汽车中的数据隐私与消费者偏好：平衡之道](https://mp.weixin.qq.com/s/eRCva8Ow7GhL_eee24Bd6g)|[IBSS News](https://mp.weixin.qq.com/s/eRCva8Ow7GhL_eee24Bd6g)
+08/2025 |[IBSS研究揭示企业环境政策的 “双刃剑” 效应](https://mp.weixin.qq.com/s/IJpE5sAj8MjKXwZ-Kir8hw)<br/>[The Double-Edged Sword of Corporate Environmental Policies: Balancing Employee Engagement and Overload](https://www.xjtlu.edu.cn/en/news/2025/08/the-double-edged-sword-of-corporate-environmental-policies-balancing-employee-engagement-and-overload)|[XJTLU News](https://www.xjtlu.edu.cn/en/news/2025/08/the-double-edged-sword-of-corporate-environmental-policies-balancing-employee-engagement-and-overload); [IBSS News](https://mp.weixin.qq.com/s/IJpE5sAj8MjKXwZ-Kir8hw)
 04/2025 |[西浦博士生论文获得MSI2025国际会议优秀论文提名奖](https://mp.weixin.qq.com/s/wlLfGOxwedturS_tZwQ60A)|[SMAC News](https://mp.weixin.qq.com/s/wlLfGOxwedturS_tZwQ60A)
 03/2025 |[IBSS钱力显教授发表关于社交媒体引发旅行焦虑的研究](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[Professor Qian's Research on Social Media–Induced Travel Anxiety](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)|[IBSS News](https://mp.weixin.qq.com/s/I-dfxGttVy10D3EjDfGrVg)<br/>[IBSS News in English](https://mp.weixin.qq.com/s/TxWc_YUxbQ5cTZOrEHWabg)
 12/2024 |[消费者风险偏好如何影响自动驾驶汽车的选择？IBSS团队研究揭露关键因素](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)|[IBSS News](https://mp.weixin.qq.com/s/7s0RM2UddS1tXhvPzI94jw)
@@ -268,6 +272,10 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2026 | April | [https://mp.weixin.qq.com/s/mna3HOdzBoyfr27dhOGbEA](https://mp.weixin.qq.com/s/mna3HOdzBoyfr27dhOGbEA)
+2026 | March | [https://mp.weixin.qq.com/s/E_jeuYAcvkkVC2pTwdynXw](https://mp.weixin.qq.com/s/E_jeuYAcvkkVC2pTwdynXw)
+2026 | February | [https://mp.weixin.qq.com/s/OYa6hBkzQZbraCJrSnG7Ag](https://mp.weixin.qq.com/s/OYa6hBkzQZbraCJrSnG7Ag)
+2026 | January |[https://mp.weixin.qq.com/s/lHN4m0IjmLtTYfjMNAI4HA](https://mp.weixin.qq.com/s/lHN4m0IjmLtTYfjMNAI4HA)
 2025 | December |[https://mp.weixin.qq.com/s/-0V-63Q6gp8e_I-E70czUQ](https://mp.weixin.qq.com/s/-0V-63Q6gp8e_I-E70czUQ)
 2025 | November |[https://mp.weixin.qq.com/s/L8nfExtEzB_EEwq8tzq5EA](https://mp.weixin.qq.com/s/L8nfExtEzB_EEwq8tzq5EA)
 2025 | October | [https://mp.weixin.qq.com/s/-y0IkcGa4ovdlRVnZ2QZCQ](https://mp.weixin.qq.com/s/-y0IkcGa4ovdlRVnZ2QZCQ)
