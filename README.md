@@ -57,7 +57,7 @@ Name |	Academic position	| Research expertise
 <img src="https://github.com/user-attachments/assets/de268637-936c-45ec-8102-badacdbcc92c" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
 <img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
 <img src="https://github.com/user-attachments/assets/c3c0ccbe-9267-4818-bd08-8aedf1bba526" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
-
+<img src="https://github.com/user-attachments/assets/a96ce5be-3ea3-441f-bc9c-0c61e46e525f" width="100"><br/> [Chen Hu](https://scholar.xjtlu.edu.cn/en/persons/ChenHu) |Assistant Professor | Sustainable Operations Management, Platform Economics
 
 
 
@@ -129,6 +129,7 @@ Zhuang Ma | PhD student in Business <br/>(2016 ~ 2020)|Developing manufacturersâ
 
 Name |	Student Type    	| Research Topic
 -----|--------------------|------------------
+Guangchen Ma | MRes Management <br/>(2026)|
 Yuanyuan Zhang | MRes Management <br/>(2025)| The Impact of EV Firmsâ€™ Financial Support and Consumer Values on Intention to Use Human-Machine Interface Features in Electric Vehicles
 Yanbo Li | MRes Management <br/>(2024)| Open Innovations in New Energy Vehicle Industry
 Wenchen Rong | MSc. Business Analytics <br/>(2024)| The Impact of New Energy Vehicle Penetration on Air Quality: Evidence from 245 Cities in China
