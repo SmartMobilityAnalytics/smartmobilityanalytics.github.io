@@ -169,7 +169,7 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 * Huang, Y.， & Qian, L. (2025). Consumer Preferences and Willingness to Pay for Data Privacy in Automated Vehicles, _Transportation Research Part A: Policy & Practice_, 199, 104585 (ABS 3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2025.104585)
 * Yin, J., Hua, X., Qian, L. & Shang, P. (2025). The double-edged sword effect of perceived corporate environmental policy (CEP): How perceived CEP encourages and hinders employee green behavior, _Journal of Business Research_, 199, 115555. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.jbusres.2025.115555)
 * Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, 110, 105163 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2025.105163)
-** ESI Highly Cited Paper, May 2026
+  * ESI Highly Cited Paper in Social Sciences General, May 2026
 * Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
 
 ### 2024
@@ -184,6 +184,7 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 * Zhang, C., Qian, L.*, Yu, W., Hu, J.-Q. & Lu, X. (2023). When Omicron Knocks at Door: An Inverted U-shape Relationship between Virus Proximity and Prosocial Behavior. _Fundamental Research_, in press.[DOI](https://doi.org/10.1016/j.fmre.2023.07.003) 
 * Qian, L., Soopramanien, D., Michaelidou, N. (2023). Consumers’ Transport and Mobility Decisions, _Journal of Consumer Behaviour_, 22 (2), 378-381. [DOI](https://doi.org/10.1002/cb.2145)
 * Ying, S., Huang, Y., Qian, L. & Song, J. (2023). Privacy Paradox for Location Tracking in Mobile Social Networking Apps: The Perspectives of Behavioral Reasoning and Regulatory Focus, _Technological Forecasting & Social Change_, 190, 122412. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2023.122412)
+    * ESI Highly Cited Paper in Social Science General, March 2024
 * Qian, L.* & Zhang, C. (2023). Complementary or Congruent? The Effect of Hosting Tesla Charging Stations on Hotels’ Revenue, _Journal of Travel Research_, 62(3), 663–684. (ABS4, ABDC-A*). [DOI](https://doi.org/10.1177/00472875221093017)
 * Qian, L., Yin, J., Huang, Y. & Liang, Ya. (2023). The Role of Values and Ethics in Influencing Consumers’ Intention to Use Autonomous Vehicle Hailing Services, _Technological Forecasting & Social Change_, 188, 122267. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.techfore.2022.122267)
 * Li, D., Pang, Z. & Qian, L. (2023). Bid Price Controls for Car Rental Network Revenue Management, _Production and Operations Management_, 32(1), 261-282. (UTD-24, FT-50, ABS4, ABDC-A*). [DOI](https://doi.org/10.1111/poms.13836)
