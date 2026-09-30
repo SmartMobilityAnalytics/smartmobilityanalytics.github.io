@@ -56,7 +56,8 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://scholar.xjtlu.edu.cn/en/persons/YangLu/)|Assistant Professor|Adoption of new technologies
 <img src="https://github.com/user-attachments/assets/de268637-936c-45ec-8102-badacdbcc92c" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
 <img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
-<img src="https://scholar.xjtlu.edu.cn/files-asset/66189966/_20260819003739_201_7.jpg" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
+<img src="https://github.com/user-attachments/assets/c3c0ccbe-9267-4818-bd08-8aedf1bba526" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
+
 
 
 
@@ -105,7 +106,8 @@ Name |	Organization
 <img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| IT Innovation Division of National Innovation Center - Yangtze Delta 
 <img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| Geely Group
 <img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| iMotion Automotive Technology (Suzhou) Co., Ltd.
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/KnUXHCdSxI3IMlmcXZV6KulnYodD4VNDNdbgjX8ia7pJJ3okJ0G92BwuDjjjCKJtibvC9LGfm6z9kW06o5cB2rhg/640?wx_fmt=png&tp=webp&wxfrom=10005&wx_lazy=1#imgIndex=4" width="100" ><br/> Jun Tong| TELD New Energy Co. Ltd.
+<img src="https://github.com/user-attachments/assets/529efcb4-d1e7-468c-91fd-da1cabab7deb" width="100" ><br/> Jun Tong| TELD New Energy Co. Ltd.
+
 
 
 ### PhD Students and Postdoc Researchers
