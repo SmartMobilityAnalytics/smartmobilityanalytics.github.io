@@ -56,7 +56,7 @@ Name |	Academic position	| Research expertise
 <img src="https://user-images.githubusercontent.com/90227575/165087186-a3fe7755-4178-477f-b294-e672bcee17f6.png" width="100"  ><br/> [Yang Lu](https://scholar.xjtlu.edu.cn/en/persons/YangLu/)|Assistant Professor|Adoption of new technologies
 <img src="https://github.com/user-attachments/assets/de268637-936c-45ec-8102-badacdbcc92c" width="100"><br/> [Zhe Lin](https://scholar.xjtlu.edu.cn/en/persons/ZheLin) | Assistant Professor | Two-side Market, Causal Inference
 <img src="https://github.com/user-attachments/assets/3e5fd134-2876-4644-acfb-2f5c6aa12aee" width="100"><br/> [Gengyang Tu](https://scholar.xjtlu.edu.cn/en/persons/GengyangTu) |Assistant Professor |Applied econometrics, Environmental and resource economics
-<img src="https://scholar.xjtlu.edu.cn/files-asset/58093494/photo_Z_Z.jpg" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
+<img src="https://scholar.xjtlu.edu.cn/files-asset/66189966/_20260819003739_201_7.jpg" width="100"><br/> [Zheng Zhang](https://scholar.xjtlu.edu.cn/en/persons/ZhengZhang) |Assistant Professor | Marketing, social media analytics, transportation, data mining, and AI
 
 
 
@@ -77,7 +77,7 @@ Name |	Academic position	| Research expertise
 
 Name |	Academic position	| Institution 
 -----|---------------------------|-------------------
-<img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://krannert.purdue.edu/faculty/zpang/)	|Lewis B. Cullman Rising Star Professor of Management|	Purdue University, USA
+<img src="https://user-images.githubusercontent.com/90227575/152155838-bc53ae1c-7bc7-4438-b3e7-91bd8a10c866.png" width="100"  ><br/>[Zhan Pang](https://business.purdue.edu/directory/bio.php?username=zpang)	|Professor of Management|	Purdue University, USA
 <img src="https://user-images.githubusercontent.com/90227575/152156010-1689fb90-4746-41ff-91d2-317e05221b5e.png" width="100" ><br/>[Dong Li](https://www.lancaster.ac.uk/lums/people/dong-li)	|Professor of Operational Research|Lancaster University, UK
 <img src="https://user-images.githubusercontent.com/90227575/165087002-13ae7fa5-8b49-4117-8dec-4b8117fcac05.png" width="100"  ><br/> Didier Soopramanien | Associate Professor in Marketing | Beijing Foreign Studies University, China
 <img src="https://user-images.githubusercontent.com/90227575/152156061-e3b9f2e0-6a13-4450-b647-5f7e742a9ba7.png" width="100" ><br/>[David Tyfield](https://www.lancaster.ac.uk/lec/about-us/people/david-tyfield)|Professor in Sustainable Transitions and Political Economy|Lancaster University, UK	
@@ -105,6 +105,7 @@ Name |	Organization
 <img src="https://user-images.githubusercontent.com/90227575/152154974-3a2b31f0-8c4e-4ab2-a948-78064a6537a7.png" width="100"  ><br/> Guoquan Liu| IT Innovation Division of National Innovation Center - Yangtze Delta 
 <img src="https://user-images.githubusercontent.com/90227575/165054634-8e7fab6d-de04-4a58-84d4-c01c7faff8d7.png" width="100"  ><br/> Yongtao Chen| Zeekr Group
 <img src="https://user-images.githubusercontent.com/90227575/176365205-f1c65042-de59-4c39-b38f-2668d60984dc.png" width="100" ><br/> Qiu Chun| iMotion Automotive Technology (Suzhou) Co., Ltd.
+<img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F1018%2F4ee02ef5j00r15m1h001kc000lm00edm.jpg" width="100" ><br/> Jun Tong| TELD New Energy Co. Ltd.
 
 
 
@@ -112,6 +113,7 @@ Name |	Organization
 
 Name |	Student Type    	| Research Topic 
 -----|--------------------|--------------------
+Liuyi Su | PhD student in Business <br/>(2026 ~ ) | Technology Transfer Strategies and Decision Making
 Xiaofan Chen | Postdoc Researcher <br/>(2025 ~ ) | Adoption of Autonomous Vehicles and other Emerging Technologies
 Yanbo Li | PhD student in Business <br/>(2025 ~ ) | Sustainable Diffusion of New Energy Vehicles 
 Chi Yang | PhD student in Business <br/>(2023 ~ ) | The Economic and Social Impacts of Market-Driven Policies on the Development of the New Energy Vehicle Industry in China 
@@ -154,7 +156,9 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 ## Research Publications
 ### 2026
-* Yang, C., Qian, L., & Liu, M. (2026). Impact of Government Policies on the Electric Vehicle Industry, Environment, and Society: A Systematic Review. _Technology in Society_, 85, 103226. [DOI](https://doi.org/10.1016/j.techsoc.2026.103226)
+* Liang, Y., Qian, L., Lu, Y., & Bektaş, T. (2026). Understanding Consumer Acceptance of Autonomous Delivery Services: The Asymmetric Roles of Technology Readiness in Dual-Valence Behavioral Reasoning. _Transportation Research Part F: Traffic Psychology and Behaviour_, 122, 103794 (ABDC-A) [DOI](https://doi.org/10.1016/j.trf.2026.103794)
+* Chen, X. & Qian, L. (2026). Too Similar to Choose From: A Mixed-Methods Study on Consumer Response to Market Homogeneity in China’s Electric Vehicle Sector, _Transport Policy_, 187, 104316 (ABS 2, ABDC-A, CAS-Q1) [DOI](https://doi.org/10.1016/j.tranpol.2026.104316)
+* Yang, C., Qian, L., & Liu, M. (2026). Impact of Government Policies on the Electric Vehicle Industry, Environment, and Society: A Systematic Review. _Technology in Society_, 85, 103226. (ABS 2, ABDC-A, CAS-Q1) [DOI](https://doi.org/10.1016/j.techsoc.2026.103226)
 * Huang, Y., Qian, L., & Song, J. (2026). When service process contradicts service outcome: spillover effect of users’ perceptions in the case of robotaxi service encounters. _Journal of Business Research_, 206, 115954. (ABS3, ABDC-A, CAS-Q1). [DOI](https://doi.org/10.1016/j.jbusres.2025.115954)
 * Yang, C., Qian, L. & Liu, M. (2026). Configurational Impacts of Government Policies on Electric Vehicle Diffusion: A Global Analysis, _Transportation Research Part D: Transport and Environment_, 151, 105144. (ABS3, ABDC-A, CAS-Q1). [DOI](https://doi.org/10.1016/j.trd.2025.105144)
 
@@ -163,6 +167,7 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 * Huang, Y.， & Qian, L. (2025). Consumer Preferences and Willingness to Pay for Data Privacy in Automated Vehicles, _Transportation Research Part A: Policy & Practice_, 199, 104585 (ABS 3, ABDC-A*). [DOI](https://doi.org/10.1016/j.tra.2025.104585)
 * Yin, J., Hua, X., Qian, L. & Shang, P. (2025). The double-edged sword effect of perceived corporate environmental policy (CEP): How perceived CEP encourages and hinders employee green behavior, _Journal of Business Research_, 199, 115555. (ABS3, ABDC-A). [DOI](https://doi.org/10.1016/j.jbusres.2025.115555)
 * Huang, Y., Qian, L. & Tu, H. (2025). When Social Media Exposure Backfires on Travel: The Role of Social Media–Induced Travel Anxiety, _Tourism Management_, 110, 105163 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2025.105163)
+** ESI Highly Cited Paper, May 2026
 * Huang, Y., Wu, W. & Qian, L. (2025). Implicit versus explicit? How Different Self-presentations of Luxury Tourism Experience Induce Others’ Value Co-destruction Intention in Online Travel Communities, _Tourism Management_, 107, 105088 (ABS4, ABDC-A*). [DOI](https://doi.org/10.1016/j.tourman.2024.105058)
 
 ### 2024
@@ -231,6 +236,9 @@ Youlin Huang  | MRes Management student <br/>(2016~2017) | Adoption Preference f
 
 Year and Month | News  | Additional Link
 -----|---------------------------|-------------------
+08/2026 | [西浦国际商学院赴成都特来电参访交流 共探智慧能源与车网互动创新合作](https://mp.weixin.qq.com/s/q7WazJbomQ_iMU3KJ4CqwQ) | [IBSS News](https://mp.weixin.qq.com/s/q7WazJbomQ_iMU3KJ4CqwQ?scene=1)
+06/2026 | [问道出海・智领全球 ——IBSS 苏州高管论坛共探汽车产业全球化新路径](https://mp.weixin.qq.com/s/sClpu9rFS560yA6ZF1eocw) | [IBSS News](https://mp.weixin.qq.com/s/sClpu9rFS560yA6ZF1eocw)
+04/2026 | [IBSS博士学子故事｜杨驰：用热爱在政策与创新的学术路上笃定前行](https://mp.weixin.qq.com/s/gDX0tVG2WPm2jfwr_Bk7XQ) | [IBSS News](https://mp.weixin.qq.com/s/gDX0tVG2WPm2jfwr_Bk7XQ)
 04/2026 | [西浦博士生论文获得MSI2026国际会议优秀论文二等奖](https://mp.weixin.qq.com/s/IJv958VslBFfJbYtpPs2uw) | [SMAC News](https://mp.weixin.qq.com/s/IJv958VslBFfJbYtpPs2uw)
 03/2026 |[IBSS研究提出电动汽车政策有效性框架，解码全球产业发展逻辑](https://mp.weixin.qq.com/s/OiHC0V0fqarrXxbYwNzH3Q )<br/>[New EV Policy Effectiveness Research from IBSS](https://www.xjtlu.edu.cn/en/news/2026/03/ibss-develops-ev-policy-effectiveness-framework-to-decipher-global-industry-logic)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2026/03/ibss-develops-ev-policy-effectiveness-framework-to-decipher-global-industry-logic ); [IBSS News](https://mp.weixin.qq.com/s/OiHC0V0fqarrXxbYwNzH3Q )
 02/2026 |[IBSS研究揭示自动驾驶出租车服务互动中的用户感知溢出效应 破解服务流程与结果相悖难题](https://mp.weixin.qq.com/s/wt3K-YhojbXkWbqee3qMHA)<br/>[Robotaxi Service Contradictions: IBSS Professor Qian’s Team Deciphers User Perceptions](https://www.xjtlu.edu.cn/en/news/2026/02/robotaxi-service-contradictions-ibss-professor-qians-team-deciphers-user-perceptions)|[XJTLU News in English](https://www.xjtlu.edu.cn/en/news/2026/02/robotaxi-service-contradictions-ibss-professor-qians-team-deciphers-user-perceptions); [IBSS News](https://mp.weixin.qq.com/s/wt3K-YhojbXkWbqee3qMHA)
@@ -272,6 +280,10 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
+2026 | August | [https://mp.weixin.qq.com/s/e9KJnIJM8qcOoYr3tt-rFQ](https://mp.weixin.qq.com/s/e9KJnIJM8qcOoYr3tt-rFQ)
+2026 | July | [https://mp.weixin.qq.com/s/wC4wlUQINu19Whv1kAiAkg](https://mp.weixin.qq.com/s/wC4wlUQINu19Whv1kAiAkg)
+2026 | June | [https://mp.weixin.qq.com/s/ZmMIN92X58irYidAUlOYYg](https://mp.weixin.qq.com/s/ZmMIN92X58irYidAUlOYYg)
+2026 | May | [https://mp.weixin.qq.com/s/TcGfdZqKTvTZg2R21O3m7Q](https://mp.weixin.qq.com/s/TcGfdZqKTvTZg2R21O3m7Q)
 2026 | April | [https://mp.weixin.qq.com/s/mna3HOdzBoyfr27dhOGbEA](https://mp.weixin.qq.com/s/mna3HOdzBoyfr27dhOGbEA)
 2026 | March | [https://mp.weixin.qq.com/s/E_jeuYAcvkkVC2pTwdynXw](https://mp.weixin.qq.com/s/E_jeuYAcvkkVC2pTwdynXw)
 2026 | February | [https://mp.weixin.qq.com/s/OYa6hBkzQZbraCJrSnG7Ag](https://mp.weixin.qq.com/s/OYa6hBkzQZbraCJrSnG7Ag)
