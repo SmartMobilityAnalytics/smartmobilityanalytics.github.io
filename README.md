@@ -282,10 +282,11 @@ Year and Month | News  | Additional Link
 
 Year  | Month  | Newsletter Link
 -----|---------------------------|-------------------
-2026 | August | [https://mp.weixin.qq.com/s/e9KJnIJM8qcOoYr3tt-rFQ](https://mp.weixin.qq.com/s/e9KJnIJM8qcOoYr3tt-rFQ)
-2026 | July | [https://mp.weixin.qq.com/s/wC4wlUQINu19Whv1kAiAkg](https://mp.weixin.qq.com/s/wC4wlUQINu19Whv1kAiAkg)
-2026 | June | [https://mp.weixin.qq.com/s/ZmMIN92X58irYidAUlOYYg](https://mp.weixin.qq.com/s/ZmMIN92X58irYidAUlOYYg)
-2026 | May | [https://mp.weixin.qq.com/s/TcGfdZqKTvTZg2R21O3m7Q](https://mp.weixin.qq.com/s/TcGfdZqKTvTZg2R21O3m7Q)
+2026 | September | [https://mp.weixin.qq.com/s/e9KJnIJM8qcOoYr3tt-rFQ](https://mp.weixin.qq.com/s/e9KJnIJM8qcOoYr3tt-rFQ)
+2026 | August | [https://mp.weixin.qq.com/s/wC4wlUQINu19Whv1kAiAkg](https://mp.weixin.qq.com/s/wC4wlUQINu19Whv1kAiAkg)
+2026 | July | [https://mp.weixin.qq.com/s/ZmMIN92X58irYidAUlOYYg](https://mp.weixin.qq.com/s/ZmMIN92X58irYidAUlOYYg)
+2026 | June | [https://mp.weixin.qq.com/s/TcGfdZqKTvTZg2R21O3m7Q](https://mp.weixin.qq.com/s/TcGfdZqKTvTZg2R21O3m7Q)
+2026 | May | [https://mp.weixin.qq.com/s/ciu6Kt9PrwG-5oxCxrLTiQ](https://mp.weixin.qq.com/s/ciu6Kt9PrwG-5oxCxrLTiQ)
 2026 | April | [https://mp.weixin.qq.com/s/mna3HOdzBoyfr27dhOGbEA](https://mp.weixin.qq.com/s/mna3HOdzBoyfr27dhOGbEA)
 2026 | March | [https://mp.weixin.qq.com/s/E_jeuYAcvkkVC2pTwdynXw](https://mp.weixin.qq.com/s/E_jeuYAcvkkVC2pTwdynXw)
 2026 | February | [https://mp.weixin.qq.com/s/OYa6hBkzQZbraCJrSnG7Ag](https://mp.weixin.qq.com/s/OYa6hBkzQZbraCJrSnG7Ag)
