@@ -1,6 +1,5 @@
-# Smart Mobility Analytics Center (SMAC) of IBSS at XJTLU
-# 西浦智慧出行分析研究中心
 
+<img width="1080" height="409" alt="image" src="https://github.com/user-attachments/assets/50d3625c-bf2c-4ba4-8f6d-1d45b6d88b29" />
 
 
 ## Vision
